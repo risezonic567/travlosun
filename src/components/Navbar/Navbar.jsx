@@ -158,9 +158,9 @@ const Navbar = () => {
             <NavLink to="/destination">
               <li className="hover:text-Secondary">Destination</li>
             </NavLink>
-            <NavLink to="/">
+            {/* <NavLink to="/">
               <li className="hover:text-Secondary">Tours</li>
-            </NavLink>
+            </NavLink> */}
             <li
               className="relative group"
               onMouseEnter={() => setActiveDropdown("cabin")}
@@ -176,7 +176,7 @@ const Navbar = () => {
             <NavLink to="/">
               <li className="hover:text-Secondary">Blog</li>
             </NavLink>
-            <NavLink to="/">
+            <NavLink to="/contact-us">
               <li className="hover:text-Secondary">Contact</li>
             </NavLink>
           </ul>

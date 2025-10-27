@@ -1,20 +1,24 @@
 import React, { useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import destinations from "../data/destinations.json";
+import BookingForm from "../components/BookingForm";
+import BookingModal from "../components/BookingModal";
 
 export default function DestinationDetail() {
-    const { slug } = useParams();
-    const destination = destinations.find((d) => d.slug === slug);
+    const { id, slug } = useParams();
+    const destination = destinations.find((d) => d.id === id);
+    const pkg = destination?.packages.find((p) => p.slug === slug);
     const [selectedImage, setSelectedImage] = useState(null);
     const [mainImgLoaded, setMainImgLoaded] = useState(false);
+    const [showBooking, setShowBooking] = useState(false);
 
-    if (!destination)
-        return <div className="p-8 text-center">Destination not found.</div>;
+    if (!pkg)
+        return <div className="p-12 text-center text-gray-600">Package not found.</div>;
 
     const priceNumber =
-        typeof destination.price === "number"
-            ? destination.price
-            : parseFloat(String(destination.price).replace(/[^\d.-]+/g, "")) || 0;
+        typeof pkg.price === "number"
+            ? pkg.price
+            : parseFloat(String(pkg.price).replace(/[^\d.-]+/g, "")) || 0;
     const formattedPrice = new Intl.NumberFormat("en-IN", {
         style: "currency",
         currency: "INR",
@@ -35,8 +39,8 @@ export default function DestinationDetail() {
                     {/* Hero / cover */}
                     <div className="relative rounded-2xl overflow-hidden shadow-lg">
                         <img
-                            src={destination.coverimg}
-                            alt={destination.title}
+                            src={pkg.coverimg}
+                            alt={pkg.title}
                             loading="lazy"
                             onLoad={() => setMainImgLoaded(true)}
                             className={`w-full h-72 md:h-96 object-cover transition-opacity duration-300 ${mainImgLoaded ? "opacity-100" : "opacity-0"
@@ -48,17 +52,17 @@ export default function DestinationDetail() {
                         <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
                         <div className="absolute bottom-4 left-4 text-white">
                             <h1 className="text-2xl md:text-3xl font-bold leading-tight">
-                                {destination.title}
+                                {pkg.title}
                             </h1>
                             <p className="text-sm md:text-base opacity-90">
-                                {destination.locationName}
+                                {pkg.locationName}
                             </p>
                         </div>
                     </div>
 
                     {/* Description */}
                     <div className="prose max-w-none text-gray-700">
-                        <p>{destination.description}</p>
+                        <p>{pkg.description}</p>
                     </div>
 
                     {/* Includes / Not included */}
@@ -66,7 +70,7 @@ export default function DestinationDetail() {
                         <div>
                             <h3 className="text-lg font-semibold mb-2">Price Includes</h3>
                             <ul className="space-y-2">
-                                {destination.priceIncludes.map((item, i) => (
+                                {pkg.priceIncludes.map((item, i) => (
                                     <li key={i} className="flex items-start gap-3 text-gray-700">
                                         <svg
                                             className="w-5 h-5 text-teal-600 flex-shrink-0"
@@ -89,7 +93,7 @@ export default function DestinationDetail() {
                         <div>
                             <h3 className="text-lg font-semibold mb-2">Not Included</h3>
                             <ul className="space-y-2">
-                                {destination.notIncluded?.map((item, i) => (
+                                {pkg.notIncluded?.map((item, i) => (
                                     <li key={i} className="flex items-start gap-3 text-gray-700">
                                         <svg
                                             className="w-5 h-5 text-red-500 flex-shrink-0"
@@ -106,7 +110,7 @@ export default function DestinationDetail() {
                                         <span>{item}</span>
                                     </li>
                                 )) ||
-                                    (destination.departureAndReturnLocation || []).map(
+                                    (pkg.departureAndReturnLocation || []).map(
                                         (item, i) => (
                                             <li
                                                 key={i}
@@ -136,7 +140,7 @@ export default function DestinationDetail() {
                     <div>
                         <h3 className="text-lg font-semibold mb-3">Gallery</h3>
                         <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-                            {destination.gallery.map((img) => (
+                            {pkg.gallery.map((img) => (
                                 <button
                                     key={img.id}
                                     onClick={() => setSelectedImage(img.img)}
@@ -145,7 +149,7 @@ export default function DestinationDetail() {
                                 >
                                     <img
                                         src={img.img}
-                                        alt={img.alt || destination.title}
+                                        alt={img.alt || pkg.title}
                                         loading="lazy"
                                         className="w-full h-32 md:h-40 object-cover transform transition-transform duration-200 hover:scale-105"
                                     />
@@ -159,8 +163,8 @@ export default function DestinationDetail() {
                         <h3 className="text-lg font-semibold mb-3">Location</h3>
                         <div className="relative w-full" style={{ paddingTop: "56.25%" }}>
                             <iframe
-                                title={`${destination.title} map`}
-                                src={destination.mapLocation}
+                                title={`${pkg.title} map`}
+                                src={pkg.mapLocation}
                                 loading="lazy"
                                 className="absolute inset-0 w-full h-full border-0 rounded-lg"
                                 referrerPolicy="no-referrer-when-downgrade"
@@ -182,16 +186,21 @@ export default function DestinationDetail() {
                                 </div>
                             </div>
                             <div className="text-sm text-gray-500 text-right">
-                                <div>{destination.duration || "—"} days</div>
+                                <div>{pkg.duration || "—"} days</div>
                                 <div className="text-xs mt-1 text-gray-400">
-                                    {destination.groupSize ? `${destination.groupSize} people` : ""}
+                                    {pkg.groupSize ? `${pkg.groupSize} people` : ""}
                                 </div>
                             </div>
                         </div>
 
                         <div className="mt-4">
                             <button className="w-full bg-teal-600 text-white py-2 rounded-md font-medium hover:bg-teal-700 transition">
-                                Book Now
+                                <button
+                                    onClick={() => setShowBooking(true)}
+                                    className="w-full bg-teal-600 text-white py-2 rounded-md font-medium hover:bg-teal-700 transition"
+                                >
+                                    Book Now
+                                </button>
                             </button>
                             <button className="w-full mt-3 border border-gray-200 py-2 rounded-md text-sm hover:bg-gray-50 transition">
                                 Enquire
@@ -205,7 +214,13 @@ export default function DestinationDetail() {
                     </div>
                 </aside>
             </div>
-
+            {/* Booking Modal */}
+            <BookingModal
+                isOpen={showBooking}
+                onClose={() => setShowBooking(false)}
+                packageName={pkg.title}
+                price={priceNumber}
+            />
             {/* Image modal */}
             {selectedImage && (
                 <div
@@ -233,3 +248,4 @@ export default function DestinationDetail() {
         </div>
     );
 }
+

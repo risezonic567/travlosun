@@ -6,6 +6,10 @@ import About from "../src/pages/About"
 import Footer from "./components/Footer";
 import DestinationDetail from "./pages/DestinationDetail";
 import DestinationList from "./pages/DestinationList";
+import ContactUs from "./pages/Contact";
+import DestinationPackages from "./pages/DestinationPackages";
+import ThankYou from "./pages/ThankYou";
+import BookingStatus from "./components/BookingStatus";
 
 
 function App() {
@@ -22,7 +26,11 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/destination" element={<DestinationList />} />
-        <Route path="/destination/:slug" element={<DestinationDetail />} />
+        <Route path="/destination/:id" element={<DestinationPackages />} />
+        <Route path="/destination/:id/:slug" element={<DestinationDetail />} />
+        <Route path="/contact-us" element={<ContactUs />} />
+        <Route path="/thank-you" element={<ThankYou />} />
+        <Route path="/booking-status" element={<BookingStatus />} />
       </Routes>
       <Footer/>
     </BrowserRouter>

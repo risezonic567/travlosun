@@ -18,10 +18,10 @@ export default function DestinationCard({ destination }) {
             <div className="absolute bottom-4 right-4 bg-teal-500 text-white text-sm px-3 py-1 rounded-full">
                 {destination.toursCount} Tours
             </div>
-            {/* <Link
+            <Link
                 to={`/destination/${destination.slug}`}
                 className="absolute inset-0"
-            ></Link> */}
+            ></Link>
         </div>
     );
 }
