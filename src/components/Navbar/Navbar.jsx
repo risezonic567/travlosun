@@ -156,7 +156,7 @@ const Navbar = () => {
             </li> */}
 
             <NavLink to="/destination">
-              <li className="hover:text-Secondary">Destination</li>
+              <li className="hover:text-Secondary">Holidays</li>
             </NavLink>
             {/* <NavLink to="/">
               <li className="hover:text-Secondary">Tours</li>

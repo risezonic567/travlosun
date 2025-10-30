@@ -15,24 +15,26 @@ import BookingStatus from "./components/BookingStatus";
 function App() {
   return (
     <BrowserRouter>
-    <Navbar/>
+      <Navbar />
       <Routes>
         {/* <Route path="/" element={<Rooms />} /> */}
         {/* <Route path="/rooms/:slug" element={<RoomDetail />} />
         <Route path="/payment-success" element={<PaymentSuccess />} /> */}
         {/* <Route path="/booking-success/:bookingId" element={<BookingSuccess />} />
         <Route path="/admin/bookings" element={<AdminBookings />} /> */}
-        
+
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/destination" element={<DestinationList />} />
-        <Route path="/destination/:id" element={<DestinationPackages />} />
-        <Route path="/destination/:id/:slug" element={<DestinationDetail />} />
+        <Route path="/destination/:slug" element={<DestinationPackages />} />
+        {/* <Route path="/destination/:slug/:packageSlug" element={<DestinationDetail />} /> */}
+        <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} />
+
         <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/booking-status" element={<BookingStatus />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </BrowserRouter>
   );
 }

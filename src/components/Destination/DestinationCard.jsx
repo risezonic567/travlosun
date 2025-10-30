@@ -11,7 +11,7 @@ export default function DestinationCard({ destination }) {
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
             <div className="absolute bottom-4 left-4 text-white">
                 <h4 className="text-sm font-semibold text-yellow-400">
-                    {destination.locationName}
+                    {destination.country}
                 </h4>
                 <h2 className="text-2xl font-bold">{destination.title}</h2>
             </div>
