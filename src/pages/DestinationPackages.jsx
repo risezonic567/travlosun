@@ -5,9 +5,13 @@ import Herosection from "../components/Destination/Herosection";
 export default function DestinationPackages() {
     const { slug } = useParams();
 
-    // Find the selected country by its slug
+    // Helper function to normalize slugs
+    const normalizeSlug = (str = "") =>
+        str.toLowerCase().replace(/&/g, "and").replace(/\s+/g, "-");
+
+    // Find country by slug
     const country = destinations.find(
-        (c) => c.slug.toLowerCase() === slug.toLowerCase()
+        (c) => normalizeSlug(c.slug) === normalizeSlug(slug)
     );
 
     if (!country) {
@@ -22,21 +26,25 @@ export default function DestinationPackages() {
         <>
             <Herosection />
             <div className="max-w-6xl mx-auto px-4 py-16">
-                <Link to="/destination" className="text-teal-600 hover:underline mb-4 block">
+                <Link
+                    to="/destination"
+                    className="text-teal-600 hover:underline mb-4 block"
+                >
                     ← Back to Destinations
                 </Link>
 
                 <div className="mb-10 text-center">
-                    <h1 className="text-4xl font-bold text-gray-800">{country.country}</h1>
+                    <h1 className="text-4xl font-bold text-gray-800">
+                        {country.country}
+                    </h1>
                     <p className="text-gray-600 mt-2">{country.description}</p>
                 </div>
 
-                {/* Show all states under the selected country */}
+                {/* List all states */}
                 <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     {country.state.map((st) => (
                         <Link
-                            // 👇 route to detail page (country + state)
-                            to={`/destination/${country.slug}/${st.slug}`}
+                            to={`/destination/${normalizeSlug(country.slug)}/${normalizeSlug(st.slug)}`}
                             key={st.id}
                             className="group rounded-xl overflow-hidden shadow hover:shadow-lg transition"
                         >

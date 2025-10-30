@@ -27,9 +27,7 @@ function App() {
         <Route path="/about-us" element={<About />} />
         <Route path="/destination" element={<DestinationList />} />
         <Route path="/destination/:slug" element={<DestinationPackages />} />
-        {/* <Route path="/destination/:slug/:packageSlug" element={<DestinationDetail />} /> */}
         <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} />
-
         <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/booking-status" element={<BookingStatus />} />
