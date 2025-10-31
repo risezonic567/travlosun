@@ -8,14 +8,14 @@ export default function GettoKnow() {
 
             <section className='relative h-[700px] py-16 px-6 lg:px-24'>
                 <div className=' absolute inset-0 opacity-35 bg-cover bg-center bg-no-repeat ' style={{
-                    backgroundImage: "url('https://i.postimg.cc/Y2TRf5K7/Background-image.jpg')"
+                    backgroundImage: "url('https://i.postimg.cc/nVGkwPnG/Background-image-1.jpg')"
                 }} >
 
                 </div>
                 <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
                     {/* Left Image */}
                     <div className="relative">
-                        
+
                         <img
                             src="https://i.postimg.cc/XNtLcRSM/Explore-all-our-tour.png"
                             alt="Traveler"
@@ -27,17 +27,15 @@ export default function GettoKnow() {
                     <div>
                         <p className="text-teal-600 font-medium mb-2">Get To Know Us</p>
                         <h2 className="text-4xl font-bold mb-4">
-                            Explore All Tour Of The World With Us.
+                            Explore Stunning Destinations Across the Globe with Travel O Sun
+
                         </h2>
                         <p className="text-gray-600 mb-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat.
+                            Discover the world in a way you have never imagined with Travel O Sun's international travel packages that are designed around comfort, adventure, and budget. Whether it is the romantic appeal of Paris, tropical tranquility in Bali, or the sparkling excitement of Dubai,
                         </p>
                         <p className="text-gray-600 mb-6">
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                            officia deserunt mollit anim id est laborum.
+                          we provide you with the best international holiday packages at the most affordable prices. Let us make your world travel dreams come true and turn them into memories that last a lifetime—we plan it perfectly every time!
+
                         </p>
 
                         {/* Features */}

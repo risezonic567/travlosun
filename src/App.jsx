@@ -10,6 +10,8 @@ import ContactUs from "./pages/Contact";
 import DestinationPackages from "./pages/DestinationPackages";
 import ThankYou from "./pages/ThankYou";
 import BookingStatus from "./components/BookingStatus";
+import PackagesList from "./pages/Pakageslist";
+import PackageDetail from "./pages/PackageDetail";
 
 
 function App() {
@@ -28,6 +30,8 @@ function App() {
         <Route path="/destination" element={<DestinationList />} />
         <Route path="/destination/:slug" element={<DestinationPackages />} />
         <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} />
+        <Route path="/packages" element={<PackagesList />} />
+        <Route path="/packages/:slug" element={<PackageDetail />} />
         <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/booking-status" element={<BookingStatus />} />

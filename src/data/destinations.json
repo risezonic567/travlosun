@@ -11,7 +11,7 @@
                 "id": "kerala",
                 "slug": "Kerala",
                 "state": "Kerala",
-                "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
                 "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
                 "packages": [
                     {
@@ -43,8 +43,8 @@
                             "og:type": "website"
                         },
                         "description": "Immerse yourself in Kerala’s peaceful beauty — from misty hill stations in Munnar to tranquil houseboat cruises in Alleppey. Enjoy authentic cuisine, Ayurveda therapy, and cultural richness.",
-                        "coverimg": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
-                        "img": "https://www.example.com/images/kerala-thumb.jpg",
+                        "coverimg": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
+                        "img": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
                         "price": "12,500",
                         "priceIncludes": [
                             "Air Fares",
@@ -61,17 +61,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending7.jpg",
+                                "img": "https://i.postimg.cc/5NPbgdpv/kerala-1.jpg",
                                 "alt": "Kerala Backwaters"
                             },
                             {
                                 "id": 2,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending8.jpg",
+                                "img": "https://i.postimg.cc/VL7mgQ4t/kerala-2.jpg",
                                 "alt": "Munnar Hills"
                             },
                             {
                                 "id": 3,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending9.jpg",
+                                "img": "https://i.postimg.cc/3JLY1592/kerala-4.jpg",
                                 "alt": "Alleppey Houseboat"
                             }
                         ],
@@ -164,6 +164,559 @@
                         "days": "4 Days",
                         "nights": "3 Nights",
                         "totalReview": "289",
+                        "ratingStar": "4.9"
+                    }
+                ]
+            },
+            {
+                "id": "manali-kasol",
+                "slug": "manali-kasol",
+                "state": "Himachal Pradesh",
+                "category": "Domestic",
+                "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+                "description": "Discover the snow-capped peaks and vibrant cafes of Manali and Kasol — a perfect mix of adventure and serenity.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Manali Kasol Adventure Escape",
+                        "slug": "manali-kasol-adventure-escape",
+                        "metatitle": "Manali Kasol Adventure Escape | Himachal Tour 2025",
+                        "metadescription": "Explore the Himalayan beauty of Manali and Kasol with scenic views, local cafes, treks, and river adventures.",
+                        "metacanonical": "https://www.example.com/destinations/manali-kasol-adventure-escape",
+                        "metakeywords": "Manali travel, Kasol trip, Himachal adventure, Parvati Valley, India Himalaya",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Manali Kasol Adventure Escape",
+                            "description": "Experience the charm of Manali and Kasol with trekking, hot springs, and the beauty of Parvati Valley.",
+                            "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.8",
+                                "reviewCount": "415"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Manali Kasol Adventure Escape",
+                            "og:description": "A scenic getaway through Himachal’s most loved destinations — Manali and Kasol.",
+                            "og:image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
+                            "og:type": "website"
+                        },
+                        "description": "Unwind amidst the serene Himalayan landscapes of Manali and Kasol. Enjoy the Parvati Valley trek, visit local cafes, soak in the hot springs of Manikaran, and experience Himachal’s unique culture.",
+                        "coverimg": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1584605471686-99bcec8ef8d5?auto=format&fit=crop&w=800&q=80",
+                        "price": "9,999",
+                        "priceIncludes": [
+                            "Travel & Transfers",
+                            "3 Nights Hotel Accommodation",
+                            "Daily Breakfast & Dinner",
+                            "Sightseeing Tours"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Delhi Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1611080626919-7c9c6b98e9cc?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Manali Mountains"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Kasol Village"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1625736385828-52d69f96455c?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Parvati Valley"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.410524674825!2d77.18876831513064!3d32.23963218114955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390487bcb226a937%3A0x9b7b078f479eecfd!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Adventure, Nature, Mountains",
+                        "locationName": "Manali & Kasol, Himachal Pradesh, India",
+                        "days": "4 Days",
+                        "nights": "3 Nights",
+                        "totalReview": "415",
+                        "ratingStar": "4.8"
+                    }
+                ]
+            },
+            {
+                "id": "chopta-auli-rishikesh",
+                "slug": "chopta-auli-rishikesh",
+                "state": "Uttarakhand",
+                "category": "Domestic",
+                "image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                "description": "From the meadows of Chopta to the snowfields of Auli and spiritual ghats of Rishikesh — explore Uttarakhand’s best trio.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Chopta Auli Rishikesh Journey",
+                        "slug": "chopta-auli-rishikesh-journey",
+                        "metatitle": "Chopta Auli Rishikesh Tour | Uttarakhand Delight 2025",
+                        "metadescription": "Experience adventure, spirituality, and nature — trek in Chopta, ski in Auli, and meditate in Rishikesh.",
+                        "metacanonical": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
+                        "metakeywords": "Chopta trek, Auli skiing, Rishikesh yoga, Uttarakhand travel",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Chopta Auli Rishikesh Journey",
+                            "description": "Explore Uttarakhand’s spiritual and natural wonders with this 3-night 4-day adventure.",
+                            "image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.7",
+                                "reviewCount": "286"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Chopta Auli Rishikesh Journey",
+                            "og:description": "A perfect Uttarakhand escape — mountains, snow, and sacred rivers.",
+                            "og:image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
+                            "og:type": "website"
+                        },
+                        "description": "Witness the divine charm of Rishikesh, the skiing slopes of Auli, and the green meadows of Chopta. This tour combines adventure, relaxation, and spirituality for a balanced Himalayan retreat.",
+                        "coverimg": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1643477418209-132cbb2dfbd9?auto=format&fit=crop&w=800&q=80",
+                        "price": "10,999",
+                        "priceIncludes": [
+                            "3 Nights Stay",
+                            "Local Transfers",
+                            "Trekking & Skiing",
+                            "Breakfast & Dinner"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Delhi Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1589182337355-b4c4d7a5d5f8?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Chopta Meadows"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1593672715433-0f5c47b6b56a?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Auli Slopes"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Rishikesh Ghat"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3494.395352048266!2d79.58553731512566!3d30.518545181717918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390918a10adf7a87%3A0x2d7919ce3eb3295a!2sAuli%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Adventure, Yoga, Snow",
+                        "locationName": "Chopta, Auli & Rishikesh, Uttarakhand, India",
+                        "days": "4 Days",
+                        "nights": "3 Nights",
+                        "totalReview": "286",
+                        "ratingStar": "4.7"
+                    }
+                ]
+            },
+            {
+                "id": "leh-turtuk",
+                "slug": "leh-to-leh-turtuk-village",
+                "state": "Ladakh",
+                "category": "Domestic",
+                "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                "description": "Journey through Ladakh’s surreal landscapes — from Leh to the remote village of Turtuk near the Indo-Pak border.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Leh to Leh with Turtuk Village",
+                        "slug": "leh-to-leh-turtuk-village",
+                        "metatitle": "Leh to Leh Tour with Turtuk Village | Ladakh Expedition 2025",
+                        "metadescription": "Explore the magic of Ladakh — monasteries, Nubra Valley, Pangong Lake, and the historic village of Turtuk.",
+                        "metacanonical": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
+                        "metakeywords": "Leh Ladakh tour, Turtuk village, Nubra Valley, Pangong Lake, Himalayan travel",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Leh to Leh with Turtuk Village",
+                            "description": "A high-altitude adventure across Ladakh covering Leh, Nubra, Pangong, and Turtuk Village.",
+                            "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.9",
+                                "reviewCount": "512"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Leh to Leh with Turtuk Village",
+                            "og:description": "From Leh to the last village of India — explore the essence of Ladakh.",
+                            "og:image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
+                            "og:type": "website"
+                        },
+                        "description": "An unforgettable 8-day expedition through Ladakh’s stunning mountain passes, monasteries, and the unique Balti culture of Turtuk. Visit Nubra Valley, Pangong Lake, and return to Leh with lifelong memories.",
+                        "coverimg": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1580136657543-3e67e9db60a2?auto=format&fit=crop&w=800&q=80",
+                        "price": "27,999",
+                        "priceIncludes": [
+                            "7 Nights Stay",
+                            "Breakfast & Dinner",
+                            "Transfers in SUV/Tempo",
+                            "Sightseeing & Permits"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Leh Airport Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1534351567171-38d3d43f93b3?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Leh Monastery"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1580136989210-99b2368e1c4e?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Nubra Valley"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1602168231687-35fa9d5d342b?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Turtuk Village"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d373041.3891665927!2d77.35913973730317!3d34.16503368837339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fdeb32e7a7f63b%3A0x6b1b09a936fa83d0!2sLeh%2C%20Ladakh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Adventure, Culture, Mountains",
+                        "locationName": "Leh, Nubra, Turtuk, Pangong - Ladakh, India",
+                        "days": "8 Days",
+                        "nights": "7 Nights",
+                        "totalReview": "512",
+                        "ratingStar": "4.9"
+                    }
+                ]
+            },
+            {
+                "id": "kedarnath-badrinath-tungnath",
+                "slug": "kedarnath-badrinath-tungnath",
+                "state": "Uttarakhand",
+                "category": "Domestic",
+                "image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                "description": "A sacred pilgrimage through the Himalayas — visit Kedarnath, Badrinath, and Tungnath on this divine 8-day journey.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Kedarnath Badrinath Tungnath Yatra",
+                        "slug": "kedarnath-badrinath-tungnath-yatra",
+                        "metatitle": "Kedarnath Badrinath Tungnath Yatra | Spiritual Himalaya Tour 2025",
+                        "metadescription": "Embark on a soul-enriching journey to the most sacred Himalayan temples of Kedarnath, Badrinath, and Tungnath.",
+                        "metacanonical": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
+                        "metakeywords": "Char Dham Yatra, Kedarnath tour, Badrinath travel, Tungnath trek, Uttarakhand pilgrimage",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Kedarnath Badrinath Tungnath Yatra",
+                            "description": "Explore the spiritual heart of the Himalayas in this 8-day divine expedition.",
+                            "image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.8",
+                                "reviewCount": "340"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Kedarnath Badrinath Tungnath Yatra",
+                            "og:description": "An unforgettable spiritual journey through the sacred Himalayas of Uttarakhand.",
+                            "og:image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
+                            "og:type": "website"
+                        },
+                        "description": "A divine journey covering three of the holiest temples in Uttarakhand — Kedarnath, Badrinath, and Tungnath. Experience peace, devotion, and breathtaking mountain beauty on this Himalayan Yatra.",
+                        "coverimg": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1655733155433-8b3c2dfb91a3?auto=format&fit=crop&w=800&q=80",
+                        "price": "22,999",
+                        "priceIncludes": [
+                            "7 Nights Stay",
+                            "Meals & Transfers",
+                            "Darshan Assistance",
+                            "Trek to Tungnath"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Haridwar Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1639551302367-b6f4f24faadf?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Kedarnath Temple"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1624179693783-883bf1184a7b?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Badrinath Temple"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1655830250777-8d4b6d593786?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Tungnath Trail"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.799530010304!2d79.0668960151268!3d30.73471168163348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908c31b6ff4e54b%3A0x8c47a8c493e1227d!2sKedarnath%20Temple!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Pilgrimage, Trekking, Mountains",
+                        "locationName": "Kedarnath, Badrinath & Tungnath, Uttarakhand, India",
+                        "days": "8 Days",
+                        "nights": "7 Nights",
+                        "totalReview": "340",
+                        "ratingStar": "4.8"
+                    }
+                ]
+            },
+            {
+                "id": "spiti-bike-ride",
+                "slug": "Spiti Valley Bike Ride",
+                "state": "Himachal Pradesh",
+                "category": "Adventure",
+                "image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+                "description": "Ride through the rugged terrains and breathtaking landscapes of Spiti Valley on an unforgettable motorbike expedition.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Spiti Valley Bike Ride Expedition",
+                        "slug": "spiti-valley-bike-ride-expedition",
+                        "metatitle": "Spiti Valley Bike Ride Expedition | Himalayan Adventure 2025",
+                        "metadescription": "Join an adrenaline-packed 7N/8D bike adventure through Spiti Valley. Conquer high-altitude passes, explore monasteries, and embrace the thrill of the Himalayas.",
+                        "metacanonical": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
+                        "metakeywords": "Spiti Valley bike trip, Himachal adventure, motorcycle tour India, Himalaya road trip, Spiti biking",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Spiti Valley Bike Ride Expedition",
+                            "description": "An adventurous bike expedition across Spiti Valley’s rugged roads and stunning Himalayan views.",
+                            "image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.9",
+                                "reviewCount": "278"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Spiti Valley Bike Ride Expedition",
+                            "og:description": "A thrilling 8-day motorbike adventure through the majestic Spiti Valley.",
+                            "og:image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
+                            "og:type": "website"
+                        },
+                        "description": "Explore Spiti Valley on two wheels! Ride across Kunzum Pass, visit Key Monastery, camp by Chandratal Lake, and experience the thrill of one of India’s highest altitude motorbike routes.",
+                        "coverimg": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1564999339320-22d89d4363c0?auto=format&fit=crop&w=800&q=80",
+                        "price": "29,999",
+                        "priceIncludes": [
+                            "Royal Enfield Bike & Fuel",
+                            "7 Nights Stay",
+                            "Breakfast & Dinner",
+                            "Backup Vehicle & Mechanic"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Manali Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Riding Gear Rental (Optional)"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1594389288125-79ad18c7b3ff?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Spiti Road Ride"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1625661803072-b00d7c7c2a4a?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Key Monastery"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1615800958382-2e3f857ea2e5?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Chandratal Lake"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Adventure, Bike Ride, Himalayas",
+                        "locationName": "Spiti Valley, Himachal Pradesh, India",
+                        "days": "8 Days",
+                        "nights": "7 Nights",
+                        "totalReview": "278",
+                        "ratingStar": "4.9"
+                    }
+                ]
+            },
+            {
+                "id": "spiti-summer",
+                "slug": "Spiti Valley Summer Expedition",
+                "state": "Himachal Pradesh",
+                "category": "Adventure",
+                "image": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+                "description": "Discover the hidden gem of the Himalayas — Spiti Valley in summer. Experience its unique culture, monasteries, and surreal landscapes.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Spiti Valley Summer Expedition",
+                        "slug": "spiti-valley-summer-expedition",
+                        "metatitle": "Spiti Valley Summer Expedition | Explore the Cold Desert of India",
+                        "metadescription": "A 7N/8D summer adventure through Spiti Valley — explore Key Monastery, Kaza, Tabo, and Chandratal Lake with scenic drives and local homestays.",
+                        "metacanonical": "https://www.example.com/destinations/spiti-valley-summer-expedition",
+                        "metakeywords": "Spiti Valley tour, Spiti summer trip, Himachal tour, Himalayan desert, monastery travel",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Spiti Valley Summer Expedition",
+                            "description": "Explore the best of Spiti in summer — monasteries, lakes, and cultural beauty.",
+                            "image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.8",
+                                "reviewCount": "265"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Spiti Valley Summer Expedition",
+                            "og:description": "A breathtaking summer journey through the heart of the Himalayas — Spiti Valley awaits.",
+                            "og:image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
+                            "og:type": "website"
+                        },
+                        "description": "Travel through the high-altitude cold desert of Spiti in its most vibrant season. Visit Tabo and Dhankar monasteries, enjoy local homestays in Kaza, and capture surreal mountain vistas.",
+                        "coverimg": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+                        "img": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+                        "price": "26,999",
+                        "priceIncludes": [
+                            "7 Nights Accommodation",
+                            "Breakfast & Dinner",
+                            "All Transfers in SUV",
+                            "Local Sightseeing"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Manali or Shimla Start & End",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://i.postimg.cc/02x2y0Xt/spiti-velly-2-psd.jpg",
+                                "alt": "Spiti Villages"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://i.postimg.cc/NfYfjkCd/spiti-velly-3-psd.jpg",
+                                "alt": "Key Monastery"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://i.postimg.cc/tCyC4Nvv/spiti-velly-4-psd.jpg",
+                                "alt": "Chandratal Lake"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Nature, Culture, Adventure",
+                        "locationName": "Spiti Valley, Himachal Pradesh, India",
+                        "days": "8 Days",
+                        "nights": "7 Nights",
+                        "totalReview": "265",
+                        "ratingStar": "4.8"
+                    }
+                ]
+            },
+            {
+                "id": "leh-nubra-pangong",
+                "slug": "Leh Nubra Turtuk Pangong",
+                "state": "Ladakh",
+                "category": "Adventure",
+                "image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+                "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Leh Nubra Turtuk Pangong Expedition",
+                        "slug": "leh-nubra-turtuk-pangong-expedition",
+                        "metatitle": "Leh Nubra Turtuk Pangong Expedition | Explore Ladakh 2025",
+                        "metadescription": "Embark on a 6N/7D journey through the best of Ladakh — Nubra Valley, Turtuk Village, Pangong Lake, and ancient monasteries.",
+                        "metacanonical": "https://www.example.com/destinations/leh-nubra-turtuk-pangong-expedition",
+                        "metakeywords": "Ladakh tour, Pangong Lake trip, Nubra Valley travel, Leh itinerary, Turtuk village",
+                        "metaschema": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristDestination",
+                            "name": "Leh Nubra Turtuk Pangong Expedition",
+                            "description": "An unforgettable journey through Ladakh’s valleys, monasteries, and crystal-blue lakes.",
+                            "image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/leh-nubra-turtuk-pangong-expedition",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.9",
+                                "reviewCount": "352"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Leh Nubra Turtuk Pangong Expedition",
+                            "og:description": "Journey through the most beautiful parts of Ladakh — Leh, Nubra, Turtuk & Pangong.",
+                            "og:image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/leh-nubra-turtuk-pangong-expedition",
+                            "og:type": "website"
+                        },
+                        "description": "A 7-day expedition through the majestic landscapes of Ladakh — explore Nubra’s sand dunes, Turtuk’s culture, and Pangong’s iconic blue waters. Perfect blend of adventure and serenity.",
+                        "coverimg": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+                        "img": "https://images.unsplash.com/photo-1609154982482-8e59cda7f379?auto=format&fit=crop&w=800&q=80",
+                        "price": "27,499",
+                        "priceIncludes": [
+                            "6 Nights Stay",
+                            "Airport Transfers",
+                            "Meals & Sightseeing",
+                            "Inner Line Permits"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Leh Airport Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://images.unsplash.com/photo-1603029207271-89dcb64c4f91?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Pangong Lake"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://images.unsplash.com/photo-1607008759832-bdf4f6613c77?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Nubra Valley"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://images.unsplash.com/photo-1631074105936-2a9ff6ad97ad?auto=format&fit=crop&w=1000&q=80",
+                                "alt": "Turtuk Village"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365499.3299043676!2d77.2954842!3d34.1525884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fd8f67df0848ef%3A0x92cfefdd3cfa1764!2sLeh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+                        "tag": "Adventure, Lakes, Mountains",
+                        "locationName": "Leh, Nubra, Turtuk & Pangong, Ladakh, India",
+                        "days": "7 Days",
+                        "nights": "6 Nights",
+                        "totalReview": "352",
                         "ratingStar": "4.9"
                     }
                 ]

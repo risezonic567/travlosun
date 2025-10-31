@@ -72,7 +72,7 @@ const Navbar = () => {
       {!scrolling && (
         <div className="text-white text-sm w-full md:flex hidden justify-center py-2  bg-primary">
           <div className="w-full max-w-[1320px] flex justify-between items-center px-6 flex-wrap gap-2">
-            <span className="flex items-center gap-x-4" > <FaCalendar/>   Thursday, Mar 26, 2021 <FaLocationDot/>  Hollywood, America  <FaClock/>   Mon-Fri: 10 AM – 5 PM
+            <span className="flex items-center gap-x-4" >  <FaLocationDot /> D448 second floor Shiksha BharatI road ramfal chowk sector7 Dwarka Delhi 110045  <FaClock/>   Mon-Fri: 10 AM – 5 PM
             </span>
             <div className="flex items-center gap-4">
               {/* <span>Phone: Devrana, Delhi-Haridwar Highway, Mansurpur, Muzaffarnagar</span> */}
@@ -155,13 +155,13 @@ const Navbar = () => {
               {activeDropdown === "pilot" && renderDropdown("pilot")}
             </li> */}
 
-            <NavLink to="/destination">
-              <li className="hover:text-Secondary">Holidays</li>
+            <NavLink to="/packages">
+              <li className="hover:text-Secondary">Holidays Destination</li>
             </NavLink>
             {/* <NavLink to="/">
               <li className="hover:text-Secondary">Tours</li>
             </NavLink> */}
-            <li
+            {/* <li
               className="relative group"
               onMouseEnter={() => setActiveDropdown("cabin")}
               onMouseLeave={() => setActiveDropdown(null)}
@@ -171,11 +171,11 @@ const Navbar = () => {
               Services
                 </div>
               </NavLink>
-              {/* {activeDropdown === "cabin" && renderDropdown("cabin")} */}
-            </li>
-            <NavLink to="/">
+              {activeDropdown === "cabin" && renderDropdown("cabin")}
+            </li> */}
+            {/* <NavLink to="/">
               <li className="hover:text-Secondary">Blog</li>
-            </NavLink>
+            </NavLink> */}
             <NavLink to="/contact-us">
               <li className="hover:text-Secondary">Contact</li>
             </NavLink>

@@ -5,8 +5,8 @@ export default function Homeslider() {
 
         { id: 1, name: 'Cruise', image: 'https://i.postimg.cc/kX8cjTqP/Cruise.jpg' },
         { id: 2, name: 'Customized-package', image: 'https://i.postimg.cc/T2KQbRsq/customized-packages.jpg' },
-        { id: 3, name: 'Fixed-departure', image: 'https://i.postimg.cc/zDyphJQL/fixed-departure.jpg' },
-        { id: 4, name: 'Flight', image: 'https://i.postimg.cc/nVXTmHWp/Flight-png.jpg' },
+        { id: 3, name: 'Fixed-Insurance.', image: 'https://i.postimg.cc/zDyphJQL/fixed-departure.jpg' },
+        { id: 4, name: 'Flight  ', image: 'https://i.postimg.cc/nVXTmHWp/Flight-png.jpg' },
         { id: 5, name: 'Holidays', image: 'https://i.postimg.cc/RqrW61Dy/holidays.jpg' },
         { id: 6, name: 'Hotel', image: 'https://i.postimg.cc/0rgzMGB3/hotel.jpg' },
     ]

@@ -176,7 +176,7 @@ export default function DestinationDetail() {
           )}
 
           {/* Map */}
-          {/* {pkg.mapLocation && (
+          {pkg.mapLocation && (
             <div>
               <h3 className="text-lg font-semibold mb-3">Location</h3>
               <div
@@ -194,7 +194,7 @@ export default function DestinationDetail() {
                 />
               </div>
             </div>
-          )} */}
+          )}
         </div>
 
         {/* Sidebar - Price & CTA */}

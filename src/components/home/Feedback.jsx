@@ -14,19 +14,19 @@ export default function Feedback() {
             id: 2,
             title: 'Share Your Travel Locations',
             desc: 'Browse routes, destinations and suggested itineraries with maps and tips.',
-            icon: <span role="img" aria-hidden="true"> <FaLocationPin  /> </span>
+            icon: <span role="img" aria-hidden="true"> <FaLocationPin /> </span>
         },
         {
             id: 3,
             title: 'Share Your Travel Preference',
             desc: 'Confirm bookings, get digital tickets and real-time travel updates.',
-            icon: <span role="img" aria-hidden="true"><FaPersonRays/> </span>
+            icon: <span role="img" aria-hidden="true"><FaPersonRays /> </span>
         },
         {
             id: 4,
             title: 'We are 100% Trusted Tour Agency',
             desc: 'Confirm bookings, get digital tickets and real-time travel updates.',
-            icon: <span role="img" aria-hidden="true"><FaCompass/> </span>
+            icon: <span role="img" aria-hidden="true"><FaCompass /> </span>
         }
     ]
     return (
@@ -38,8 +38,10 @@ export default function Feedback() {
                 {/* #### */}
                 <div className='relative flex-col justify-between space-y-4 text-center my-16 max-w-3xl mx-auto font-serif'>
                     <h3 className=' text-Lightcolor text-2xl font-serif font-semibold '>3 Step of The Perfect Tour</h3>
-                    <h2 className='text-5xl font-serif  font-semibold text-primary ' > <span className='text-gray-800' >Find</span> Travel Perfection</h2>
-                    <p className='text-xl' > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <h2 className='text-5xl font-serif  font-semibold text-primary ' > <span className='text-gray-800' >Discover India’s</span>  Top Holiday Destinations
+                    </h2>
+                    <p className='sm:text-sm text-xl' >Welcome to Travel O Sun, India’s trustworthy domestic travel agency, committed to providing breathtaking journeys. Whether you want a relaxing family holiday, a romantic honeymoon, or an unplanned trip, our holiday packages in India can be designed for every dream and budget for an unforgettable journey. We are experts in domestic flights, tour packages, and hotel bookings so that your trip runs smoothly from beginning to end.
+                    </p>
                 </div>
                 {/* ##### */}
 
