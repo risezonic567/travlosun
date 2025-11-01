@@ -13,7 +13,7 @@ import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { ChevronDown } from "lucide-react";
 import { useLocation } from "react-router-dom";
-import logo from "../../images/logo/Logofinal.png"
+import logo from "../../images/logo/Travel o sun logo png.png"
 import { FaCalendar, FaLocationDot } from "react-icons/fa6";
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -72,43 +72,37 @@ const Navbar = () => {
       {!scrolling && (
         <div className="text-white text-sm w-full md:flex hidden justify-center py-2  bg-primary">
           <div className="w-full max-w-[1320px] flex justify-between items-center px-6 flex-wrap gap-2">
-            <span className="flex items-center gap-x-4" >  <FaLocationDot /> D448 second floor Shiksha BharatI road ramfal chowk sector7 Dwarka Delhi 110045  <FaClock/>   Mon-Fri: 10 AM – 5 PM
+            <span className="flex items-center gap-x-4" >  <FaLocationDot />Ramphal Chowk, Dwarka, Sector 7, New Delhi<FaClock />   Mon-Fri: 10 AM – 5 PM
             </span>
             <div className="flex items-center gap-4">
               {/* <span>Phone: Devrana, Delhi-Haridwar Highway, Mansurpur, Muzaffarnagar</span> */}
               <div className="flex gap-3 text-white text-base">
                 <Link
-                  to="https://www.facebook.com/"
+                  to="https://www.facebook.com/travelosunholidays/ "
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaFacebookF />
                 </Link>
                 <Link
-                  to="https://x.com/"
-                  className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
-                >
-                  <FaTwitter />
-                </Link>
-                <Link
-                  to="https://www.linkedin.com/company/"
+                  to=" https://www.linkedin.com/company/travelosun-holidays/"
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaLinkedinIn />
                 </Link>
                 <Link
-                  to="https://www.instagram.com/"
+                  to="https://www.instagram.com/travelosun_holidays/?hl=en "
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaInstagram />
                 </Link>
                 <Link
-                  to="https://in.pinterest.com/"
+                  to="https://in.pinterest.com/Travelosunholidays/"
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaPinterestP />
                 </Link>
                 <Link
-                  to=""
+                  to="https://www.youtube.com/@Travelosun-holidays"
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaYoutube />
@@ -188,9 +182,63 @@ const Navbar = () => {
       </div>
 
       {/* Mobile Navbar */}
-      <div className="w-full md:hidden bg-primary text-white  shadow px-4 py-2">
+      <div className="w-full md:hidden bg-white text-black  shadow px-4 py-2">
         {/* Logo & Menu Button */}
-       
+        <div className="flex items-center justify-between">
+          <NavLink to="/">
+            <img
+              loading="lazy"
+              src={logo}
+              // src="https://i.postimg.cc/qq7R0CjT/PNG-1.png"
+
+              alt="Star Alliance Aviation Academy"
+              className="h-14"
+            />
+          </NavLink>
+          <FaBars
+            size={26}
+            className="cursor-pointer text-Secondary"
+            onClick={() => setMenuOpen(!menuOpen)}
+          />
+        </div>
+
+        {/* Menu Items */}
+        {menuOpen && (
+          <div className="mt-4 animate-slideDown ">
+            <ul className="flex flex-col gap-3 text-base font-medium">
+              {/* About */}
+              <NavLink to="/">
+                <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
+                  Home
+                </li>
+              </NavLink>
+              {/* About */}
+              <NavLink to="/about-us">
+                <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
+                  About Us
+                </li>
+              </NavLink>
+              {/* Pakages  */}
+              <NavLink to="/packages">
+                <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
+                  Holidays Destination
+                </li>
+              </NavLink>
+              {/* Contact */}
+              <NavLink to="/contact-us">
+                <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
+                  Contact Us
+                </li>
+              </NavLink>
+            </ul>
+
+            {/* CTA Button */}
+            <NavLink to="contact-us">  <button className="mt-6 w-full bg-primary text-white font-semibold px-4 py-3 rounded-lg shadow hover:bg-gray-200 transition">
+              Book Packages
+            </button></NavLink>
+          </div>
+        )}
+
       </div>
     </div>
   );

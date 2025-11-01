@@ -1,10 +1,10 @@
 import React from "react";
-import { FaInstagram, FaFacebook, FaTwitter, FaLinkedin, FaCcMastercard, FaCcPaypal, FaCcStripe, FaCcVisa, FaCcDiscover } from "react-icons/fa";
+import { FaInstagram, FaFacebook, FaTwitter, FaLinkedin, FaCcMastercard, FaCcPaypal, FaCcStripe, FaCcVisa, FaCcDiscover, FaYoutube, FaPinterest } from "react-icons/fa";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-import logo from "../images/logo/Logofinal.png"
+import logo from "../images/logo/Travel o sun logo png.png"
 import "../css/footer.css"; // optional custom styles if you want to mimic original look
 
 const instaImages = [
@@ -82,7 +82,7 @@ const Footer = () => {
                     <div className="container mx-auto">
                         <div className="text-center mb-6">
                             <h5 className="inline-flex items-center justify-center bg-white/10 px-4 py-2 rounded-lg text-white text-lg font-semibold">
-                                <FaInstagram className="mr-2 text-pink-500" /> Follow on Instagram
+                                <FaInstagram className="mr-2 text-primary" /> Follow on Instagram
                             </h5>
                         </div>
 
@@ -115,17 +115,17 @@ const Footer = () => {
 
                 {/* Footer Content */}
                 <div className="footer-upper pb-4 text-white relative z-10">
-                    <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {/* About */}
                         <div>
                             <img src={logo} alt="Logo" className="mb-3 w-36" />
                             <p className="mb-3 text-gray-200">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget.
+                                Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations .
                             </p>
                             <ul className="text-sm space-y-1">
-                                <li><strong>PO Box:</strong> +47-252-254-2542</li>
-                                <li><strong>Location:</strong> Collins Street, Sydney, Australia</li>
-                                <li><strong>Email:</strong> info@Travelosun.com</li>
+                                <li><strong>PO Box:</strong> 9797941414</li>
+                                <li><strong>Location:</strong> D-448, Second Floor, Shiksha Bharati Road, Ramphal Chowk, Sector 7, Dwarka, New Delhi – 110045, India</li>
+                                <li><strong>Email:</strong> info@travelosun.com</li>
                                 <li><strong>Website:</strong> www.Travelosun.com</li>
                             </ul>
                         </div>
@@ -134,25 +134,37 @@ const Footer = () => {
                         <div>
                             <h3 className="text-white font-semibold mb-3">Quick Links</h3>
                             <ul className="space-y-1">
-                                {["About Us", "Delivery Information", "Privacy Policy", "Terms & Conditions", "Customer Service", "Return Policy"].map((item, i) => (
+                                {/* {["Home","About Us", "Delivery Information", "Privacy Policy", "Terms & Conditions", "Customer Service", "Return Policy"].map((item, i) => (
                                     <li key={i}>
                                         <a href="#" className="hover:text-gray-300">{item}</a>
                                     </li>
-                                ))}
+                                ))} */}
+                                <li>
+                                    <a href="/" className="hover:text-gray-300">Home</a>
+                                </li>
+                                <li>
+                                    <a href="/about-us" className="hover:text-gray-300">About</a>
+                                </li>
+                                <li>
+                                    <a href="/pakages" className="hover:text-gray-300">Hodidays</a>
+                                </li>
+                                <li>
+                                    <a href="/contact-us" className="hover:text-gray-300">Contact</a>
+                                </li>
                             </ul>
                         </div>
 
                         {/* Categories */}
-                        <div>
+                        {/* <div>
                             <h3 className="text-white font-semibold mb-3">Categories</h3>
                             <ul className="space-y-1">
-                                {["Travel", "Technology", "Lifestyle", "Destinations", "Entertainment", "Business"].map((cat, i) => (
+                                {["Travel", "Destinations", "Business"].map((cat, i) => (
                                     <li key={i}>
                                         <a href="#" className="hover:text-gray-300">{cat}</a>
                                     </li>
                                 ))}
                             </ul>
-                        </div>
+                        </div> */}
 
                         {/* Newsletter */}
                         <div>
@@ -168,7 +180,7 @@ const Footer = () => {
                                 />
                                 <button
                                     type="submit"
-                                    className="bg-pink-600 hover:bg-pink-700 text-white px-4 py-2 rounded-r-md"
+                                    className="bg-Lightcolor hover:bg-primary text-white px-4 py-2 rounded-r-md"
                                 >
                                     Subscribe
                                 </button>
@@ -198,10 +210,11 @@ const Footer = () => {
                     <div className="container mx-auto flex flex-col md:flex-row items-center justify-between text-white text-sm">
                         <p>© 2022 Travelosun. All rights reserved.</p>
                         <div className="flex space-x-3 mt-2 md:mt-0">
-                            <a href="#"><FaFacebook className="hover:text-pink-500" /></a>
-                            <a href="#"><FaTwitter className="hover:text-pink-500" /></a>
-                            <a href="#"><FaInstagram className="hover:text-pink-500" /></a>
-                            <a href="#"><FaLinkedin className="hover:text-pink-500" /></a>
+                            <a href="https://www.facebook.com/travelosunholidays/ "><FaFacebook className="hover:text-primary" /></a>
+                            <a href="https://www.youtube.com/@Travelosun-holidays"><FaYoutube className="hover:text-primary" /></a>
+                            <a href="https://in.pinterest.com/Travelosunholidays/"><FaPinterest className="hover:text-primary" /></a>
+                            <a href="https://www.instagram.com/travelosun_holidays/?hl=en "><FaInstagram className="hover:text-primary" /></a>
+                            <a href="https://www.linkedin.com/company/travelosun-holidays/"><FaLinkedin className="hover:text-primary" /></a>
                         </div>
                     </div>
                 </div>

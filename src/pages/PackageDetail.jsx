@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import data from "../data/destinations.json";
 import BookingModal from "../components/BookingModal";
@@ -8,7 +8,9 @@ const PackageDetail = () => {
     const [selectedImage, setSelectedImage] = useState(null);
     const [mainImgLoaded, setMainImgLoaded] = useState(false);
     const [showBooking, setShowBooking] = useState(false);
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     // Flatten all packages
     const allPackages = data[0]?.state?.flatMap((s) => s.packages) || [];
     const pkg = allPackages.find((p) => p.slug === slug);
@@ -20,6 +22,7 @@ const PackageDetail = () => {
     const formattedPrice = priceNumber
         ? `₹${priceNumber.toLocaleString("en-IN")}`
         : "N/A";
+
 
     return (
         <div className="max-w-6xl mx-auto px-4 py-8 mt-32">

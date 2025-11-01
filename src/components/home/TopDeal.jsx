@@ -12,7 +12,9 @@ export default function TopDeal() {
                         <span className="text-primary">The Last</span> The Last Minute Deals
                     </h2>
                     <p className="text-xl">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+
+                        Enjoy unbeatable last-minute discounts on family vacations, honeymoon trips, and weekend getaways—book now before the offers fly away!
+
                     </p>
                 </div>
 
@@ -23,15 +25,15 @@ export default function TopDeal() {
                             <div className=" relative h-64  w-full rounded-lg overflow-hidden shadow-md">
                                 <img
                                     className="w-full h-64 lg:h-full object-cover"
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trendingb-2.jpg"
+                                    src="https://i.postimg.cc/02x2y0Xt/spiti-velly-2-psd.jpg"
                                     alt="Los Angeles skyline"
                                 />
                                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
-                                    <h4 className="text-white text-lg font-semibold">Norway <br />
-                                        Norway Lake
+                                    <h4 className="text-white text-lg font-semibold">
+                                        Spiti Valley  <br />
+                                        Summer Expedition
                                         <br />
 
-                                        $180.00 | Per person <br />
 
                                         6 Days Tours</h4>
 
@@ -40,38 +42,35 @@ export default function TopDeal() {
                             <div className=" relative h-64  w-full rounded-lg overflow-hidden shadow-md">
                                 <img
                                     className="w-full h-64 lg:h-full object-cover"
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trendingb-1.jpg"
+                                    src="https://i.postimg.cc/SsPwBk21/Ladakh-Image-2.jpg"
                                     alt="Los Angeles skyline"
                                 />
                                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
-                                    <h4 className="text-white text-lg font-semibold">    Usa
+                                    <h4 className="text-white text-lg font-semibold">   Leh Nubra Turtuk
                                         <br />
-                                        New York City
+                                        Pangong Expedition
                                         <br />
 
-                                        $140.00 | Per person
-                                        <br />
-                                        3 Days Tours</h4>
+
+
+                                        7 Days days</h4>
                                 </div>
                             </div>
                             <div className=" relative h-64  w-full rounded-lg overflow-hidden shadow-md">
                                 <img
                                     className="w-full h-64 lg:h-full object-cover"
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trending-large.jpg"
+                                    src="https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg"
                                     alt="Los Angeles skyline"
                                 />
                                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
                                     <h4 className="text-white text-lg font-semibold">
 
-                                        Egpyt
-                                        <br />
-                                        Pyramid Land
+
+                                        Sikkim  <br />Himalayan Adventure
+
                                         <br />
 
-                                        $180.00 | Per person
-                                        <br />
-
-                                        6 Days Tours
+                                        8 Days Tours
                                     </h4>
                                 </div>
                             </div>
@@ -80,7 +79,7 @@ export default function TopDeal() {
                         <div className="lg:w-2/3 w-full grid grid-cols-1 sm:grid-cols-2 gap-6">
                             <div className="relative  rounded-lg overflow-hidden shadow-md">
                                 <img
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trending1.jpg"
+                                    src="https://i.postimg.cc/zXhb4CX8/kedarnath-badrinath-and-tongnath-1.jpg"
                                     alt="New York"
                                     className="w-full h-52 object-cover"
                                 />
@@ -89,23 +88,25 @@ export default function TopDeal() {
                                 </div> */}
                                 <div className='h-full bg-white text-black p-4 font-serif ' >
                                     <div>
-                                        <h2 className='text-primary' >Title</h2>
-                                        <h3 className='text-xl font-semibold text-gray-700'>Main title</h3>
+                                        {/* <h2 className='text-primary' >
+                                            Kedarnath Badrinath Tungnath Yatra</h2> */}
+                                        <h3 className='text-xl font-semibold text-gray-700'>
+                                            Kedarnath Badrinath Tungnath Yatra</h3>
                                         <div className='flex gap-x-2'>
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                         </div>
-                                        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, quidem officiis ab totam </span>
+                                        <span>A divine journey covering three of the holiest temples in Uttarakhand — Kedarnath, Badrinath, and Tungnath. Experience peace, devotion, and breathtaking mountain beauty on this Himalayan Yatra.</span>
                                         <div className='w-full border-t-2  border-dashed border-gray-600 my-3' > </div>
-                                        <span className='text-primary font-semibold'   >220.00 | Per person</span>
+                                        <span className='text-primary font-semibold'   >22,999</span>
                                     </div>
                                 </div>
                             </div>
                             <div className="relative  rounded-lg overflow-hidden shadow-md">
                                 <img
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trending2.jpg"
+                                    src="https://i.postimg.cc/QCGS1pX0/Ladakh-Bike-Image-4.jpg"
                                     alt="New York"
                                     className="w-full h-52 object-cover"
                                 />
@@ -113,24 +114,24 @@ export default function TopDeal() {
                                     <h4 className="text-white text-lg font-semibold">Los Angeles</h4>
                                 </div> */}
                                 <div className='h-full bg-white text-black p-4 font-serif ' >
-                                    <div>
-                                        <h2 className='text-primary' >Title</h2>
-                                        <h3 className='text-xl font-semibold text-gray-700'>Main title</h3>
+                                    <div> ssh root@72.60.223.24
+                                        {/* <h2 className='text-primary' >Title</h2> */}
+                                        <h3 className='text-xl font-semibold text-gray-700'>Leh to Leh with Turtuk Village</h3>
                                         <div className='flex gap-x-2'>
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                         </div>
-                                        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, quidem officiis ab totam </span>
+                                        <span>An unforgettable 8-day expedition through Ladakh’s stunning mountain passes, monasteries, and the unique Balti culture of Turtuk. Visit Nubra Valley, Pangong Lake, and return to Leh with lifelong memories. </span>
                                         <div className='w-full border-t-2  border-dashed border-gray-600 my-3' > </div>
-                                        <span className='text-primary font-semibold'   >220.00 | Per person</span>
+                                        <span className='text-primary font-semibold'   >27,999</span>
                                     </div>
                                 </div>
                             </div>
                             <div className="relative  rounded-lg overflow-hidden shadow-md">
                                 <img
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trending3.jpg"
+                                    src="https://i.postimg.cc/bNqsrsxj/Rishikesh-Image-1.jpg"
                                     alt="New York"
                                     className="w-full h-52 object-cover"
                                 />
@@ -139,23 +140,24 @@ export default function TopDeal() {
                                 </div> */}
                                 <div className='h-full bg-white text-black p-4 font-serif ' >
                                     <div>
-                                        <h2 className='text-primary' >Title</h2>
-                                        <h3 className='text-xl font-semibold text-gray-700'>Main title</h3>
+                                        {/* <h2 className='text-primary' >Title</h2> */}
+                                        <h3 className='text-xl font-semibold text-gray-700'>
+                                            Chopta Auli Rishikesh Journey</h3>
                                         <div className='flex gap-x-2'>
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                         </div>
-                                        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, quidem officiis ab totam </span>
+                                        <span>Witness the divine charm of Rishikesh, the skiing slopes of Auli, and the green meadows of Chopta. This tour combines adventure, relaxation, and spirituality for a balanced Himalayan retreat.</span>
                                         <div className='w-full border-t-2  border-dashed border-gray-600 my-3' > </div>
-                                        <span className='text-primary font-semibold'   >220.00 | Per person</span>
+                                        <span className='text-primary font-semibold'   >10,999</span>
                                     </div>
                                 </div>
                             </div>
                             <div className="relative  rounded-lg overflow-hidden shadow-md">
                                 <img
-                                    src="https://htmldesigntemplates.com/html/travelin/images/trending/trending4.jpg"
+                                    src="https://i.postimg.cc/bw8HzyJ2/andaman-3.jpg"
                                     alt="New York"
                                     className="w-full h-52 object-cover"
                                 />
@@ -164,17 +166,18 @@ export default function TopDeal() {
                                 </div> */}
                                 <div className='h-full bg-white text-black p-4 font-serif ' >
                                     <div>
-                                        <h2 className='text-primary' >Title</h2>
-                                        <h3 className='text-xl font-semibold text-gray-700'>Main title</h3>
+                                        {/* <h2 className='text-primary' >Title</h2> */}
+                                        <h3 className='text-xl font-semibold text-gray-700'>
+                                            Andaman Island Explorer</h3>
                                         <div className='flex gap-x-2'>
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                             <FaStar className='text-yellow-400' />
                                         </div>
-                                        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, quidem officiis ab totam </span>
+                                        <span>Discover the Andaman & Nicobar Islands — from Radhanagar Beach to Havelock’s coral reefs. Enjoy beachside resorts, island hopping, and unforgettable sunsets over the Indian Ocean. </span>
                                         <div className='w-full border-t-2  border-dashed border-gray-600 my-3' > </div>
-                                        <span className='text-primary font-semibold'   >220.00 | Per person</span>
+                                        <span className='text-primary font-semibold'   >18,000</span>
                                     </div>
                                 </div>
                             </div>

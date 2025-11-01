@@ -26,10 +26,10 @@ export default function PremiumVideoSection() {
                             "url('https://htmldesigntemplates.com/html/travelin/images/section-bg1.png')",
                     }}
                 >
-                    
+
                 </motion.div>
 
-                
+
                 {/* Content */}
                 <div className="relative z-10 flex flex-col items-center text-center px-6 max-w-3xl">
                     {/* Heading */}
@@ -47,7 +47,8 @@ export default function PremiumVideoSection() {
                         transition={{ duration: 1 }}
                         className="text-Lightcolor text-5xl font-serif font-semibold mb-3"
                     >
-                        <span className="text-gray-800" >   Explore Your Life, </span> Travel Where You Want!
+                        <span className="text-gray-800" >  Book Affordable Domestic </span>  Flights & Tour Packages in India
+
                     </motion.h2>
                     <motion.p
                         initial={{ opacity: 0, y: 50 }}
@@ -55,8 +56,7 @@ export default function PremiumVideoSection() {
                         transition={{ duration: 1 }}
                         className="text-gray-500 text-normal font-serif  mb-12"
                     >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    </motion.p>
+                        Explore India’s top destinations with Travel O Sun—from romantic honeymoon packages to family holidays and weekend getaways. Enjoy cheap domestic flight tickets and custom-made tour packages at the best prices. </motion.p>
 
                     {/* Play Button */}
                     <motion.button

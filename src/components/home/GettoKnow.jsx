@@ -6,7 +6,7 @@ export default function GettoKnow() {
     return (
         <>
 
-            <section className='relative h-[700px] py-16 px-6 lg:px-24'>
+            <section className='relative sm:h-[700px] py-16 px-6 lg:px-24'>
                 <div className=' absolute inset-0 opacity-35 bg-cover bg-center bg-no-repeat ' style={{
                     backgroundImage: "url('https://i.postimg.cc/nVGkwPnG/Background-image-1.jpg')"
                 }} >

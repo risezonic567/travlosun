@@ -41,10 +41,11 @@ const Testimonials = () => {
             <div className="container mx-auto px-4 relative z-10 text-center">
                 <p className="text-yellow-500 font-semibold mb-2">Our Testimonials</p>
                 <h2 className="text-4xl font-bold text-gray-900">
-                    Good Reviews By <span className="text-teal-600">Clients</span>
+                    Trusted by Thousands  <span className="text-teal-600">of Travelers Across India</span>
                 </h2>
                 <p className="text-gray-500 max-w-2xl mx-auto mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+
+                    Our guests love the comfort, affordability, and personalized service that make every journey with Travel O Sun unforgettable.
                 </p>
 
                 <div className="mt-16 flex flex-col md:flex-row items-center justify-center gap-10">

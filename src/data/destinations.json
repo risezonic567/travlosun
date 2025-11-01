@@ -3,7 +3,7 @@
         "id": "india",
         "slug": "india",
         "category": "Domestic",
-        "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+        "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
         "country": "India",
         "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
         "state": [
@@ -45,7 +45,7 @@
                         "description": "Immerse yourself in Kerala’s peaceful beauty — from misty hill stations in Munnar to tranquil houseboat cruises in Alleppey. Enjoy authentic cuisine, Ayurveda therapy, and cultural richness.",
                         "coverimg": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
                         "img": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
-                        "price": "12,500",
+                        "price": "",
                         "priceIncludes": [
                             "Air Fares",
                             "3 Nights Hotel Accommodation",
@@ -91,7 +91,7 @@
                 "slug": "Andaman & Nicobar Islands",
                 "state": "Andaman & Nicobar",
                 "category": "Domestic",
-                "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
                 "description": "Explore the turquoise waters, coral reefs, and pristine beaches of the Andaman & Nicobar Islands — India’s tropical gem.",
                 "packages": [
                     {
@@ -107,7 +107,7 @@
                             "@type": "TouristDestination",
                             "name": "Andaman Island Explorer",
                             "description": "Enjoy the Andaman Islands’ white sand beaches, crystal clear waters, and marine adventures.",
-                            "image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination19.jpg",
+                            "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
                             "url": "https://www.example.com/destinations/andaman-island-explorer",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -118,14 +118,14 @@
                         "metaopengraph": {
                             "og:title": "Andaman Island Explorer",
                             "og:description": "Dive into paradise — crystal-clear waters, coral reefs, and tropical beaches await you in the Andaman Islands.",
-                            "og:image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination19.jpg",
+                            "og:image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
                             "og:url": "https://www.example.com/destinations/andaman-island-explorer",
                             "og:type": "website"
                         },
                         "description": "Discover the Andaman & Nicobar Islands — from Radhanagar Beach to Havelock’s coral reefs. Enjoy beachside resorts, island hopping, and unforgettable sunsets over the Indian Ocean.",
-                        "coverimg": "https://htmldesigntemplates.com/html/travelin/images/destination/destination19.jpg",
-                        "img": "https://www.example.com/images/andaman-thumb.jpg",
-                        "price": "18,000",
+                        "coverimg": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+                        "img": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+                        "price": "",
                         "priceIncludes": [
                             "Air Fares",
                             "3 Nights Beach Resort Stay",
@@ -141,17 +141,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
+                                "img": "https://i.postimg.cc/T3GqRdwL/andaman-1.jpg",
                                 "alt": "Radhanagar Beach"
                             },
                             {
                                 "id": 2,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending11.jpg",
+                                "img": "https://i.postimg.cc/bw8HzyJ2/andaman-3.jpg",
                                 "alt": "Scuba Diving"
                             },
                             {
                                 "id": 3,
-                                "img": "https://htmldesigntemplates.com/html/travelin/images/trending/trending12.jpg",
+                                "img": "https://i.postimg.cc/rwcC8Vmd/andaman-2.jpg",
                                 "alt": "Havelock Island"
                             }
                         ],
@@ -173,7 +173,7 @@
                 "slug": "manali-kasol",
                 "state": "Himachal Pradesh",
                 "category": "Domestic",
-                "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
                 "description": "Discover the snow-capped peaks and vibrant cafes of Manali and Kasol — a perfect mix of adventure and serenity.",
                 "packages": [
                     {
@@ -205,9 +205,9 @@
                             "og:type": "website"
                         },
                         "description": "Unwind amidst the serene Himalayan landscapes of Manali and Kasol. Enjoy the Parvati Valley trek, visit local cafes, soak in the hot springs of Manikaran, and experience Himachal’s unique culture.",
-                        "coverimg": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1584605471686-99bcec8ef8d5?auto=format&fit=crop&w=800&q=80",
-                        "price": "9,999",
+                        "coverimg": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
+                        "img": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
+                        "price": "6000",
                         "priceIncludes": [
                             "Travel & Transfers",
                             "3 Nights Hotel Accommodation",
@@ -223,17 +223,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1611080626919-7c9c6b98e9cc?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/TwQqLrWY/Manali-Image-2.jpg",
                                 "alt": "Manali Mountains"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/LXvBYzZX/Manali-Image-3.jpg",
                                 "alt": "Kasol Village"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1625736385828-52d69f96455c?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/NMb791rj/Manali-Image-1.jpg",
                                 "alt": "Parvati Valley"
                             }
                         ],
@@ -252,7 +252,7 @@
                 "slug": "chopta-auli-rishikesh",
                 "state": "Uttarakhand",
                 "category": "Domestic",
-                "image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
                 "description": "From the meadows of Chopta to the snowfields of Auli and spiritual ghats of Rishikesh — explore Uttarakhand’s best trio.",
                 "packages": [
                     {
@@ -268,7 +268,7 @@
                             "@type": "TouristDestination",
                             "name": "Chopta Auli Rishikesh Journey",
                             "description": "Explore Uttarakhand’s spiritual and natural wonders with this 3-night 4-day adventure.",
-                            "image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                            "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
                             "url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -279,14 +279,14 @@
                         "metaopengraph": {
                             "og:title": "Chopta Auli Rishikesh Journey",
                             "og:description": "A perfect Uttarakhand escape — mountains, snow, and sacred rivers.",
-                            "og:image": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
+                            "og:image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
                             "og:url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
                             "og:type": "website"
                         },
                         "description": "Witness the divine charm of Rishikesh, the skiing slopes of Auli, and the green meadows of Chopta. This tour combines adventure, relaxation, and spirituality for a balanced Himalayan retreat.",
-                        "coverimg": "https://images.unsplash.com/photo-1605709351765-1bb6f6b5c7b5?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1643477418209-132cbb2dfbd9?auto=format&fit=crop&w=800&q=80",
-                        "price": "10,999",
+                        "coverimg": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+                        "img": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+                        "price": "22,000",
                         "priceIncludes": [
                             "3 Nights Stay",
                             "Local Transfers",
@@ -302,17 +302,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1589182337355-b4c4d7a5d5f8?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/bNqsrsxj/Rishikesh-Image-1.jpg",
                                 "alt": "Chopta Meadows"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1593672715433-0f5c47b6b56a?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/bNqsrsxh/Rishikesh-Image-2.jpg",
                                 "alt": "Auli Slopes"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/kX7BGBQP/Rishikesh-Image-3.jpg",
                                 "alt": "Rishikesh Ghat"
                             }
                         ],
@@ -331,7 +331,7 @@
                 "slug": "leh-to-leh-turtuk-village",
                 "state": "Ladakh",
                 "category": "Domestic",
-                "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
                 "description": "Journey through Ladakh’s surreal landscapes — from Leh to the remote village of Turtuk near the Indo-Pak border.",
                 "packages": [
                     {
@@ -347,7 +347,7 @@
                             "@type": "TouristDestination",
                             "name": "Leh to Leh with Turtuk Village",
                             "description": "A high-altitude adventure across Ladakh covering Leh, Nubra, Pangong, and Turtuk Village.",
-                            "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                            "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
                             "url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -358,14 +358,14 @@
                         "metaopengraph": {
                             "og:title": "Leh to Leh with Turtuk Village",
                             "og:description": "From Leh to the last village of India — explore the essence of Ladakh.",
-                            "og:image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
+                            "og:image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
                             "og:url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
                             "og:type": "website"
                         },
                         "description": "An unforgettable 8-day expedition through Ladakh’s stunning mountain passes, monasteries, and the unique Balti culture of Turtuk. Visit Nubra Valley, Pangong Lake, and return to Leh with lifelong memories.",
-                        "coverimg": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1580136657543-3e67e9db60a2?auto=format&fit=crop&w=800&q=80",
-                        "price": "27,999",
+                        "coverimg": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+                        "img": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+                        "price": "24,500",
                         "priceIncludes": [
                             "7 Nights Stay",
                             "Breakfast & Dinner",
@@ -381,17 +381,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1534351567171-38d3d43f93b3?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/SRFVCWy3/Ladakh-Bike-Image-2.jpg",
                                 "alt": "Leh Monastery"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1580136989210-99b2368e1c4e?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/GtwzGkcf/Ladakh-Bike-Image-3.jpg",
                                 "alt": "Nubra Valley"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1602168231687-35fa9d5d342b?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/QCGS1pX0/Ladakh-Bike-Image-4.jpg",
                                 "alt": "Turtuk Village"
                             }
                         ],
@@ -410,7 +410,7 @@
                 "slug": "kedarnath-badrinath-tungnath",
                 "state": "Uttarakhand",
                 "category": "Domestic",
-                "image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
                 "description": "A sacred pilgrimage through the Himalayas — visit Kedarnath, Badrinath, and Tungnath on this divine 8-day journey.",
                 "packages": [
                     {
@@ -437,14 +437,14 @@
                         "metaopengraph": {
                             "og:title": "Kedarnath Badrinath Tungnath Yatra",
                             "og:description": "An unforgettable spiritual journey through the sacred Himalayas of Uttarakhand.",
-                            "og:image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+                            "og:image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
                             "og:url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
                             "og:type": "website"
                         },
                         "description": "A divine journey covering three of the holiest temples in Uttarakhand — Kedarnath, Badrinath, and Tungnath. Experience peace, devotion, and breathtaking mountain beauty on this Himalayan Yatra.",
-                        "coverimg": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1655733155433-8b3c2dfb91a3?auto=format&fit=crop&w=800&q=80",
-                        "price": "22,999",
+                        "coverimg": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+                        "img": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+                        "price": "19,000",
                         "priceIncludes": [
                             "7 Nights Stay",
                             "Meals & Transfers",
@@ -460,17 +460,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1639551302367-b6f4f24faadf?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/zXhb4CX8/kedarnath-badrinath-and-tongnath-1.jpg",
                                 "alt": "Kedarnath Temple"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1624179693783-883bf1184a7b?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/BQFLRTQJ/kedarnath-badrinath-and-tongnath-3-image.jpg",
                                 "alt": "Badrinath Temple"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1655830250777-8d4b6d593786?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/X75Gtf7W/kedarnath-badrinath-and-tongnath-2-image.jpg",
                                 "alt": "Tungnath Trail"
                             }
                         ],
@@ -489,7 +489,7 @@
                 "slug": "Spiti Valley Bike Ride",
                 "state": "Himachal Pradesh",
                 "category": "Adventure",
-                "image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
                 "description": "Ride through the rugged terrains and breathtaking landscapes of Spiti Valley on an unforgettable motorbike expedition.",
                 "packages": [
                     {
@@ -521,9 +521,9 @@
                             "og:type": "website"
                         },
                         "description": "Explore Spiti Valley on two wheels! Ride across Kunzum Pass, visit Key Monastery, camp by Chandratal Lake, and experience the thrill of one of India’s highest altitude motorbike routes.",
-                        "coverimg": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1564999339320-22d89d4363c0?auto=format&fit=crop&w=800&q=80",
-                        "price": "29,999",
+                        "coverimg": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
+                        "img": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
+                        "price": "42,000",
                         "priceIncludes": [
                             "Royal Enfield Bike & Fuel",
                             "7 Nights Stay",
@@ -539,17 +539,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1594389288125-79ad18c7b3ff?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/wBB05qD5/spiti-valley-summer-bike-1.jpg",
                                 "alt": "Spiti Road Ride"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1625661803072-b00d7c7c2a4a?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/SKKDLScW/spiti-valley-summer-bike-3.jpg",
                                 "alt": "Key Monastery"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1615800958382-2e3f857ea2e5?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/GppqPLvv/spiti-valley-summer-bike-4.jpg",
                                 "alt": "Chandratal Lake"
                             }
                         ],
@@ -602,7 +602,7 @@
                         "description": "Travel through the high-altitude cold desert of Spiti in its most vibrant season. Visit Tabo and Dhankar monasteries, enjoy local homestays in Kaza, and capture surreal mountain vistas.",
                         "coverimg": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
                         "img": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
-                        "price": "26,999",
+                        "price": "20,000",
                         "priceIncludes": [
                             "7 Nights Accommodation",
                             "Breakfast & Dinner",
@@ -647,7 +647,7 @@
                 "slug": "Leh Nubra Turtuk Pangong",
                 "state": "Ladakh",
                 "category": "Adventure",
-                "image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+                "image": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
                 "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
                 "packages": [
                     {
@@ -679,9 +679,9 @@
                             "og:type": "website"
                         },
                         "description": "A 7-day expedition through the majestic landscapes of Ladakh — explore Nubra’s sand dunes, Turtuk’s culture, and Pangong’s iconic blue waters. Perfect blend of adventure and serenity.",
-                        "coverimg": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
-                        "img": "https://images.unsplash.com/photo-1609154982482-8e59cda7f379?auto=format&fit=crop&w=800&q=80",
-                        "price": "27,499",
+                        "coverimg": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
+                        "img": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
+                        "price": "20,500",
                         "priceIncludes": [
                             "6 Nights Stay",
                             "Airport Transfers",
@@ -697,17 +697,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "https://images.unsplash.com/photo-1603029207271-89dcb64c4f91?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/RFYjk46P/Ladakh-Image-1.jpg",
                                 "alt": "Pangong Lake"
                             },
                             {
                                 "id": 2,
-                                "img": "https://images.unsplash.com/photo-1607008759832-bdf4f6613c77?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/SsPwBk21/Ladakh-Image-2.jpg",
                                 "alt": "Nubra Valley"
                             },
                             {
                                 "id": 3,
-                                "img": "https://images.unsplash.com/photo-1631074105936-2a9ff6ad97ad?auto=format&fit=crop&w=1000&q=80",
+                                "img": "https://i.postimg.cc/LXWrc2YC/Ladakh-Image-3.jpg",
                                 "alt": "Turtuk Village"
                             }
                         ],
@@ -717,6 +717,84 @@
                         "days": "7 Days",
                         "nights": "6 Nights",
                         "totalReview": "352",
+                        "ratingStar": "4.9"
+                    }
+                ]
+            },
+            {
+                "id": "sikkim-himalayan-adventure",
+                "slug": "sikkim-himalayan-adventure",
+                "state": "Sikkim",
+                "category": "Adventure",
+                "image": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
+                "packages": [
+                    {
+                        "_id": "8",
+                        "title": "Sikkim Himalayan Adventure",
+                        "slug": "sikkim-himalayan-adventure",
+                        "metatitle": "Sikkim Himalayan Adventure | 7 Nights 8 Days Tour",
+                        "metadescription": "Discover the untouched beauty of Sikkim with our 7 Nights 8 Days Himalayan Adventure. Visit Gangtok, Lachung, Yumthang Valley, and Tsomgo Lake on this scenic journey.",
+                        "metacanonical": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                        "schematype": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristTrip",
+                            "name": "Sikkim Himalayan Adventure",
+                            "description": "An 8-day scenic exploration of Gangtok, Lachung, Yumthang, and Tsomgo Lake, offering culture, adventure, and mountain tranquility.",
+                            "image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "4.9",
+                                "reviewCount": "420"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Sikkim Himalayan Adventure",
+                            "og:description": "Experience Gangtok, Yumthang Valley, and Tsomgo Lake with our 7 Nights 8 Days Himalayan Tour.",
+                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "og:type": "website"
+                        },
+                        "description": "A mesmerizing 8-day journey through Sikkim’s most scenic spots — from the lively streets of Gangtok to the snow-covered beauty of Yumthang Valley. Explore monasteries, frozen lakes, and mountain passes that define the magic of the Eastern Himalayas.",
+                        "coverimg": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                        "img": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                        "price": "",
+                        "priceIncludes": [
+                            "7 Nights Stay in Gangtok & Lachung",
+                            "Daily Breakfast & Dinner",
+                            "All Transfers & Sightseeing",
+                            "Permits and Guide Assistance"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Bagdogra Airport Pickup & Drop",
+                            "Guide Service Fee",
+                            "Any Private Expenses",
+                            "Room Service Fees"
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://i.postimg.cc/q7qkHrXD/Sikkim-Image-1-1.jpg",
+                                "alt": "Gangtok City View"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "alt": "Yumthang Valley"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                                "alt": "Tsomgo Lake"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+                        "tag": "Adventure, Himalayas, Nature",
+                        "locationName": "Gangtok, Lachung & Tsomgo Lake, Sikkim, India",
+                        "days": "8 Days",
+                        "nights": "7 Nights",
+                        "totalReview": "420",
                         "ratingStar": "4.9"
                     }
                 ]

@@ -5,20 +5,20 @@ export default function TopDestination() {
     return (
         <>
             {/* https://postimg.cc/gallery/9w94h41 */}
-            <section className="py-16">
-                <div className="relative text-center my-16 max-w-3xl mx-auto font-serif space-y-4">
+            <section className="sm:py-16 p-4">
+                <div className="relative text-center my-16 max-w-6xl mx-auto font-serif space-y-4">
                     <h3 className="text-Lightcolor text-2xl font-semibold">Top Destinations</h3>
-                    <h2 className="text-5xl font-semibold text-primary">
+                    <h2 className="sm:text-5xl text-3xl font-semibold text-primary">
                         <span className="text-gray-800">Explore</span> Top Holiday Destinations
                     </h2>
-                    <p className="sm:text-xs text-lg">
+                    <p className="sm:text-normal text-lg">
                         Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations in India's most loved travel spots, like the golden beaches of Goa, misty hills of Manali, or peaceful backwaters of Kerala—where your heart wants. Travel O Sun's exclusivity would let you travel to your perfect holiday destination as comfortably as or more affordably than ever!  </p>
                 </div>
 
                 <div className="max-w-6xl mx-auto px-4 lg:px-0">
                     <div className="flex flex-col lg:flex-row gap-6">
                         {/* Left: large hero image */}
-                        <div className=" relative h-[540px] lg:w-1/3 w-full rounded-lg overflow-hidden shadow-md">
+                        <div className=" relative sm:h-[540px] lg:w-1/3 w-full rounded-lg overflow-hidden shadow-md">
                             <img
                                 className="w-full h-64 lg:h-full object-cover"
                                 src="https://i.postimg.cc/6qcf2yHq/Kerela.jpg"

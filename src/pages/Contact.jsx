@@ -8,7 +8,7 @@ export default function ContactUs() {
     return (
         <div className="min-h-screen bg-gradient-to-b from-sky-50 to-white text-gray-800">
             {/* Hero Section */}
-            <section className="mt-32 relative h-[50vh] flex items-center justify-center bg-[url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center">
+            <section className="sm:mt-32 mt-18 relative h-[50vh] flex items-center justify-center bg-[url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center">
                 <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
                 <motion.h1
                     initial={{ opacity: 0, y: 20 }}
@@ -43,17 +43,17 @@ export default function ContactUs() {
                             <ContactCard
                                 icon={<Phone className="text-sky-500" size={26} />}
                                 title="Call Us"
-                                detail="+91 98765 43210"
+                                detail="+91  9797941414"
                             />
                             <ContactCard
                                 icon={<Mail className="text-sky-500" size={26} />}
                                 title="Email"
-                                detail="hello@travelsun.in"
+                                detail="info@travelosun.com"
                             />
                             <ContactCard
                                 icon={<MapPin className="text-sky-500" size={26} />}
                                 title="Office"
-                                detail="Connaught Place, New Delhi"
+                                detail="D-448, Second Floor, Shiksha Bharati Road, Ramphal Chowk, Sector 7, Dwarka, New Delhi – 110045, India"
                             />
                         </div>
                     </motion.div>

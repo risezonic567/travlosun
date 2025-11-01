@@ -53,7 +53,7 @@ export default function ContactForm() {
 
             <motion.button
                 whileHover={{ scale: 1.05 }}
-                className="w-full bg-gradient-to-r from-sky-500 to-sky-600 text-white py-3 rounded-xl font-semibold shadow-lg"
+                className="w-full  bg-primary text-white py-3 rounded-xl font-semibold shadow-lg"
             >
                 Send Message
             </motion.button>

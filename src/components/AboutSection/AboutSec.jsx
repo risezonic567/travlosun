@@ -17,17 +17,15 @@ export default function AboutSec() {
                 <div>
                     <p className="text-teal-600 font-medium mb-2">Get To Know Us</p>
                     <h2 className="text-4xl font-bold mb-4">
-                        Explore All Tour Of The World With Us.
+                        Behind Travel O Sun—Your Trusted Partner in Indian Travel
                     </h2>
                     <p className="text-gray-600 mb-4">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat.
+                        We welcome you to Travel O Sun, a trusted travel partner when it comes to exploring the picturesque beauty of India and beyond. We design custom domestic travel packages, budget honeymoon vacations, and low-cost flights so that your travel experience is seamless and exceptional every time.
+
                     </p>
                     <p className="text-gray-600 mb-6">
-                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                        officia deserunt mollit anim id est laborum.
+                        At Travel O Sun, we understand that travel involves more than arriving at a destination; it consists of memory-making along the way to your destination. Whether you are on a family vacation, a couple’s retreat, or a spontaneous adventure, our team will ensure that your next trip is carefully planned, safe, and fun.
+
                     </p>
 
                     {/* Features */}

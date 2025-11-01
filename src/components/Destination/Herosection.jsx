@@ -1,9 +1,9 @@
 export default function Herosection() {
   return (
     <>
-      <div className='relative h-96 bg mt-32 bg-cover bg-center bg-no-repeat  ' style={
+      <div className='relative h-[550px] w-full bg mt-12 sm:bg-contain bg-cover bg-center bg-no-repeat' style={
         {
-          backgroundImage: "url('https://htmldesigntemplates.com/html/travelin/images/bg/bg1.jpg')"
+          backgroundImage: "url('https://i.postimg.cc/yNb7tLQ3/Holidays-Banner.jpg')"
         }
       }  >
 

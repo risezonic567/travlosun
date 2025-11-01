@@ -38,11 +38,11 @@ export default function TourGuides() {
             <div className="text-center mb-12">
                 <p className="text-yellow-500 font-semibold uppercase">Tour Guides</p>
                 <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mt-2">
-                    Meet Our <span className="text-teal-600">Excellent Guides</span>
+                    Our Expert <span className="text-teal-600">Team of Travel Guides</span>
                 </h2>
                 <p className="text-gray-500 mt-3 max-w-2xl mx-auto">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore.
+                    Discover the passionate travel experts behind Travel O Sun, dedicated to making every journey safe, informative, and unforgettable. Our experienced guides ensure you explore India’s destinations with comfort, culture, and care.
+
                 </p>
             </div>
 

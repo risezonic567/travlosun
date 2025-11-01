@@ -5,10 +5,10 @@ import React from "react";
 const posts = [
     {
         id: 1,
-        tag: "Technology",
-        title: "How a developer duo at Deutsche Bank keep remote alive.",
+        tag: "Affordable Domestic",
+        title: "Top 10 Affordable Domestic Tour Packages in India for 2025",
         excerpt:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Discover India’s most popular travel destinations and budget-friendly vacation deals.",
         image:
             "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
         author: "Jane Doe",
@@ -17,10 +17,10 @@ const posts = [
     },
     {
         id: 2,
-        tag: "Product",
-        title: "Design choices that improve conversion and retention.",
+        tag: "Cheap Domestic Flights ",
+        title: "How to Find Cheap Domestic Flights & Tour Packages for Your Next Trip",
         excerpt:
-            "Small UX tweaks often yield big wins. Learn which patterns to prioritize for sustained growth.",
+            "Save more on your travel plans with these smart booking tips and deals from Travel O Sun.",
         image:
             "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
         author: "John Smith",
@@ -29,10 +29,10 @@ const posts = [
     },
     {
         id: 3,
-        tag: "Engineering",
-        title: "Ship faster with better feedback loops in your team.",
+        tag: "Honeymoon Destinations",
+        title: "Best Honeymoon Destinations in India with Budget-Friendly Packages ",
         excerpt:
-            "Practical tips to shorten feedback cycles and preserve code quality while moving quickly.",
+            "Plan your dream honeymoon with our top picks for romantic and affordable getaways.",
         image:
             "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
         author: "Alex Lee",
@@ -94,9 +94,9 @@ function Card({ post }) {
                         <div>{post.author}</div>
                         <div>{post.date}</div>
                     </div>
-                    <span className="inline-flex items-center text-primary font-medium group-hover:underline">
+                    {/* <span className="inline-flex items-center text-primary font-medium group-hover:underline">
                         Read More →
-                    </span>
+                    </span> */}
                 </div>
             </div>
         </motion.a>
@@ -110,12 +110,13 @@ export default function BlogCard() {
 
                 <div className="max-w-6xl mx-auto py-16">
                     <div className="relative text-center my-16 max-w-3xl mx-auto font-serif space-y-4">
-                        <h3 className="text-Lightcolor text-2xl font-semibold">Our Blogs Offers</h3>
+                        <h3 className="text-Lightcolor text-2xl font-semibold">Explore India:</h3>
                         <h2 className="text-5xl font-semibold text-primary">
-                            <span className="text-gray-800">Recent</span> Articles & Posts
+                            <span className="text-gray-800">Recent</span>  Latest Travel Articles & Offers
+
                         </h2>
                         <p className="text-xl">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                            Stay inspired with the latest travel tips, destination guides, and tour package insights from Travel O Sun. Discover how to plan affordable getaways, find flight deals, and explore India’s most loved destinations.
                         </p>
                     </div>
                     <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
