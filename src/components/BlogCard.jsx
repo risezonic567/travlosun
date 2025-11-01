@@ -10,7 +10,7 @@ const posts = [
         excerpt:
             "Discover India’s most popular travel destinations and budget-friendly vacation deals.",
         image:
-            "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
+            "https://i.postimg.cc/65DWW6Y0/Affordable-Domestic.jpg",
         author: "Jane Doe",
         date: "Oct 12, 2025",
         href: "#",
@@ -22,7 +22,7 @@ const posts = [
         excerpt:
             "Save more on your travel plans with these smart booking tips and deals from Travel O Sun.",
         image:
-            "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
+            "https://images.trvl-media.com/media/content/shared/images/travelguides/tvly/flight-desktop.jpg?impolicy=fcrop&w=400&h=100&q=mediumLow",
         author: "John Smith",
         date: "Sep 28, 2025",
         href: "#",
@@ -34,7 +34,7 @@ const posts = [
         excerpt:
             "Plan your dream honeymoon with our top picks for romantic and affordable getaways.",
         image:
-            "https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg",
+            "https://media.holidify.com/images/cmsuploads/compressed/honeymoon-tour-package-1280x540_20240826125222.jpg",
         author: "Alex Lee",
         date: "Aug 09, 2025",
         href: "#",

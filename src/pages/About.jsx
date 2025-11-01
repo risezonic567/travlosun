@@ -11,7 +11,7 @@ export default function About() {
       <Herosection/>
       <AboutSec/>
       <CoreFeatures/>
-      <TourGuides/>
+      {/* <TourGuides/> */}
       <Testimonials/>
     </div>
   )

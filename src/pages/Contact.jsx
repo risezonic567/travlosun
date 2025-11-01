@@ -3,8 +3,13 @@ import { Phone, Mail, MapPin } from "lucide-react";
 import ContactForm from "../components/Contact/ContactForm";
 import ContactCard from "../components/Contact/ContactCard";
 import MapEmbed from "../components/Contact/MapEmbed";
+import { useEffect } from "react";
 
 export default function ContactUs() {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+
+    }, [])
     return (
         <div className="min-h-screen bg-gradient-to-b from-sky-50 to-white text-gray-800">
             {/* Hero Section */}

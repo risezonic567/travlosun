@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
-import React, { useState } from "react";
+import { useState } from "react";
 import { FaPlay } from "react-icons/fa";
 import { motion } from "framer-motion";
-import video from "../video/room.mp4"
+import video from "../video/TravelOsun Website Video.mp4"
 export default function PremiumVideoSection() {
     const [isOpen, setIsOpen] = useState(false);
 
@@ -73,6 +73,8 @@ export default function PremiumVideoSection() {
                 {isOpen && (
                     <div className="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50">
                         <button
+                            type="button"
+                            aria-label="Close video modal"
                             onClick={() => setIsOpen(false)}
                             className="absolute top-0 right-0 text-white text-4xl p-3 hover:text-red-500 "
                         >
@@ -83,7 +85,7 @@ export default function PremiumVideoSection() {
                             <div className="w-full aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-2xl">
                                 <video
                                     className="w-full h-full"
-                                    src="https://player.vimeo.com/924674ce-5921-4c3d-8edd-22cfd2bf62a4"
+                                    src={video}
                                     title="travel Video"
                                     autoPlay
                                     loop

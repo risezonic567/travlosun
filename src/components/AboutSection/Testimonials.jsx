@@ -7,25 +7,39 @@ import { FaQuoteLeft, FaQuoteRight, FaArrowLeft, FaArrowRight } from "react-icon
 
 const testimonials = [
     {
-        name: "Jared Erondu",
-        role: "Supervisor",
-        image: "https://i.pravatar.cc/100?img=5",
+        name: "Arya Singh",
+        role: "Adventure Seeker",
+        image: "https://i.pravatar.cc/100?img=12",
         review:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+            "I booked a multi-day trek with Travelosun and it was flawless. The guides were experienced and friendly, gear was top-notch, and the route included authentic local experiences. Felt safe the whole way—highly recommend for true adventure lovers.",
     },
     {
-        name: "Emily Carter",
-        role: "Traveler",
-        image: "https://i.pravatar.cc/100?img=6",
+        name: "Rahul Verma",
+        role: "Photographer",
+        image: "https://i.pravatar.cc/100?img=8",
         review:
-            "Traveling was made easy and smooth. Excellent support and user experience throughout my journey!",
+            "Travelosun organised a desert safari and overnight camp that was a photographer's dream. Stunning landscapes, comfortable camp, and every detail (meals, transport, timings) was handled professionally. Great value for the experience.",
     },
     {
-        name: "Michael Ross",
-        role: "Customer",
-        image: "https://i.pravatar.cc/100?img=7",
+        name: "Neha Patel",
+        role: "Family Traveler",
+        image: "https://i.pravatar.cc/100?img=15",
         review:
-            "Great service! Everything was seamless from booking to check-in. Highly recommend!",
+            "We took a family adventure package with Travelosun and they made it effortless. Kid-friendly activities, flexible itinerary, and thoughtful accommodations. Our kids still talk about the nature walks and boat ride—wonderful memories.",
+    },
+    {
+        name: "Carlos Mendes",
+        role: "Solo Traveler",
+        image: "https://i.pravatar.cc/100?img=18",
+        review:
+            "As a solo traveler, I appreciated Travelosun's attention to safety and community. They paired me with a small group, organized reliable transport, and connected me with local guides who knew the best offbeat spots. Felt supported and free to explore.",
+    },
+    {
+        name: "Priya Sharma",
+        role: "Couple",
+        image: "https://i.pravatar.cc/100?img=20",
+        review:
+            "We picked Travelosun for our anniversary getaway. The private sunset boat, cozy boutique stay, and little personalized touches made it magical. Professional service and genuine local recommendations—we'll be back for more adventures.",
     },
 ];
 

@@ -175,7 +175,7 @@ const Navbar = () => {
             </NavLink>
           </ul>
           <button className="bg-primary  text-white text-sm uppercase font-semibold px-6 py-4 rounded hover:bg-Secondary transition">
-            <Link to="/"> Book Now </Link>
+            <Link to="/contact-us"> Book Now </Link>
           </button>
 
         </nav>

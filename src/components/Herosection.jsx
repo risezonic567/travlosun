@@ -3,10 +3,10 @@ import { FaPlaneDeparture, FaUmbrellaBeach, FaMapSigns, FaMountain, FaSearch } f
 export default function Hero() {
     return (
         <section className="relative bg-white overflow-hidden flex flex-col md:flex-row items-center justify-between px-6 md:px-16 lg:px-24 py-12 h-screen mt-32">
-         <div className=" absolute inset-0 bg-center bg-cover bg-no-repeat "
+            <div className=" absolute inset-0 bg-center bg-cover bg-no-repeat "
                 style={{ backgroundImage: "url('https://htmldesigntemplates.com/html/travelin/images/testimonial.png')" }}>
 
-         </div>
+            </div>
             {/* Left Side: Text */}
             <div className=" relative md:w-1/2 space-y-5">
                 <h3 className="text-teal-600 font-semibold uppercase tracking-wide">Explore The World</h3>
@@ -14,8 +14,7 @@ export default function Hero() {
                     Start Planning Your <br /> Dream Trip Today!
                 </h1>
                 <p className="text-gray-500 text-base max-w-md">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
-                </p>
+                    Experience luxury, comfort, and adventure with Travel O Sun—offering custom domestic tour packages, affordable flight tickets, and romantic honeymoon trips across India.   </p>
 
                 {/* Search Form */}
                 <form className="mt-6 space-y-4">
@@ -52,7 +51,7 @@ export default function Hero() {
                         type="submit"
                         className="w-full flex items-center gap-x-2 sm:w-auto bg-teal-600 text-white font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-teal-700 transition"
                     >
-                    <FaSearch/> Search Now
+                        <FaSearch /> Search Now
                     </button>
                 </form>
             </div>

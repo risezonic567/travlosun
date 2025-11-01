@@ -9,7 +9,7 @@ export default function TopDeal() {
                 <div className="relative text-center my-16 max-w-3xl mx-auto font-serif space-y-4">
                     <h3 className="text-Lightcolor text-2xl font-semibold">Top Deals</h3>
                     <h2 className="text-5xl font-semibold text-gray-700">
-                        <span className="text-primary">The Last</span> The Last Minute Deals
+                        <span className="text-primary">The Last</span>  Minute Deals
                     </h2>
                     <p className="text-xl">
 
@@ -114,7 +114,7 @@ export default function TopDeal() {
                                     <h4 className="text-white text-lg font-semibold">Los Angeles</h4>
                                 </div> */}
                                 <div className='h-full bg-white text-black p-4 font-serif ' >
-                                    <div> ssh root@72.60.223.24
+                                    <div>
                                         {/* <h2 className='text-primary' >Title</h2> */}
                                         <h3 className='text-xl font-semibold text-gray-700'>Leh to Leh with Turtuk Village</h3>
                                         <div className='flex gap-x-2'>
