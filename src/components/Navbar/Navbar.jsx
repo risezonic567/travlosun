@@ -72,7 +72,7 @@ const Navbar = () => {
       {!scrolling && (
         <div className="text-white text-sm w-full md:flex hidden justify-center py-2  bg-primary">
           <div className="w-full max-w-[1320px] flex justify-between items-center px-6 flex-wrap gap-2">
-            <span className="flex items-center gap-x-4" >  <FaLocationDot />Ramphal Chowk, Dwarka, Sector 7, New Delhi<FaClock />   Mon-Fri: 10 AM – 5 PM
+            <span className="flex items-center gap-x-4" >  <FaLocationDot />Ramphal Chowk, Dwarka, Sector 7, New Delhi
             </span>
             <div className="flex items-center gap-4">
               {/* <span>Phone: Devrana, Delhi-Haridwar Highway, Mansurpur, Muzaffarnagar</span> */}
@@ -84,7 +84,7 @@ const Navbar = () => {
                   <FaFacebookF />
                 </Link>
                 <Link
-                  to=" https://www.linkedin.com/company/travelosun-holidays/"
+                  to="https://www.linkedin.com/company/travelosun-holidays/"
                   className="w-8 h-8 bg-white rounded-full flex items-center p-0 justify-center text-primary"
                 >
                   <FaLinkedinIn />

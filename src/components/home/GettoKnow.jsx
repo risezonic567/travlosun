@@ -1,7 +1,7 @@
 import React from 'react'
 import { MdOutlineLocationOn } from "react-icons/md";
 import { AiOutlineFolderOpen } from "react-icons/ai";
-import { BsCurrencyDollar } from "react-icons/bs";
+import { BsCurrencyDollar, BsCurrencyRupee } from "react-icons/bs";
 export default function GettoKnow() {
     return (
         <>
@@ -45,7 +45,7 @@ export default function GettoKnow() {
                                 <span>Tour Guide</span>
                             </div>
                             <div className="flex items-center gap-2">
-                                <BsCurrencyDollar className="text-teal-600 text-xl" />
+                                <BsCurrencyRupee className="text-teal-600 text-xl" />
                                 <span>Friendly Price</span>
                             </div>
                             <div className="flex items-center gap-2">

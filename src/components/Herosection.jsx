@@ -11,7 +11,7 @@ export default function Hero() {
             <div className=" relative md:w-1/2 space-y-5">
                 <h3 className="text-teal-600 font-semibold uppercase tracking-wide">Explore The World</h3>
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-800 leading-tight">
-                    Start Planning Your <br /> Dream Trip Today!
+                    Discover India with <br /> Premium Domestic Tour Packages & Flight Deals
                 </h1>
                 <p className="text-gray-500 text-base max-w-md">
                     Experience luxury, comfort, and adventure with Travel O Sun—offering custom domestic tour packages, affordable flight tickets, and romantic honeymoon trips across India.   </p>

@@ -37,7 +37,7 @@ export default function Feedback() {
                 }} ></div>
                 <div className="relative max-w-5xl mx-auto text-center space-y-6 sm:space-y-8 my-12">
                     <h3 className="text-sm sm:text-base text-Lightcolor font-serif font-semibold">
-                        3 Step of The Perfect Tour
+                        4 Step of The Perfect Tour
                     </h3>
                     <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif font-semibold text-primary">
                         <span className="text-gray-800">Discover India’s</span> Top Holiday Destinations
@@ -67,10 +67,10 @@ export default function Feedback() {
                                 </div>
 
                                 <div className="flex-1">
-                                    <h4 id={`step-title-${step.id}`} className="font-semibold text-base sm:text-lg mb-2 text-gray-800 dark:text-gray-100">
+                                    <h4 id={`step-title-${step.id}`} className="font-semibold text-base sm:text-lg mb-2 text-gray-800 ">
                                         {step.title}
                                     </h4>
-                                    <p className="text-sm sm:text-sm md:text-base text-gray-600 dark:text-gray-300 mb-0">
+                                    <p className="text-sm sm:text-sm md:text-base text-gray-600  mb-0">
                                         {step.desc}
                                     </p>
                                 </div>
