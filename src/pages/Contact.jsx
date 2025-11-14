@@ -58,7 +58,7 @@ export default function ContactUs() {
                             <ContactCard
                                 icon={<MapPin className="text-sky-500" size={26} />}
                                 title="Office"
-                                detail="B17 third floor gale no4 Esanjay nagar rohini sector 2110085"
+                                detail="B17 third floor gale no 4 Esanjay nagar rohini sector 2110085"
                             />
                         </div>
                     </motion.div>
