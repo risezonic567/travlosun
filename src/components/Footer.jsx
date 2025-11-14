@@ -124,7 +124,7 @@ const Footer = () => {
                             </p>
                             <ul className="text-sm space-y-1">
                                 <li><strong>PO Box:</strong> 9797941414</li>
-                                <li><strong>Location:</strong> D-448, Second Floor, Shiksha Bharati Road, Ramphal Chowk, Sector 7, Dwarka, New Delhi – 110045, India</li>
+                                <li><strong>Location:</strong> B17 third floor gale no4 Esanjay nagar rohini sector 2110085</li>
                                 <li><strong>Email:</strong> info@travelosun.com</li>
                                 <li><strong>Website:</strong> www.Travelosun.com</li>
                             </ul>

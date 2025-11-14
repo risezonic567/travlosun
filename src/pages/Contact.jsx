@@ -58,7 +58,7 @@ export default function ContactUs() {
                             <ContactCard
                                 icon={<MapPin className="text-sky-500" size={26} />}
                                 title="Office"
-                                detail="D-448, Second Floor, Shiksha Bharati Road, Ramphal Chowk, Sector 7, Dwarka, New Delhi – 110045, India"
+                                detail="B17 third floor gale no4 Esanjay nagar rohini sector 2110085"
                             />
                         </div>
                     </motion.div>

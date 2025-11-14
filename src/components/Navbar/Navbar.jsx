@@ -72,7 +72,7 @@ const Navbar = () => {
       {!scrolling && (
         <div className="text-white text-sm w-full md:flex hidden justify-center py-2  bg-primary">
           <div className="w-full max-w-[1320px] flex justify-between items-center px-6 flex-wrap gap-2">
-            <span className="flex items-center gap-x-4 invisible" >  <FaLocationDot />Ramphal Chowk, Dwarka, Sector 7, New Delhi
+            <span className="flex items-center gap-x-4 " >  <FaLocationDot />B17 third floor gale no4 Esanjay nagar rohini sector 2110085
             </span>
             <div className="flex items-center gap-4">
               {/* <span>Phone: Devrana, Delhi-Haridwar Highway, Mansurpur, Muzaffarnagar</span> */}
