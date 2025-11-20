@@ -2,7 +2,7 @@ import { FaPlaneDeparture, FaUmbrellaBeach, FaMapSigns, FaMountain, FaSearch } f
 
 export default function Hero() {
     return (
-        <section className="relative bg-white overflow-hidden flex flex-col md:flex-row items-center justify-between px-6 md:px-16 lg:px-24 py-12 h-screen mt-32">
+        <section className="relative bg-white overflow-hidden flex flex-col md:flex-row items-center justify-between px-6 md:px-16 lg:px-24 py-12 sm:h-screen mt-32">
             <div className=" absolute inset-0 bg-center bg-cover bg-no-repeat "
                 style={{ backgroundImage: "url('https://htmldesigntemplates.com/html/travelin/images/testimonial.png')" }}>
 
@@ -57,7 +57,7 @@ export default function Hero() {
             </div>
 
             {/* Right Side: Image */}
-            <div className="relative md:w-1/2 mt-10 md:mt-0 flex justify-center">
+            <div className="relative md:w-1/2 mt-10 md:mt-0 sm:flex hidden justify-center">
                 <div className="absolute -z-10 bg-yellow-400 w-[400px] h-[400px] rounded-full top-10 right-0"></div>
 
                 <img
@@ -66,7 +66,7 @@ export default function Hero() {
                     className="w-[350px] md:w-[400px] lg:w-[450px] object-contain relative z-10"
                 />
 
-                {/* Floating Icons */}
+             
                 <div className="absolute top-0 right-16 bg-teal-500 p-3 rounded-full text-white text-xl shadow-lg">
                     <FaPlaneDeparture />
                 </div>

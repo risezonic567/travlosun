@@ -9,6 +9,8 @@ import TourPackages from '../components/home/TourPackages'
 import VideoSection from "../components/VideoSection"
 import SpecialOffers from '../components/home/SpecialOffers'
 import BlogCard from '../components/BlogCard'
+import TripSlider from '../components/home/TripSlider'
+import TripSliderReverse from '../components/home/TripSliderReverse'
 
 export default function Home() {
   useEffect(() => {
@@ -19,15 +21,23 @@ export default function Home() {
   return (
     <div>
       <Herosection />
-      <Homeslider />
+      {/* <Homeslider /> */}
+      <TripSliderReverse />
+      <section  >
+        <div className='flex w-full justify-center '>
+          <img className='max-w-7xl mx-auto ' src="https://static.justwravel.com/images/cgnfe1hd/production/4cf53ceaccd90f62819475ec38efd735167c4cc9-1920x678.webp?fm=webp" alt="" />
+        </div> </section>
+      <TripSlider />
+      <TourPackages />
+
       <Feedback />
       <TopDestination />
       <GettoKnow />
-      <TourPackages />
+
       <TopDeal />
       <VideoSection />
       {/* <SpecialOffers /> */}
-      <BlogCard/>
+      <BlogCard />
 
     </div>
   )
