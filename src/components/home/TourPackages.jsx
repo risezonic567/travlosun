@@ -88,7 +88,7 @@ export default function TourPackages() {
             country: data[0].country,
         }))) || [];
     return (
-        <section className="py-16 px-6 lg:px-20 max-w-7xl mx-auto">
+        <section className="py-16 px-6 lg:px-20 2xl:max-w-full lg:mx-w-7xl mx-auto">
             <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center mb-8 gap-6  ">
                 <div className="max-w-xl">
                     <p className="text-yellow-500 font-semibold">Top Pick</p>
@@ -124,14 +124,15 @@ export default function TourPackages() {
                 modules={[Navigation, Autoplay]}
                 spaceBetween={28}
                 loop={true}
-                autoplay={{
-                    delay: 4000,
-                    disableOnInteraction: false,
-                }}
+                // autoplay={{
+                //     delay: 4000,
+                //     disableOnInteraction: false,
+                // }}
                 slidesPerView={1}
                 breakpoints={{
                     768: { slidesPerView: 2 },
                     1024: { slidesPerView: 3 },
+                    1500: { slidesPerView:5 },
                 }}
                 onInit={(swiper) => {
                     // attach custom navigation elements after Swiper init
@@ -230,7 +231,7 @@ export default function TourPackages() {
                                     </div>
 
                                     {/* --- Content Overlay (Bottom) --- */}
-                                    <div className="absolute inset-0 flex flex-col justify-end p-5 text-white">
+                                    <div className="absolute inset-0 flex flex-col justify-end p-2 text-white">
 
                                         {/* Trek Title (More prominent and separate from location) */}
                                         <h1

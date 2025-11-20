@@ -64,7 +64,7 @@ export default function TripSlider() {
     ];
 
     return (
-        <div className="relative w-full px-6 py-12">
+        <div className="relative 2xl:max-w-full lg:max-w-6xl mx-auto px-2 py-12">
             {/* Custom Navigation Buttons */}
             <button
                 ref={prevRef}
