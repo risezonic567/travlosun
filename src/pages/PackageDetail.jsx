@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import data from "../data/destinations.json";
 import BookingModal from "../components/BookingModal";
+import { Helmet } from "react-helmet";
 
 const PackageDetail = () => {
     const { slug } = useParams();
@@ -26,6 +27,12 @@ const PackageDetail = () => {
 
     return (
         <div className="max-w-6xl mx-auto px-4 py-8 mt-32">
+            <Helmet>
+                <title>{pkg.metatitle}</title>
+                <meta name="description" content={pkg.metadescription} />
+                <meta name="keywords" content={pkg.metakeywords} />
+
+            </Helmet>
             {/* Back Button */}
             <Link to="/packages" className="text-blue-600 mb-4 inline-block">
                 ← Back to Packages

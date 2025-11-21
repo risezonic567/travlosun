@@ -1,6 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import destinations from "../data/destinations.json";
 import Herosection from "../components/Destination/Herosection";
+import { Helmet } from "react-helmet";
 
 export default function DestinationPackages() {
     const { slug } = useParams();
@@ -24,6 +25,12 @@ export default function DestinationPackages() {
 
     return (
         <>
+            <Helmet>
+                <title>Explore Our Blog | Star Alliance Aviation.</title>
+                <meta name="description" content="" />
+                <meta name="keywords" content="" />
+
+            </Helmet>
             <Herosection />
             <div className="max-w-6xl mx-auto px-4 py-16">
                 <Link

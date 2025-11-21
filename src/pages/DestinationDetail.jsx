@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import destinations from "../data/destinations.json";
 import BookingModal from "../components/BookingModal";
+import { Helmet } from "react-helmet";
 
 export default function DestinationDetail() {
   const { countrySlug, stateSlug } = useParams();
@@ -54,6 +55,12 @@ export default function DestinationDetail() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 mt-32">
+      <Helmet>
+                <title>Explore Our Blog | Star Alliance Aviation.</title>
+                <meta name="description" content="" />
+                <meta name="keywords" content="" />
+
+            </Helmet>
       {/* Back Button */}
       <Link
         to={`/destination/${normalizeSlug(country.slug)}`}

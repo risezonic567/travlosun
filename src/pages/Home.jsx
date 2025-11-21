@@ -8,9 +8,12 @@ import TopDeal from '../components/home/TopDeal'
 import TourPackages from '../components/home/TourPackages'
 import VideoSection from "../components/VideoSection"
 import SpecialOffers from '../components/home/SpecialOffers'
-import BlogCard from '../components/BlogCard'
+import BlogCard from '../components/BlogCardHome'
 import TripSlider from '../components/home/TripSlider'
 import TripSliderReverse from '../components/home/TripSliderReverse'
+import BlogCardHome from '../components/BlogCardHome'
+import TopDestinationSlider from '../components/home/TopDestinationSlider'
+import { Helmet } from 'react-helmet'
 
 export default function Home() {
   useEffect(() => {
@@ -20,6 +23,12 @@ export default function Home() {
   })
   return (
     <div>
+      <Helmet>
+        <title>Explore Our Blog | Star Alliance Aviation.</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+
+      </Helmet>
       <Herosection />
       {/* <Homeslider /> */}
       <TripSliderReverse />
@@ -35,7 +44,8 @@ export default function Home() {
           <img src="https://static.justwravel.com/images/cgnfe1hd/production/6148e201ef2c23c4163da2c73b0af32afba36ecb-1920x678.webp?fm=webp" alt="" />
         </div> </section>
       {/* <Feedback /> */}
-      <TopDestination />
+      {/* <TopDestination /> */}
+      <TopDestinationSlider/>
       <section className='2xl:max-w-full lg:max-w-6xl p-2  mx-auto overflow-hidden'  >
         <div className='flex w-full justify-center '>
           <img src="https://static.justwravel.com/images/cgnfe1hd/production/52ee9879fbee34a3009be9d4f9e1fdce1e24a83e-1920x678.webp?fm=webp" alt="" />
@@ -45,8 +55,7 @@ export default function Home() {
       <TopDeal />
       <VideoSection />
       {/* <SpecialOffers /> */}
-      {/* <BlogCard /> */}
-
+      <BlogCardHome />
     </div>
   )
 }

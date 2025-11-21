@@ -1,10 +1,17 @@
 import { Link } from "react-router-dom";
 import destinations from "../data/destinations.json";
 import Herosection from "../components/Destination/Herosection";
+import { Helmet } from "react-helmet";
 
 export default function DestinationList() {
     return (
         <>
+            <Helmet>
+                <title>Explore Our Blog | Star Alliance Aviation.</title>
+                <meta name="description" content="" />
+                <meta name="keywords" content="" />
+
+            </Helmet>
             <Herosection />
             <div className="max-w-6xl mx-auto px-4 py-16">
                 <h1 className="text-4xl font-bold text-center mb-8 text-gray-800">
