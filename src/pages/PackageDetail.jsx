@@ -31,7 +31,7 @@ const PackageDetail = () => {
                 <title>{pkg.metatitle}</title>
                 <meta name="description" content={pkg.metadescription} />
                 <meta name="keywords" content={pkg.metakeywords} />
-
+                <link rel="canonical" href={`https://travelosun.com/${pkg.slug}`} />
             </Helmet>
             {/* Back Button */}
             <Link to="/packages" className="text-blue-600 mb-4 inline-block">
