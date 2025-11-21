@@ -132,7 +132,7 @@ export default function TourPackages() {
                 breakpoints={{
                     768: { slidesPerView: 2 },
                     1024: { slidesPerView: 3 },
-                    1500: { slidesPerView:5 },
+                    1500: { slidesPerView:4 },
                 }}
                 onInit={(swiper) => {
                     // attach custom navigation elements after Swiper init
@@ -153,7 +153,7 @@ export default function TourPackages() {
                                             | Per person
                                         </span>
                                     </p> */}
-                            {/* <article className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all">
+                            <article className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all">
 
                                 <div className="relative">
                                     <img
@@ -197,43 +197,42 @@ export default function TourPackages() {
                                         <div className="w-12 h-1 bg-teal-600 rounded" />
                                     </div>
                                 </div>
-                            </article> */}
-                            <div className="max-w-xs mx-auto rounded-xl overflow-hidden shadow-xl transition-all duration-500 ease-in-out hover:shadow-2xl hover:scale-[1.03] transform group">
+                            </article>
+                            {/* <div className="max-w-xs mx-auto rounded-xl overflow-hidden shadow-xl transition-all duration-500 ease-in-out hover:shadow-2xl hover:scale-[1.03] transform group">
 
-                                {/* --- Image and Overlay Container --- */}
+                            
                                 <div className="relative h-96">
 
-                                    {/* Background Image with Enhanced Hover Effect */}
                                     <div
                                         className="absolute inset-0 bg-cover bg-center transition-transform duration-500 ease-in-out group-hover:scale-105"
                                         style={{
                                             backgroundImage: "url(https://static.justwravel.com/images/cgnfe1hd/production/dcc3a6c1df882482de439cdf34dfc98992da488d-663x875.webp?fm=webp)",
-                                            // Smoother initial dark overlay
+                                        
                                             filter: "brightness(85%)",
                                         }}
                                     >
-                                        {/* Permanent dark overlay */}
+                                    
                                         <div className="absolute inset-0 bg-gray-900 opacity-45"></div>
                                     </div>
 
-                                    {/* --- Top Right Badges --- */}
+                    
                                     <div className="absolute top-0 right-0 p-3 flex flex-col items-end space-y-2">
 
-                                        {/* Upto OFF Badge (Slightly larger OFF text) */}
+                                  
                                         <div className="bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg shadow-lg">
                                             Upto <span className="text-xl font-extrabold">800</span> OFF
                                         </div>
 
-                                        {/* Easy to Moderate Badge (Pill shape) */}
+                                   
                                         <div className="bg-white text-blue-600 text-sm font-bold px-4 py-1.5 rounded-full shadow-lg">
                                             Easy to Moderate
                                         </div>
                                     </div>
 
-                                    {/* --- Content Overlay (Bottom) --- */}
+                                
                                     <div className="absolute inset-0 flex flex-col justify-end p-2 text-white">
 
-                                        {/* Trek Title (More prominent and separate from location) */}
+                                        
                                         <h1
                                             className="text-sm font-black mb-2 leading-tight text-start"
                                             style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.8)' }}
@@ -241,7 +240,7 @@ export default function TourPackages() {
                                             {pkg.title}
                                         </h1>
 
-                                        {/* Location Badge (Refined opacity) */}
+                                     
                                         <div className="inline-flex justify-start text-start items-center bg-black bg-opacity-40 text-sm px-3 py-1 rounded-full w-fit mb-3 ">
                                             <svg className="w-4 h-4 mr-1 text-red-400" fill="currentColor" viewBox="0 0 20 20">
                                                 <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -249,15 +248,15 @@ export default function TourPackages() {
                                             <span className="font-semibold text-xs" >{pkg.locationName}</span>
                                         </div>
 
-                                        {/* Divider with more separation */}
+                                    
                                         <hr className="border-gray-300 border-opacity-70 mb-3" />
 
-                                        {/* Duration, Price, and Ratings Row */}
+                                    
                                         <div className="flex items-end justify-between">
 
-                                            {/* Price and Ratings Column */}
+                                          
                                             <div className="flex flex-col">
-                                                {/* Price */}
+                                       
                                                 <div className="flex items-baseline space-x-2 mb-2">
                                                     <span className="text-sm line-through opacity-70">
                                                         50000
@@ -268,7 +267,6 @@ export default function TourPackages() {
                                                     </span>
                                                 </div>
 
-                                                {/* Ratings */}
                                                 <div className="flex items-center">
                                                     {[...Array(5)].map((_, i) => (
                                                         <svg key={i} className="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20">
@@ -281,7 +279,6 @@ export default function TourPackages() {
                                                 </div>
                                             </div>
 
-                                            {/* Duration and Calendar Column */}
                                             <div className="flex flex-col items-end space-y-1 text-sm opacity-90">
                                                 <div className="flex items-center">
                                                     <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
@@ -299,7 +296,7 @@ export default function TourPackages() {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </Link>
                     </SwiperSlide>
                 ))}
