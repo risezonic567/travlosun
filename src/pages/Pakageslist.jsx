@@ -20,7 +20,7 @@ useEffect(()=>{
                 <title>Explore India Tour Packages | holiday Packages by Travel O Sun</title>
                 <meta name="description" content="Get the exclusive India tour package deals from Travel O Sun. Choose from affordable family, honeymoon, and adventure holiday deals with personalized itineraries." />
                 <meta name="keywords" content="holiday Packages " />
-
+                <link rel="canonical" href="https://travelosun.com/packages" />
             </Helmet>
             <Herosection />
             <div className="min-h-screen bg-gray-50 py-10">

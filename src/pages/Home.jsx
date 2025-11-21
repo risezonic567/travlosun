@@ -24,9 +24,10 @@ export default function Home() {
   return (
     <div>
       <Helmet>
-        <title>Explore Our Blog | Star Alliance Aviation.</title>
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
+        <title>Best Domestic Holiday Packages in India | Travel O Sun</title>
+        <meta name="description" content="Explore the best domestic holiday packages in India with Travel O Sun. Discover customized family tours, honeymoon trips, and budget-friendly travel deals for every destination." />
+        <meta name="keywords" content="domestic holiday packages in India" />
+        <link rel="canonical" href="https://travelosun.com" />
 
       </Helmet>
       <Herosection />
