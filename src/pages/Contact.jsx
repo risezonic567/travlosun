@@ -4,6 +4,7 @@ import ContactForm from "../components/Contact/ContactForm";
 import ContactCard from "../components/Contact/ContactCard";
 import MapEmbed from "../components/Contact/MapEmbed";
 import { useEffect } from "react";
+import { Helmet } from "react-helmet";
 
 export default function ContactUs() {
     useEffect(() => {
@@ -12,6 +13,12 @@ export default function ContactUs() {
     }, [])
     return (
         <div className="min-h-screen bg-gradient-to-b from-sky-50 to-white text-gray-800">
+            <Helmet>
+                <title>Contact Travel O Sun | Get in Touch for travel support</title>
+                <meta name="description" content=" Travel O Sun—India’s trusted travel agency for domestic flight booking, hotel deals, and holiday packages. Contact our support team for tour planning and the best travel offers." />
+                <meta name="keywords" content="Travel agency" />
+                <link rel="canonical" href="https://travelosun.com/contact-us" />
+            </Helmet>
             {/* Hero Section */}
             <section className="sm:mt-32 mt-18 relative h-[50vh] flex items-center justify-center bg-[url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center">
                 <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />

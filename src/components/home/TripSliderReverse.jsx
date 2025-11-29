@@ -98,7 +98,7 @@ export default function TripSliderReverse() {
 
 
             <Swiper
-                slidesPerView={1.1}
+                slidesPerView={3.2}
                 spaceBetween={20}
                 loop={true}
                 onInit={(swiper) => {

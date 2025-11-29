@@ -12,6 +12,8 @@ import ThankYou from "./pages/ThankYou";
 import BookingStatus from "./components/BookingStatus";
 import PackagesList from "./pages/Pakageslist";
 import PackageDetail from "./pages/PackageDetail";
+import PostDetail from "./pages/PostDetail";
+import Blogs from "./pages/Blogs";
 
 
 function App() {
@@ -27,12 +29,14 @@ function App() {
 
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<About />} />
-        <Route path="/destination" element={<DestinationList />} />
-        <Route path="/destination/:slug" element={<DestinationPackages />} />
-        <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} />
+          {/* <Route path="/destination" element={<DestinationList />} />
+          <Route path="/destination/:slug" element={<DestinationPackages />} />
+          <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} /> */}
         <Route path="/packages" element={<PackagesList />} />
         <Route path="/packages/:slug" element={<PackageDetail />} />
         <Route path="/contact-us" element={<ContactUs />} />
+        <Route path="/blog" element={<Blogs />} />
+        <Route path="/blog/:slug" element={<PostDetail />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/booking-status" element={<BookingStatus />} />
       </Routes>
