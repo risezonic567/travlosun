@@ -56,25 +56,37 @@ export default function Feedback() {
                         {steps.map((step) => (
                             <article
                                 key={step.id}
-                                className="w-full bg-white hover:bg-primary hover:text-white transition-all duration-200 rounded-lg p-5 sm:p-6 shadow-sm hover:shadow-lg transform hover:-translate-y-1 focus:outline-none focus:ring-2 focus:ring-primary text-center flex flex-col"
+                                className="group w-full bg-white rounded-2xl p-6 shadow-sm 
+  hover:shadow-xl transition-all duration-300 
+  transform hover:-translate-y-2 
+  border border-gray-100 cursor-pointer"
                                 tabIndex={0}
                                 aria-labelledby={`step-title-${step.id}`}
                             >
-                                <div className="flex-shrink-0 mx-auto mb-4">
-                                    <div className="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 rounded-full bg-primary text-white flex items-center justify-center text-lg sm:text-xl md:text-2xl">
+                                <div className="flex-shrink-0 mx-auto mb-5">
+                                    <div className="w-16 h-16 rounded-full bg-primary/10 
+    text-primary group-hover:bg-white group-hover:text-primary 
+    flex items-center justify-center 
+    text-2xl transition-all duration-300 shadow-sm">
                                         {step.icon}
                                     </div>
                                 </div>
 
-                                <div className="flex-1">
-                                    <h4 id={`step-title-${step.id}`} className="font-semibold text-base sm:text-lg mb-2 text-gray-800 ">
+                                <div className="flex-1 text-center">
+                                    <h4
+                                        id={`step-title-${step.id}`}
+                                        className="font-semibold text-gray-800 text-lg 
+      group-hover:text-primary transition-colors duration-300"
+                                    >
                                         {step.title}
                                     </h4>
-                                    <p className="text-sm sm:text-sm md:text-base text-gray-600  mb-0">
+
+                                    <p className="text-gray-600 text-sm mt-2 group-hover:text-primary transition-colors">
                                         {step.desc}
                                     </p>
                                 </div>
                             </article>
+
                         ))}
                     </div>
                 </div>
