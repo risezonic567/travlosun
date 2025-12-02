@@ -155,7 +155,7 @@ const Footer = () => {
                                     <a href="/privacy-policy" className="hover:text-gray-300">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="/return-policy" className="hover:text-gray-300">Return Policy</a>
+                                    <a href="/cancellation-refund-policy" className="hover:text-gray-300">Return Policy</a>
                                 </li>
                                 <li>
                                     <a href="/terms-conditions" className="hover:text-gray-300">Terms and Condition</a>
