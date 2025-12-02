@@ -16,7 +16,7 @@
 //     key: import.meta.env.VITE_RAZORPAY_KEY,
 //     amount: amount * 100, // in paisa
 //     currency: "INR",
-//     name: "TravelSun",
+//     name: "TraveloSun",
 //     description,
 //     image: "/logo.png",
 //     handler: function (response) {
@@ -55,7 +55,7 @@ export const openRazorpayPayment = async ({ amount, name, description, onSuccess
         key: import.meta.env.VITE_RAZORPAY_KEY_ID,
         amount: amount * 100, // in paisa
         currency: "INR",
-        name: "TravelSun",
+        name: "TraveloSun",
         description,
         image: "/logo.png",
         handler: function (response) {

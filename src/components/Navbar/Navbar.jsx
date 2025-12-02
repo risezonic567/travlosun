@@ -150,7 +150,7 @@ const Navbar = () => {
             </li> */}
 
             <NavLink to="/packages">
-              <li className="hover:text-Secondary">Holidays Destination</li>
+              <li className="hover:text-Secondary">Holidays Packages</li>
             </NavLink>
             {/* <NavLink to="/">
               <li className="hover:text-Secondary">Tours</li>
@@ -221,7 +221,7 @@ const Navbar = () => {
               {/* Pakages  */}
               <NavLink to="/packages">
                 <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
-                  Holidays Destination
+                  Holidays Packages
                 </li>
               </NavLink>
               {/* Contact */}

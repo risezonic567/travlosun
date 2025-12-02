@@ -28,7 +28,7 @@ export default function ContactUs() {
                     transition={{ duration: 0.8 }}
                     className="relative z-10 text-5xl md:text-6xl font-bold text-white tracking-wide"
                 >
-                    Get in Touch with <span className="text-sky-400">TravelSun</span>
+                    Get in Touch with <span className="text-sky-400">TraveloSun</span>
                 </motion.h1>
             </section>
 

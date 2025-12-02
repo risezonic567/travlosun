@@ -6,7 +6,7 @@
 //     const handlePayment = () => {
 //         openRazorpay({
 //             amount,
-//             name: "TravelSun Holidays",
+//             name: "TraveloSun Holidays",
 //             description: `Booking for ${packageName}`,
 //         });
 //     };
