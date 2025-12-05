@@ -123,7 +123,7 @@ const Footer = () => {
                                 Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations .
                             </p>
                             <ul className="text-sm space-y-1">
-                                <li><strong>PO Box:</strong> 9797941414</li>
+                                <li><strong>Number:</strong> 9797941414</li>
                                 <li><strong>Location:</strong> B17 third floor gale no 4 Esanjay nagar rohini sector 2110085</li>
                                 <li><strong>Email:</strong> info@travelosun.com</li>
                                 <li><strong>Website:</strong> www.Travelosun.com</li>
