@@ -14,6 +14,9 @@ import PackagesList from "./pages/Pakageslist";
 import PackageDetail from "./pages/PackageDetail";
 import PostDetail from "./pages/PostDetail";
 import Blogs from "./pages/Blogs";
+import TermsConditions from "./pages/TermsConditions";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import CancellationRefundPolicy from "./pages/CancellationRefundPolicy";
 
 
 function App() {
@@ -29,9 +32,9 @@ function App() {
 
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<About />} />
-          {/* <Route path="/destination" element={<DestinationList />} />
+          {/*<Route path="/destination" element={<DestinationList />} />
           <Route path="/destination/:slug" element={<DestinationPackages />} />
-          <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} /> */}
+          <Route path="/destination/:countrySlug/:stateSlug" element={<DestinationDetail />} />*/}
         <Route path="/packages" element={<PackagesList />} />
         <Route path="/packages/:slug" element={<PackageDetail />} />
         <Route path="/contact-us" element={<ContactUs />} />
@@ -39,6 +42,9 @@ function App() {
         <Route path="/blog/:slug" element={<PostDetail />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/booking-status" element={<BookingStatus />} />
+        <Route path="/terms-conditions" element={<TermsConditions />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/cancellation-refund-policy" element={<CancellationRefundPolicy />} />
       </Routes>
       <Footer />
     </BrowserRouter>
