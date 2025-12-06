@@ -1,8 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 export default function TermsConditions() {
   return (
     <div className="bg-gray-50 min-h-screen py-16 px-6 sm:mt-28 mt-20">
+      <Helmet>
+        <title>Terms & Conditions | Travelosun Travel Booking Guidelines</title>
+        <meta name="description" content="Review Travelosun’s Terms and Conditions covering travel bookings, user responsibilities, payments, cancellations, and service guidelines." />
+        <meta name="keywords" content="terms and conditions, travel booking terms," />
+        <link rel="canonical" href="https://travelosun.com/terms-conditions" />
+      </Helmet>
       <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-2xl p-10">
         <h1 className="text-3xl font-bold text-gray-800 mb-6 text-center">Travel O Sun Terms & Conditions</h1>
 

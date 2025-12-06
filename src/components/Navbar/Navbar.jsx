@@ -72,7 +72,7 @@ const Navbar = () => {
       {!scrolling && (
         <div className="text-white text-sm w-full md:flex hidden justify-center py-2  bg-primary">
           <div className="w-full max-w-[1320px] flex justify-between items-center px-6 flex-wrap gap-2">
-            <span className="flex items-center gap-x-4 " >  <FaLocationDot />B17 third floor gale no 4 Esanjay nagar rohini sector 2110085
+            <span className="flex items-center gap-x-4 " >  <FaLocationDot />D-448, Second Floor Shiksha Bharati Road, Ramphal Chowk Sector 7, Dwarka New Delhi - 110045
             </span>
             <div className="flex items-center gap-4">
               {/* <span>Phone: Devrana, Delhi-Haridwar Highway, Mansurpur, Muzaffarnagar</span> */}
@@ -123,7 +123,7 @@ const Navbar = () => {
             <img
               loading="lazy"
               src={logo}
-              alt="Star Alliance Aviation Academy"
+              alt="logo"
               className="w-32"
             />
           </Link>
@@ -191,7 +191,7 @@ const Navbar = () => {
               src={logo}
               // src="https://i.postimg.cc/qq7R0CjT/PNG-1.png"
 
-              alt="Star Alliance Aviation Academy"
+              alt="logo"
               className="h-14"
             />
           </NavLink>

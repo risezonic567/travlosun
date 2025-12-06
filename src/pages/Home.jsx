@@ -27,7 +27,7 @@ export default function Home() {
         <title>Best Domestic Holiday Packages in India | Travel O Sun</title>
         <meta name="description" content="Explore the best domestic holiday packages in India with Travel O Sun. Discover customized family tours, honeymoon trips, and budget-friendly travel deals for every destination." />
         <meta name="keywords" content="domestic holiday packages in India" />
-        <link rel="canonical" href="https://travelosun.com" />
+        <link rel="canonical" href="https://travelosun.com/" />
 
       </Helmet>
       <Herosection />

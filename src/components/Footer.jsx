@@ -81,9 +81,9 @@ const Footer = () => {
                 <div className="pb-10 relative z-10 mt-8">
                     <div className="container mx-auto mt-6">
                         <div className="text-center mb-6">
-                            <h5 className="inline-flex items-center justify-center bg-white/10 px-4 py-2 rounded-lg text-white text-lg font-semibold">
-                                <FaInstagram className="mr-2 text-primary" /> Follow on Instagram
-                            </h5>
+                            <a target="_blank" href="https://www.instagram.com/travelosun_holidays/?hl=en">  <button className="inline-flex items-center justify-center bg-white/10 px-4 py-2 rounded-lg text-white text-lg font-semibold">
+                                <FaInstagram className="mr-2 text-primary" /> Follow on Instagram 
+                            </button></a>
                         </div>
 
                         {/* <Swiper
@@ -123,10 +123,10 @@ const Footer = () => {
                                 Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations .
                             </p>
                             <ul className="text-sm space-y-1">
-                                <li><strong>Number:</strong> 9797941414</li>
-                                <li><strong>Location:</strong> B17 third floor gale no 4 Esanjay nagar rohini sector 2110085</li>
-                                <li><strong>Email:</strong> info@travelosun.com</li>
-                                <li><strong>Website:</strong> www.Travelosun.com</li>
+                                <li><strong>Number : </strong> 9797941414</li>
+                                <li><strong>Location : </strong> D-448, Second Floor Shiksha Bharati Road, Ramphal Chowk Sector 7, Dwarka New Delhi - 110045</li>
+                                <li><strong>Email : </strong> info@travelosun.com</li>
+                                <li><strong>Website : </strong> www.Travelosun.com</li>
                             </ul>
                         </div>
 
