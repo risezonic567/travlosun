@@ -224,6 +224,12 @@ const Navbar = () => {
                   Holidays Packages
                 </li>
               </NavLink>
+              {/* Blogs  */}
+              <NavLink to="/blog">
+                <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
+                Blog
+                </li>
+              </NavLink>
               {/* Contact */}
               <NavLink to="/contact-us">
                 <li className="px-3 py-2 rounded hover:bg-gray-100 hover:text-primary">
