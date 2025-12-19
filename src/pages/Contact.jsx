@@ -18,6 +18,52 @@ export default function ContactUs() {
                 <meta name="description" content=" Travel O Sun—India’s trusted travel agency for domestic flight booking, hotel deals, and holiday packages. Contact our support team for tour planning and the best travel offers." />
                 <meta name="keywords" content="Travel agency" />
                 <link rel="canonical" href="https://travelosun.com/contact-us" />
+                <script type="application/ld+json">
+                    {`
+            {
+              "@context": "https://schema.org",
+              "@type": "TravelAgency",
+              "name": "Travelosun",
+              "image": "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
+              "@id": "https://travelosun.com/#travelagency",
+              "url": "https://travelosun.com/contact-us",
+              "telephone": "+91-9797941414",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Shiksha Bharati Road, Ramphal Chowk Sector 7, Dwarka",
+                "addressLocality": "New Delhi",
+                "postalCode": "110045",
+                "addressCountry": "IN"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 28.5850451,
+                "longitude": 77.06777869999999
+              },
+              "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday",
+                  "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+              },
+              "sameAs": [
+                "https://www.facebook.com/travelosunholidays/",
+                "https://www.instagram.com/travelosun_holidays/?hl=en",
+                "https://www.youtube.com/@Travelosun-holidays",
+                "https://www.linkedin.com/company/travelosun-holidays/",
+                "https://in.pinterest.com/Travelosunholidays/"
+              ]
+            }
+          `}
+                </script>
             </Helmet>
             {/* Hero Section */}
             <section className="sm:mt-32 mt-18 relative h-[50vh] flex items-center justify-center bg-[url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center">

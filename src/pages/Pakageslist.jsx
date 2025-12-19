@@ -21,6 +21,52 @@ useEffect(()=>{
                 <meta name="description" content="Get the exclusive India tour package deals from Travel O Sun. Choose from affordable family, honeymoon, and adventure holiday deals with personalized itineraries." />
                 <meta name="keywords" content="holiday Packages " />
                 <link rel="canonical" href="https://travelosun.com/packages" />
+                <script type="application/ld+json">
+                    {`
+            {
+              "@context": "https://schema.org",
+              "@type": "TravelAgency",
+              "name": "Travelosun",
+              "image": "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
+              "@id": "https://travelosun.com/#travelagency",
+              "url": "https://travelosun.com/packages",
+              "telephone": "+91-9797941414",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Shiksha Bharati Road, Ramphal Chowk Sector 7, Dwarka",
+                "addressLocality": "New Delhi",
+                "postalCode": "110045",
+                "addressCountry": "IN"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 28.5850451,
+                "longitude": 77.06777869999999
+              },
+              "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday",
+                  "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+              },
+              "sameAs": [
+                "https://www.facebook.com/travelosunholidays/",
+                "https://www.instagram.com/travelosun_holidays/?hl=en",
+                "https://www.youtube.com/@Travelosun-holidays",
+                "https://www.linkedin.com/company/travelosun-holidays/",
+                "https://in.pinterest.com/Travelosunholidays/"
+              ]
+            }
+          `}
+                </script>
             </Helmet>
             <Herosection />
             <div className="min-h-screen bg-gray-50 py-10">

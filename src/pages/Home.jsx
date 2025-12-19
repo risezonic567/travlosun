@@ -28,6 +28,30 @@ export default function Home() {
         <meta name="description" content="Explore the best domestic holiday packages in India with Travel O Sun. Discover customized family tours, honeymoon trips, and budget-friendly travel deals for every destination." />
         <meta name="keywords" content="domestic holiday packages in India" />
         <link rel="canonical" href="https://travelosun.com/" />
+        <script type="application/ld+json">
+          {`
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Travelosun",
+              "url": "https://travelosun.com/",
+              "logo": "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+91-9797941414",
+                "contactType": "customer service",
+                "availableLanguage": ["en","Hindi"]
+              },
+              "sameAs": [
+                "https://www.facebook.com/travelosunholidays/",
+                "https://www.instagram.com/travelosun_holidays/?hl=en",
+                "https://www.youtube.com/@Travelosun-holidays",
+                "https://www.linkedin.com/company/travelosun-holidays/",
+                "https://in.pinterest.com/Travelosunholidays/"
+              ]
+            }
+          `}
+        </script>
 
       </Helmet>
       <Herosection />
