@@ -21,7 +21,7 @@
 //     );
 // }
 import React from "react";
-import { openRazorpayPayment } from "../utils/razorpay";
+// import { openRazorpayPayment } from "../utils/razorpay";
 import { useNavigate } from "react-router-dom";
 
 export default function PaymentButton({ amount, packageName }) {
