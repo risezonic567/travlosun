@@ -892,7 +892,6 @@ There are many reasons why these destinations are perfect to visit in December. 
       "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
 
     tags: [
-      "Christmas Getaways",
       "New Year 2025",
       "India Tourism",
       "Winter Vacations",
