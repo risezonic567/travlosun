@@ -1096,9 +1096,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     popularScore: 92 * 2 + 1420,
 
     image:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
     coverImage:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
 
     tags: [
       "New Year 2025",
@@ -1113,7 +1113,7 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg" class="w-full rounded-xl shadow mb-6" />
     <p>
      As winter approaches, January signals when you can really start thinking about where to travel to in India. The rush of the festive season is gone, and many areas have pleasant weather. With less congestion, it’s much easier and more enjoyable to visit popular travel destinations. If you’ve been waiting for an ideal time to plan your upcoming vacation, January is an excellent month to check out some of the most stunning travel locations in India, whether it’s to find some beautiful snow, soak up some sunshine, experience cultural experiences, or simply go for a peaceful getaway with your family. From hill resort towns covered in snow to tropical beach towns across the country that bask in the glow of low sun rays shining down upon them during this time of year, the possibilities are virtually unlimited when it comes to planning the best vacation in India. 
 
