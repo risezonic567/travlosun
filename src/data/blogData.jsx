@@ -1306,17 +1306,17 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
   },
   {
     id: 7,
-    slug: "january-winter-getaways-in-india:-snow,-hills-&-Scenic-escapes",
+    slug: "january-winter-getaways-in-india-snow-hills-and-scenic-escapes",
     metatitle:
       "January Winter Getaways in India: Snow, Hills & Scenic Escapes,",
     metadescription:
       "The month of January represents the rare transformation of India. The excitement of the festival season has come to a close, the weather is now cooler and crisper, and many of India's most stunning landscapes show their beauty in a more tranquil and intimate setting.",
     canonical:
-      "https://www.travelosun.com/blog/january-winter-getaways-in-india:-snow,-hills-&-Scenic-escapes",
+      "https://www.travelosun.com/blog/january-winter-getaways-in-india-snow-hills-and-scenic-escapes",
 
     title: "January Winter Getaways in India: Snow, Hills & Scenic Escapes",
     category: "Holiday Destinations",
-    date: "2026-01-15",
+    date: "2026-01-15", 
     author: "Travelosun Team",
     authorAvatar:
       "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
