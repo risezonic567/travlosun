@@ -887,9 +887,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     popularScore: 92 * 2 + 1420,
 
     image:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/Z5NDGkvB/Blog-images-January-Winter-Getaways-in-India-Snow-Hills-Scenic-Escapes.jpg",
     coverImage:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/Z5NDGkvB/Blog-images-January-Winter-Getaways-in-India-Snow-Hills-Scenic-Escapes.jpg",
 
     tags: [
       "New Year 2025",
@@ -904,7 +904,7 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/Z5NDGkvB/Blog-images-January-Winter-Getaways-in-India-Snow-Hills-Scenic-Escapes.jpg" class="w-full rounded-xl shadow mb-6" />
      
       Kashmir is a travel destination that features snow- capped mountains, peaceful valleys, serene lakes, and friendly local people.If any of these themes resonate with you, you will want to have a Kashmir trip on your travel list.You can start your Kashmir tour with The <a href="/"  class="text-blue-600">  Best Kashmir travel package </a> that begins in Jammu.This is one of the most straightforward and beautiful ways to get to know the region, with no stress of travelling there.
   </p >
