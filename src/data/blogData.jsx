@@ -887,9 +887,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     popularScore: 92 * 2 + 1420,
 
     image:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
     coverImage:
-      "https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg",
+      "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
 
     tags: [
       "New Year 2025",
@@ -904,7 +904,7 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/8zz1FtBM/blog-image-of-kashmir.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg" class="w-full rounded-xl shadow mb-6" />
      
       Kashmir is a travel destination that features snow- capped mountains, peaceful valleys, serene lakes, and friendly local people.If any of these themes resonate with you, you will want to have a Kashmir trip on your travel list.You can start your Kashmir tour with The <a href="/"  class="text-blue-600">  Best Kashmir travel package </a> that begins in Jammu.This is one of the most straightforward and beautiful ways to get to know the region, with no stress of travelling there.
   </p >
@@ -1306,17 +1306,17 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
   },
   {
     id: 7,
-    slug: "january-winter-getaways-in-india:-snow,-hills-&-Scenic-escapes",
+    slug: "january-winter-getaways-in-india-snow-hills-and-scenic-escapes",
     metatitle:
       "January Winter Getaways in India: Snow, Hills & Scenic Escapes,",
     metadescription:
       "The month of January represents the rare transformation of India. The excitement of the festival season has come to a close, the weather is now cooler and crisper, and many of India's most stunning landscapes show their beauty in a more tranquil and intimate setting.",
     canonical:
-      "https://www.travelosun.com/blog/january-winter-getaways-in-india:-snow,-hills-&-Scenic-escapes",
+      "https://www.travelosun.com/blog/january-winter-getaways-in-india-snow-hills-and-scenic-escapes",
 
     title: "January Winter Getaways in India: Snow, Hills & Scenic Escapes",
     category: "Holiday Destinations",
-    date: "2026-01-15",
+    date: "2026-01-15", 
     author: "Travelosun Team",
     authorAvatar:
       "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
@@ -1327,9 +1327,9 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
     popularScore: 92 * 2 + 2420,
 
     image:
-      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
+      "https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg",
     coverImage:
-      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
+      "https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg",
 
     tags: [
       "New Year 2026",
@@ -1344,7 +1344,7 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg" class="w-full rounded-xl shadow mb-6" />
     <p>
      The month of January represents the rare transformation of India. The excitement of the festival season has come to a close, the weather is now cooler and crisper, and many of India's most stunning landscapes show their beauty in a more tranquil and intimate setting. If you want to see snow-capped mountains, idyllic hillside villages, or stunning winter landscapes, January is undoubtedly one of the best months to visit India.
 
