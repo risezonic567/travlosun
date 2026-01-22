@@ -1491,7 +1491,7 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
       "https://www.travelosun.com/blog/best-winter-holiday-destinations-in-india-for-a-relaxing-trip",
 
     title: "Best Winter Holiday Destinations in India for a Relaxing Trip",
-    category: "Holiday Destinations",
+    category: "Winter Holiday",
     date: "2026-01-20",
     author: "Travelosun Team",
     authorAvatar:
@@ -1503,9 +1503,9 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
     popularScore: 92 * 2 + 2420,
 
     image:
-      "/Best-Winter-Holiday-Destinations-in-India-for-a-Relaxing-Trip.jpg",
+      "/Best-Winter-Holiday-Destinations.jpg",
     coverImage:
-      "/Best-Winter-Holiday-Destinations-in-India-for-a-Relaxing-Trip.jpg",
+      "/Best-Winter-Holiday-Destinations.jpg",
 
     tags: [
       "Domestic Tourism",
@@ -1520,7 +1520,7 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
     relatedPosts: [1, 3],
 
     content: `
-    <img src="/Best-Winter-Holiday-Destinations-in-India-for-a-Relaxing-Trip.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="/Best-Winter-Holiday-Destinations.jpg" class="w-full rounded-xl shadow mb-6" />
     <p>
      In India, winter allows for a unique chance to travel mindfully and at a slower pace. In contrast to the frenzied pace of summer holiday periods around festivals when people travel the most but tend to be on a busy itinerary, winter holidays typically consist of peaceful places, nice outside temperatures, and time spent creating meaningful memories by paying careful attention to what's happening around them. For those who want to find peace rather than jet-setting through the country, winter is an ideal time to find holiday packages in India that have all the options available to you for a thoughtful domestic trip that fits with your desires for relaxation and tranquillity.
 
