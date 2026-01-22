@@ -12,7 +12,7 @@ export default function Homeslider() {
 
     return (
         <section className="max-w-6xl mx-auto px-4 py-6">
-            {/* responsive grid: 2 cols on xs, 3 on sm, 4 on md, 6 on lg */}
+            {/* responsive grid: 2 cols on xs, 3 on sm, 4 on md,,, 6 on lg */}
             <div
                 role="list" 
                 className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 items-start"
