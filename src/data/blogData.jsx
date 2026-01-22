@@ -1488,7 +1488,7 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
     metadescription:
       "Discover the best winter holiday destinations in India for a relaxing trip. Explore domestic holiday packages in India, family-friendly tours, Kerala escapes, and affordable winter travel options.",
     canonical:
-      "https://www.travelosun.com/blog/january-winter-getaways-in-india:-snow,-hills-&-Scenic-escapes",
+      "https://www.travelosun.com/blog/best-winter-holiday-destinations-in-india-for-a-relaxing-trip",
 
     title: "Best Winter Holiday Destinations in India for a Relaxing Trip",
     category: "Holiday Destinations",
@@ -1508,10 +1508,10 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
       "/Best-Winter-Holiday-Destinations-in-India-for-a-Relaxing-Trip.jpg",
 
     tags: [
-      "New Year 2026",
-      "Snow, Hills",
-      "January Winter",
-      "Festive Travel"
+      "Domestic Tourism",
+      "Family Travel India",
+      "Winter Holidays",
+      "Relaxing Trips"
     ],
 
     excerpt:
@@ -1634,7 +1634,7 @@ Walking tours through the many historic parts of Rajasthan provide an opportunit
 <h2 class="text-2xl font-bold mt-10 mb-4">Choosing the Right Package Matters</h2>
 
 <p>
-While winter destinations are important, choosing the right travel partner matters just as much. Experienced planners like Travelosun understand seasonal conditions, hotel availability, and realistic travel pacing.</span> 
+While winter destinations are important, choosing the right travel partner matters just as much. Experienced planners like Travelosun understand seasonal conditions, hotel availability, and realistic travel pacing.
 </p>
 
 <p class="mt-3">
