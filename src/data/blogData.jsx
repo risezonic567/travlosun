@@ -1,8 +1,7 @@
 export const blogPosts = [
   {
     id: 1,
-    slug:
-      "best-budget-friendly-domestic-travel-destinations-in-india-christmas-newyear",
+    slug: "best-budget-friendly-domestic-travel-destinations-in-india-christmas-newyear",
     metatitle:
       "Best Budget-Friendly Domestic Travel Destinations in India for Christmas & New Year | Travelosun",
     metadescription:
@@ -23,10 +22,8 @@ export const blogPosts = [
     likes: 96,
     popularScore: 96 * 2 + 1482, // optional for sorting popular posts
 
-    image:
-      "https://i.postimg.cc/g2rr2MQR/Blog-image-for-travelosun.jpg",
-    coverImage:
-      "https://i.postimg.cc/g2rr2MQR/Blog-image-for-travelosun.jpg",
+    image: "https://i.postimg.cc/g2rr2MQR/Blog-image-for-travelosun.jpg",
+    coverImage: "https://i.postimg.cc/g2rr2MQR/Blog-image-for-travelosun.jpg",
 
     tags: [
       "Budget Travel",
@@ -272,10 +269,8 @@ You can have a wonderful Christmas and New Year holiday package experience witho
     likes: 72,
     popularScore: 0,
 
-    image:
-      "https://i.postimg.cc/zB8Cs9r5/Travel-o-Sun-blog-image.jpg",
-    coverImage:
-      "https://i.postimg.cc/zB8Cs9r5/Travel-o-Sun-blog-image.jpg",
+    image: "https://i.postimg.cc/zB8Cs9r5/Travel-o-Sun-blog-image.jpg",
+    coverImage: "https://i.postimg.cc/zB8Cs9r5/Travel-o-Sun-blog-image.jpg",
 
     tags: [
       "December Travel",
@@ -498,7 +493,7 @@ There are many reasons why these destinations are perfect to visit in December. 
       "Domestic Holidays",
       "India Tourism",
       "Slow Travel",
-      "Peaceful Destinations"
+      "Peaceful Destinations",
     ],
 
     excerpt:
@@ -699,7 +694,8 @@ There are many reasons why these destinations are perfect to visit in December. 
     canonical:
       "https://www.travelosun.com/blog/christmas-new-year-getaways-in-india-beach-hill-station-cultural-escapes",
 
-    title: "Christmas & New Year Getaways in India: Beach, Hill Station & Cultural Escapes",
+    title:
+      "Christmas & New Year Getaways in India: Beach, Hill Station & Cultural Escapes",
     category: "Festive Travel",
     date: "2025-12-18",
     author: "Travelosun Team",
@@ -711,17 +707,15 @@ There are many reasons why these destinations are perfect to visit in December. 
     likes: 62,
     popularScore: 92 * 2 + 1420,
 
-    image:
-      "https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg",
-    coverImage:
-      "https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg",
+    image: "https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg",
+    coverImage: "https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg",
 
     tags: [
       "Christmas Getaways",
       "New Year 2025",
       "India Tourism",
       "Winter Vacations",
-      "Festive Travel"
+      "Festive Travel",
     ],
 
     excerpt:
@@ -867,14 +861,14 @@ There are many reasons why these destinations are perfect to visit in December. 
   {
     id: 5,
     slug: "kashmir-tour-package-gulmarg-pahalgam-srinagar",
-    metatitle:
-      "Kashmir Tour Package | Gulmarg, Pahalgam & Srinagar Trip",
+    metatitle: "Kashmir Tour Package | Gulmarg, Pahalgam & Srinagar Trip",
     metadescription:
       "Plan a memorable Kashmir tour package from Jammu covering Gulmarg, Pahalgam and Srinagar with houseboat stay, gondola ride and family-friendly experiences.",
     canonical:
       "https://www.travelosun.com/blog/kashmir-tour-package-gulmarg-pahalgam-srinagar",
 
-    title: "Kashmir Tour Package from Jammu: Explore Gulmarg, Pahalgam & Srinagar",
+    title:
+      "Kashmir Tour Package from Jammu: Explore Gulmarg, Pahalgam & Srinagar",
     category: "Festive Travel",
     date: "2025-12-29",
     author: "Travelosun Team",
@@ -886,16 +880,14 @@ There are many reasons why these destinations are perfect to visit in December. 
     likes: 150,
     popularScore: 92 * 2 + 1420,
 
-    image:
-      "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
-    coverImage:
-      "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
+    image: "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
+    coverImage: "https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg",
 
     tags: [
       "New Year 2025",
       "India Tourism",
       "Winter Vacations",
-      "Festive Travel"
+      "Festive Travel",
     ],
 
     excerpt:
@@ -1076,14 +1068,14 @@ There are many reasons why these destinations are perfect to visit in December. 
   {
     id: 6,
     slug: "best-places-to-visit-in-india-in-january-for-a-perfect-winter-holiday",
-    metatitle:
-      "Best Places to Visit in India in January |Travelosun,",
+    metatitle: "Best Places to Visit in India in January |Travelosun,",
     metadescription:
       "Discover top travel destinations in India,for a perfect winter holiday in January. snow getaways, beaches, and affordable holiday packages in India for families and couples.",
     canonical:
       "https://www.travelosun.com/blog/best-places-to-visit-in-india-in-january-for-a-perfect-winter-holiday",
 
-    title: "Best Places to Visit in India in January for a Perfect Winter Holiday",
+    title:
+      "Best Places to Visit in India in January for a Perfect Winter Holiday",
     category: "Festive Travel",
     date: "2026-01-08",
     author: "Travelosun Team",
@@ -1095,16 +1087,14 @@ There are many reasons why these destinations are perfect to visit in December. 
     likes: 170,
     popularScore: 92 * 2 + 1420,
 
-    image:
-      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
-    coverImage:
-      "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
+    image: "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
+    coverImage: "https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg",
 
     tags: [
       "New Year 2025",
       "India Tourism",
       "Winter Vacations",
-      "Festive Travel"
+      "Festive Travel",
     ],
 
     excerpt:
@@ -1316,7 +1306,7 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
 
     title: "January Winter Getaways in India: Snow, Hills & Scenic Escapes",
     category: "Holiday Destinations",
-    date: "2026-01-15", 
+    date: "2026-01-15",
     author: "Travelosun Team",
     authorAvatar:
       "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
@@ -1331,12 +1321,7 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
     coverImage:
       "https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg",
 
-    tags: [
-      "New Year 2026",
-      "Snow, Hills",
-      "January Winter",
-      "Festive Travel"
-    ],
+    tags: ["New Year 2026", "Snow, Hills", "January Winter", "Festive Travel"],
 
     excerpt:
       "The month of January represents the rare transformation of India. The excitement of the festival season has come to a close, the weather is now cooler and crisper, and many of India's most stunning landscapes show their beauty in a more tranquil and intimate setting.",
@@ -1502,16 +1487,14 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
     likes: 370,
     popularScore: 92 * 2 + 2420,
 
-    image:
-      "/Best-Winter-Holiday-Destinations.jpg",
-    coverImage:
-      "/Best-Winter-Holiday-Destinations.jpg",
+    image: "/Best-Winter-Holiday-Destinations.jpg",
+    coverImage: "/Best-Winter-Holiday-Destinations.jpg",
 
     tags: [
       "Domestic Tourism",
       "Family Travel India",
       "Winter Holidays",
-      "Relaxing Trips"
+      "Relaxing Trips",
     ],
 
     excerpt:
@@ -1675,7 +1658,7 @@ While winter destinations are important, choosing the right travel partner matte
     metadescription:
       "Discover the best travel destinations in India for families and couples. Explore honeymoon packages, luxury holidays, and customized domestic tours with Travelosun.",
     canonical:
-      "https://www.travelosun.com/blog/domestic-travel-destinations-in-india-for-family-and-couples",
+      "https://www.travelosun.com/blog/top-domestic-travel-destinations-in-india-for-family-and-couples",
 
     title: "Top Domestic Travel Destinations in India for Family & Couples",
     category: "Domestic Travel Destinations",
@@ -1698,7 +1681,7 @@ While winter destinations are important, choosing the right travel partner matte
       "Domestic Tourism",
       "Family Travel India",
       "Winter Holidays",
-      "Relaxing Trips"
+      "Relaxing Trips",
     ],
 
     excerpt:
@@ -1854,6 +1837,5 @@ At Travelosun, we provide custom-crafted itinerary options, personalized service
 </p>
 
   `,
-  }
-
+  },
 ];
