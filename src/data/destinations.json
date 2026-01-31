@@ -799,6 +799,86 @@
                         "ratingStar": "4.9"
                     }
                 ]
+            },
+            {
+                "id": "char-dham-yatra",
+                "slug": "char-dham-yatra",
+                "state": "Haridwar",
+                "category": "Domestic",
+                "image": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Char Dham Yatra",
+                        "slug": "char-dham-yatra",
+                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+                        "metacanonical": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                        "metakeywords": "Char Dham Yatra ",
+                        "schematype": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristTrip",
+                            "name": "Char Dham Yatra",
+                            "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage.",
+                            "image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "5",
+                                "reviewCount": "520"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Char Dham Yatra",
+                            "og:description": "spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh.",
+                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "og:type": "website"
+                        },
+                        "description": "The ultimate spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh. Travel through mesmerizing Himalayan scenery, visit ancient temples, and immerse yourself in devotion as you seek blessings and serenity in the lap of nature.",
+                        "coverimg": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                        "img": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+                        "price": "26,999",
+                        "priceIncludes": [
+                            "Transport as per group size will be provided",
+                            "Eight nine hotel stay",
+                            "Meals -8 Breakfast and 8 Dinner",
+                            "Yatra Registration.",
+                            "24*7 support and guidance."
+                        ],
+                        "departureAndReturnLocation": [
+                            "Any entry tickets at exploration sites.",
+                            "Accomodation & meals at kedarnath temple is not included",
+                            "Any charges related to jeep fare, pony Helicopter tickets.",
+                            "Additional accomodation/food costs due to any delayed in travel."
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "https://i.postimg.cc/q7qkHrXD/Sikkim-Image-1-1.jpg",
+                                "alt": "Yamunotri"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "alt": "Gangotri"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                                "alt": "Uttarkashi"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+                        "tag": "Adventure, Himalayas, Nature",
+                        "locationName": "Haridwar, Rishikesh, Sonprayag, Kedarnath, Sitapur, Chopta, Peepalkoti, Yamunotri, Gangotri, Uttarkashi  India",
+                        "days": "10 Days",
+                        "nights": "9 Nights",
+                        "totalReview": "480",
+                        "ratingStar": "4.9"
+                    }
+                ]
             }
         ]
     }
