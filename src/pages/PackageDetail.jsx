@@ -136,7 +136,7 @@ const PackageDetail = () => {
                                             src={img.img}
                                             alt={img.alt || pkg.title}
                                             loading="lazy"
-                                            className="w-[350px] h-32 md:h-[150px] object-cover transform transition-transform duration-200 hover:scale-105"
+                                            className="w-full h-32 md:h-40 object-cover transform transition-transform duration-200 hover:scale-105"
                                         />
                                     </button>
                                 ))}
@@ -209,7 +209,7 @@ const PackageDetail = () => {
                 price={priceNumber}
             />
 
-            {/* Image Modal */}
+            {/* Image Modal selected zoom single image*/}
             {selectedImage && (
                 <div
                     className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
@@ -219,7 +219,8 @@ const PackageDetail = () => {
                         <img
                             src={selectedImage}
                             alt="Expanded gallery"
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-[650px] rounded-lg shadow-lg"
+                            // className="w-[900px] h-[700px] rounded-lg shadow-lg"
                         />
                         <button
                             className="absolute top-4 right-4 text-white bg-black/50 p-2 rounded-full hover:bg-black/70"

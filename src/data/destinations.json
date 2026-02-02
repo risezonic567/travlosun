@@ -837,8 +837,8 @@
                             "og:type": "website"
                         },
                         "description": "The ultimate spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh. Travel through mesmerizing Himalayan scenery, visit ancient temples, and immerse yourself in devotion as you seek blessings and serenity in the lap of nature.",
-                        "coverimg": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "coverimg": "/charDham/CharDhamYatraimagejpg.jpeg",
+                        "img": "/charDham/CharDhamYatraimagejpg.jpeg",
                         "price": "26,999",
                         "priceIncludes": [
                             "Transport as per group size will be provided",
@@ -856,17 +856,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/public/charDham/image1kedarnath.jpg.jpeg",
+                                "img": "/charDham/image1kedarnath.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
-                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "img": "/charDham/image_2badrinath.jpg.jpeg",
                                 "alt": "Gangotri"
                             },
                             {
                                 "id": 3,
-                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
                                 "alt": "Uttarkashi"
                             }
                         ],
@@ -917,8 +917,8 @@
                             "og:type": "website"
                         },
                         "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
-                        "coverimg": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "coverimg": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+                        "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
                         "price": "26,200",
                         "priceIncludes": [
                             "Transport as per group size will be provided",
@@ -937,7 +937,88 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/public/charDham/image1kedarnath.jpg.jpeg",
+                                "img": "/chopta/Choptaimage1.jpg.jpeg",
+                                "alt": "Kedarnath"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "alt": "Badrinath"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                                "alt": "Chopta"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+                        "tag": "Adventure, Himalayas, Nature",
+                        "locationName": "Kedarnath, Badrinath & Chopta",
+                        "days": "7 Days",
+                        "nights": "6 Nights",
+                        "totalReview": "520",
+                        "ratingStar": "5"
+                    }
+                ]
+            },
+            {
+                "id": "kedarnath-badrinath-chopta",
+                "slug": "kedarnath-badrinath-chopta",
+                "state": "Uttarakhand",
+                "category": "Domestic",
+                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Kedarnath Badrinath Chopta",
+                        "slug": "kedarnath-badrinath-chopta",
+                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+                        "metacanonical": "https://www.example.com/destinations/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "metakeywords": "Kedarnath Badrinath Chopta",
+                        "schematype": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristTrip",
+                            "name": "Kedarnath Badrinath Chopta",
+                            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations.",
+                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                            "url": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "5",
+                                "reviewCount": "520"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Kedarnath Badrinath Chopta",
+                            "og:description": "Divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "og:type": "website"
+                        },
+                        "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+                        "coverimg": "/choptachota/KedarnathKedarnathBadrinath&Chopta.jpg.jpeg",
+                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "price": "12,600",
+                        "priceIncludes": [
+                            "Transport as per group size will be provided",
+                            "Two Night Hotel stay in Sitapur",
+                            "Respective stay at Kedarnath",
+                            "One night stay in swiss camps in Chopta",
+                            "One night Hotel Stay at Badrinath",
+                            "Meals - 4 Breakfast and 4 Dinner"
+                        ],
+                        "departureAndReturnLocation": [
+                            "Any entry tickets at exploration sites.",
+                            "Accomodation & meals at kedarnath temple is not included",
+                            "Any charges related to jeep fare, pony Helicopter tickets.",
+                            "Additional accomodation/food costs due to any delayed in travel."
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "/charDham/image1kedarnath.jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
@@ -998,8 +1079,8 @@
                             "og:type": "website"
                         },
                         "description": "Himalayan journey starting from Delhi, travelling through the sacred city of Rishikesh, and moving deeper into the divine landscapes of Guptkashi / Sitapur. Seek blessings at the revered Kedarnath Dham, one of the holiest Jyotirlingas of Lord Shiva, before returning to Guptkashi and continuing toward the majestic shrine of Badrinath, dedicated to Lord Vishnu.",
-                        "coverimg": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "coverimg": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
+                        "img": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
                         "price": "33,000",
                         "priceIncludes": [
                             "Transport as per group size will be provided",
@@ -1018,12 +1099,12 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/public/charDham/image1kedarnath.jpg.jpeg",
+                                "img": "/kedarBadriRishikesh/CharDhamYatraimage1.jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
-                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "img": "/kedarBadriRishikesh/CharDhamYatraimage2.jpg.jpeg",
                                 "alt": "Badrinath"
                             },
                             {
@@ -1068,27 +1149,27 @@
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
-                                "reviewCount": "620"
+                                "reviewCount": "640"
                             }
                         },
                         "metaopengraph": {
                             "og:title": "Kedarnath",
-                            "og:description": "Discover the spiritual charm of Kedarnath and Badrinath and unwind in the serene atmosphere of Rishikesh. A soulful Himalayan journey of faith, peace, and scenic beauty",
+                            "og:description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva",
                             "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
                             "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
                             "og:type": "website"
                         },
-                        "description": "Himalayan journey starting from Delhi, travelling through the sacred city of Rishikesh, and moving deeper into the divine landscapes of Guptkashi / Sitapur. Seek blessings at the revered Kedarnath Dham, one of the holiest Jyotirlingas of Lord Shiva, before returning to Guptkashi and continuing toward the majestic shrine of Badrinath, dedicated to Lord Vishnu.",
-                        "coverimg": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "price": "33,000",
+                        "description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva. Surrounded by majestic mountains and powerful spiritual energy, this yatra offers a perfect blend of faith, devotion, and breathtaking Himalayan landscapes.",
+                        "coverimg": "/kedarnath/kedarnathimage.jpg.jpeg",
+                        "img": "/kedarnath/kedarnathimage.jpg.jpeg",
+                        "price": "7,900",
                         "priceIncludes": [
                             "Transport as per group size will be provided",
                             "Two Night Hotel stay in Sitapur/Guptkashi.",
                             "Respective stay at Kedarnath",
-                            "One night stay in Rudraprayag",
-                            "One night Hotel in Rishikesh",
-                            "Meals - 6 Breakfast and 6 Dinner"
+                            "Meals - Breakfast and Dinner",
+                            "Sightseeing & mentioned.",
+                            "24*7 support and guidance."
                         ],
                         "departureAndReturnLocation": [
                             "Any entry tickets at exploration sites.",
@@ -1099,13 +1180,13 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/public/charDham/image1kedarnath.jpg.jpeg",
+                                "img": "/charDham/image1kedarnath.jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
                                 "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
-                                "alt": "Badrinath"
+                                "alt": "Haridwar"
                             },
                             {
                                 "id": 3,
@@ -1115,10 +1196,91 @@
                         ],
                         "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
                         "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Badrinath & Chopta",
-                        "days": "7 Days",
-                        "nights": "6 Nights",
-                        "totalReview": "520",
+                        "locationName": "Kedarnath, Haridwar, Rishikesh",
+                        "days": "4 Days",
+                        "nights": "3 Nights",
+                        "totalReview": "550",
+                        "ratingStar": "5"
+                    }
+                ]
+            },
+            {
+                "id": "panch kedar yatra",
+                "slug": "panch-kedar-yatra",
+                "state": "Uttarakhand",
+                "category": "Domestic",
+                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+                "packages": [
+                    {
+                        "_id": "1",
+                        "title": "Panch Kedar Yatra",
+                        "slug": "panch-kedar-yatra",
+                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+                        "metacanonical": "https://www.example.com/destinations/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                        "metakeywords": "Panch Kedar Yatra",
+                        "schematype": {
+                            "@context": "https://schema.org",
+                            "@type": "TouristTrip",
+                            "name": "Panch Kedar Yatra",
+                            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                            "url": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+                            "aggregateRating": {
+                                "@type": "AggregateRating",
+                                "ratingValue": "5",
+                                "reviewCount": "640"
+                            }
+                        },
+                        "metaopengraph": {
+                            "og:title": "Panch Kedar Yatra",
+                            "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+                            "og:type": "website"
+                        },
+                        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+                        "coverimg": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
+                        "img": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
+                        "price": "7,900",
+                        "priceIncludes": [
+                            "Transport as per group size will be provided",
+                            "Two Night Hotel stay in Sitapur/Guptkashi.",
+                            "Respective stay at Kedarnath",
+                            "Meals - Breakfast and Dinner",
+                            "Sightseeing & mentioned.",
+                            "24*7 support and guidance."
+                        ],
+                        "departureAndReturnLocation": [
+                            "Any entry tickets at exploration sites.",
+                            "Accomodation & meals at kedarnath temple is not included",
+                            "Any charges related to jeep fare, pony Helicopter tickets.",
+                            "Additional accomodation/food costs due to any delayed in travel."
+                        ],
+                        "gallery": [
+                            {
+                                "id": 1,
+                                "img": "/charDham/image1kedarnath.jpg.jpeg",
+                                "alt": "Kedarnath"
+                            },
+                            {
+                                "id": 2,
+                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                                "alt": "Haridwar"
+                            },
+                            {
+                                "id": 3,
+                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                                "alt": "Rishikesh"
+                            }
+                        ],
+                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+                        "tag": "Adventure, Himalayas, Nature",
+                        "locationName": "Kedarnath, Haridwar, Rishikesh",
+                        "days": "4 Days",
+                        "nights": "3 Nights",
+                        "totalReview": "550",
                         "ratingStar": "5"
                     }
                 ]
