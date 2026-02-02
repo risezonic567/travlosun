@@ -136,7 +136,7 @@ const PackageDetail = () => {
                                             src={img.img}
                                             alt={img.alt || pkg.title}
                                             loading="lazy"
-                                            className="w-full h-32 md:h-40 object-cover transform transition-transform duration-200 hover:scale-105"
+                                            className="w-[350px] h-32 md:h-[150px] object-cover transform transition-transform duration-200 hover:scale-105"
                                         />
                                     </button>
                                 ))}
