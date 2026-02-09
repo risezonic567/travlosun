@@ -942,12 +942,12 @@
                             },
                             {
                                 "id": 2,
-                                "img": "/public/charDham/image_2badrinath.jpg.jpeg",
+                                "img": "/charDham/image_2badrinath.jpg.jpeg",
                                 "alt": "Badrinath"
                             },
                             {
                                 "id": 3,
-                                "img": "/public/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+                                "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
                                 "alt": "Chopta"
                             }
                         ],
@@ -1190,7 +1190,7 @@
                             },
                             {
                                 "id": 3,
-                                "img": "/public/charDham/image2badrinath.jpg.jpeg",
+                                "img": "/charDham/image2badrinath.jpg.jpeg",
                                 "alt": "Rishikesh"
                             }
                         ],
@@ -1271,7 +1271,7 @@
                             },
                             {
                                 "id": 3,
-                                "img": "/public/charDham/CharDhamYatraimage5.jpg.jpeg",
+                                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
                                 "alt": "Rishikesh"
                             }
                         ],
