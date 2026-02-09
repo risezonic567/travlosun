@@ -101,7 +101,7 @@ export default function ContactUs() {
                             <ContactCard
                                 icon={<Phone className="text-sky-500" size={26} />}
                                 title="Call Us"
-                                detail="+91  9797941414"
+                                detail="+91 9797941414 +91 7838141010"
                             />
                             <ContactCard
                                 icon={<Mail className="text-sky-500" size={26} />}

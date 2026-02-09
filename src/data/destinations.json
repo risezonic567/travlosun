@@ -942,12 +942,12 @@
                             },
                             {
                                 "id": 2,
-                                "img": "/charDham/image_2badrinath.jpg.jpeg",
+                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
                                 "alt": "Badrinath"
                             },
                             {
                                 "id": 3,
-                                "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
                                 "alt": "Chopta"
                             }
                         ],
@@ -1018,17 +1018,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/charDham/image1kedarnath.jpeg",
+                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta2(1).jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
-                                "img": "/charDham/image_2badrinath.jpg.jpeg",
+                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(2).jpg.jpeg",
                                 "alt": "Badrinath"
                             },
                             {
                                 "id": 3,
-                                "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(3).jpg.jpeg",
                                 "alt": "Chopta"
                             }
                         ],
@@ -1109,7 +1109,7 @@
                             },
                             {
                                 "id": 3,
-                                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
+                                "img": "/kedarBadriRishikesh/Kedarnath-Badrinath-Rishikesh3.jpg.jpeg",
                                 "alt": "Rishikesh"
                             }
                         ],
@@ -1180,17 +1180,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/kedarnath/kedarnathimage.jpg.jpeg",
+                                "img": "/kedarnath/Kedarnath1.jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
-                                "img": "/charDham/image1kedarnath.jpeg",
+                                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
                                 "alt": "Haridwar"
                             },
                             {
                                 "id": 3,
-                                "img": "/charDham/image2badrinath.jpg.jpeg",
+                                "img": "/kedarnath/Kedarnath3.jpg.jpeg",
                                 "alt": "Rishikesh"
                             }
                         ],
@@ -1261,17 +1261,17 @@
                         "gallery": [
                             {
                                 "id": 1,
-                                "img": "/charDham/image1kedarnath.jpeg",
+                                "img": "/panchKedarYatra/Panch-Kedar-Yatra-1.jpg.jpeg",
                                 "alt": "Kedarnath"
                             },
                             {
                                 "id": 2,
-                                "img": "/charDham/image2badrinath.jpg.jpeg",
+                                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
                                 "alt": "Haridwar"
                             },
                             {
                                 "id": 3,
-                                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
+                                "img": "/panchKedarYatra/Panch-Kedar-Yatra-3.jpg.jpeg",
                                 "alt": "Rishikesh"
                             }
                         ],
