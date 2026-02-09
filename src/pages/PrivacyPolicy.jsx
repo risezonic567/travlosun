@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
         <title>Privacy Policy | Travelosun – Data Protection & User Privacy</title>
         <meta name="description" content="Read Travelosun’s Privacy Policy to understand how we collect, use, and protect your personal information while booking travel services and holiday packages." />
         <meta name="keywords" content="travel services, Travelosun" />
-        <link rel="canonical" href="https://travelosun.com/privacy-policy" />
+        <link rel="canonical" href="https://www.travelosun.com/privacy-policy" />
       </Helmet>
       <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-2xl p-10">
         <h1 className="text-3xl font-bold text-gray-800 mb-6 text-center">Travel O Sun Privacy Policy</h1>

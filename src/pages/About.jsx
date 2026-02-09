@@ -13,7 +13,7 @@ export default function About() {
         <title>About Travel O Sun | affordable travel agency in india</title>
         <meta name="description" content=" Travel O Sun is India’s affordable travel agency for flights, hotels, and customized holiday packages. We make every journey simple, safe, and unforgettable." />
         <meta name="keywords" content="affordable travel agency in india" />
-        <link rel="canonical" href="https://travelosun.com/about-us" />
+        <link rel="canonical" href="https://www.travelosun.com/about-us" />
         <script type="application/ld+json">
           {`
             {

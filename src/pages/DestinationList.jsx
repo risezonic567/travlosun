@@ -10,7 +10,7 @@ export default function DestinationList() {
                 <title>Explore Our Blog | Star Alliance Aviation.</title>
                 <meta name="description" content="" />
                 <meta name="keywords" content="" />
-
+                <link rel="canonical" href="https://www.travelosun.com/destination" />
             </Helmet>
             <Herosection />
             <div className="max-w-6xl mx-auto px-4 py-16">

@@ -8,7 +8,7 @@ export default function TermsConditions() {
         <title>Terms & Conditions | Travelosun Travel Booking Guidelines</title>
         <meta name="description" content="Review Travelosun’s Terms and Conditions covering travel bookings, user responsibilities, payments, cancellations, and service guidelines." />
         <meta name="keywords" content="terms and conditions, travel booking terms," />
-        <link rel="canonical" href="https://travelosun.com/terms-conditions" />
+        <link rel="canonical" href="https://www.travelosun.com/terms-conditions" />
       </Helmet>
       <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-2xl p-10">
         <h1 className="text-3xl font-bold text-gray-800 mb-6 text-center">Travel O Sun Terms & Conditions</h1>

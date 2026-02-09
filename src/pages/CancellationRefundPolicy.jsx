@@ -8,7 +8,7 @@ export default function CancellationRefundPolicy() {
                 <title>Cancellation & Refund Policy | Travelosun</title>
                 <meta name="description" content="Know Travelosun’s cancellation and refund policy for tour packages, holiday bookings, and travel services, including refund timelines and terms." />
                 <meta name="keywords" content="refund policy, tour package cancellation," />
-                <link rel="canonical" href="https://travelosun.com/cancellation-refund-policy" />
+                <link rel="canonical" href="https://www.travelosun.com/cancellation-refund-policy" />
             </Helmet>
             <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-2xl p-10">
                 <h1 className="text-3xl font-bold text-gray-800 mb-6 text-center">CANCELLATION & REFUND POLICY</h1>

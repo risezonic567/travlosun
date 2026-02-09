@@ -34,7 +34,7 @@ export default function Blogs() {
         <title>Travel Blog India | Tips, Guides & Inspiration – Travel O Sun  </title>
         <meta name="description" content="Discover travel blogs from Travel O Sun. Read expert tips, destination guides, and real travel stories to plan your next family holiday, honeymoon, or adventure trip across India." />
         <meta name="keywords" content="destination guides," />
-        <link rel="canonical" href="https://travelosun.com/blog" />
+        <link rel="canonical" href="https://www.travelosun.com/blog" />
       </Helmet>
 
       <h1 className="text-3xl font-bold mb-6">Latest Articles</h1>

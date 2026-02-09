@@ -17,7 +17,7 @@ export default function ContactUs() {
                 <title>Contact Travel O Sun | Get in Touch for travel support</title>
                 <meta name="description" content=" Travel O Sun—India’s trusted travel agency for domestic flight booking, hotel deals, and holiday packages. Contact our support team for tour planning and the best travel offers." />
                 <meta name="keywords" content="Travel agency" />
-                <link rel="canonical" href="https://travelosun.com/contact-us" />
+                <link rel="canonical" href="https://www.travelosun.com/contact-us" />
                 <script type="application/ld+json">
                     {`
             {
