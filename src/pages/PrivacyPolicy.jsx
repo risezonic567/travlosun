@@ -27,7 +27,7 @@ export default function PrivacyPolicy() {
 
         <p className="text-gray-700"><strong>Website:</strong> https://travelosun.com</p>
         <p className="text-gray-700"><strong>Customer Support Email:</strong> info@travelosun.com</p>
-        <p className="text-gray-700"><strong>Customer Support Phone/WhatsApp:</strong> +91-9797941414</p>
+        <p className="text-gray-700"><strong>Customer Support Phone/WhatsApp:</strong> +91-9797941414, +91-7838141010</p>
         <p className="text-gray-700"><strong>Customer Support Availability:</strong> 24/7 Assistance</p>
       </div>
     </div>

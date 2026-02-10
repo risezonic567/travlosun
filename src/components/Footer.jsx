@@ -123,7 +123,7 @@ const Footer = () => {
                                 Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations .
                             </p>
                             <ul className="text-sm space-y-1">
-                                <li><strong>Number : </strong> 9797941414</li>
+                                <li><strong>Number : </strong> 9797941414, 7838141010</li>
                                 <li><strong>Location : </strong> D-448, Second Floor Shiksha Bharati Road, Ramphal Chowk Sector 7, Dwarka New Delhi - 110045</li>
                                 <li><strong>Email : </strong> info@travelosun.com</li>
                                 <li><strong>Website : </strong> www.Travelosun.com</li>
