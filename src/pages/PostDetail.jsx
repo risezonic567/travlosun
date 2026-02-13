@@ -27,6 +27,7 @@ export default function PostDetail() {
       <Helmet>
         <title>{post.metatitle}</title>
         <meta name="description" content={post.metadescription} />
+        <link rel="stylesheet" href={post.canonical} />
         <meta name="keywords" content={post.metakeyword} />
 
       </Helmet>
