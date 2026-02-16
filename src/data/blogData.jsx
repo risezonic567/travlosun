@@ -45,6 +45,7 @@ export const blogPosts = [
 
   <img
         src="https://i.postimg.cc/g2rr2MQR/Blog-image-for-travelosun.jpg"
+        alt="Domestic Travel Destinations"
         class="w-full rounded-xl shadow mb-6 "
       />
 The holiday season has arrived, and the perfect Christmas and New Year spot to celebrate it with your friends, family, or travel buddy is top of mind for everybody. However, traveling in December is often on the expensive side due to the fact that it is peak season, with high demand and last-minute flights. Forget the fact that traveling in December may get expensive because you will not have to spend a lot of money to have a memorable holiday season.
@@ -289,6 +290,7 @@ You can have a wonderful Christmas and New Year holiday package experience witho
 
      <img
         src="https://i.postimg.cc/zB8Cs9r5/Travel-o-Sun-blog-image.jpg"
+        alt="December Holiday Destinations"
         class="w-full rounded-xl shadow mb-6 "
       />
 <p>
@@ -502,7 +504,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 2],
 
     content: `
-    <img src="https://i.postimg.cc/0yLH5mr2/Best-Places-to-Visit-in-India-for-a-Relaxing-Domestic-Holiday.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/0yLH5mr2/Best-Places-to-Visit-in-India-for-a-Relaxing-Domestic-Holiday.jpg"
+    alt="peaceful and relaxing holiday destinations" 
+    class="w-full rounded-xl shadow mb-6" />
 
     <h2 class="text-2xl font-bold mb-4">Best Places to Visit in India for a Relaxing Domestic Holiday</h2>
 
@@ -724,7 +728,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/Y2fqj8Z5/Blog-images-2.jpg"
+    alt="peaceful and relaxing holiday destinations" 
+    class="w-full rounded-xl shadow mb-6" />
 
     
 
@@ -896,7 +902,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/8zz1FtBM/blog_image_of_kashmir.jpg"
+    alt="Gulmarg, Pahalgam & Srinagar"
+    class="w-full rounded-xl shadow mb-6" />
      
       Kashmir is a travel destination that features snow- capped mountains, peaceful valleys, serene lakes, and friendly local people.If any of these themes resonate with you, you will want to have a Kashmir trip on your travel list.You can start your Kashmir tour with The <a href="/"  class="text-blue-600">  Best Kashmir travel package </a> that begins in Jammu.This is one of the most straightforward and beautiful ways to get to know the region, with no stress of travelling there.
   </p >
@@ -1103,7 +1111,9 @@ There are many reasons why these destinations are perfect to visit in December. 
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/1zkTWQkm/Blog_image_2.jpg"
+    alt="Festive Travel" 
+    class="w-full rounded-xl shadow mb-6" />
     <p>
      As winter approaches, January signals when you can really start thinking about where to travel to in India. The rush of the festive season is gone, and many areas have pleasant weather. With less congestion, it’s much easier and more enjoyable to visit popular travel destinations. If you’ve been waiting for an ideal time to plan your upcoming vacation, January is an excellent month to check out some of the most stunning travel locations in India, whether it’s to find some beautiful snow, soak up some sunshine, experience cultural experiences, or simply go for a peaceful getaway with your family. From hill resort towns covered in snow to tropical beach towns across the country that bask in the glow of low sun rays shining down upon them during this time of year, the possibilities are virtually unlimited when it comes to planning the best vacation in India. 
 
@@ -1329,7 +1339,9 @@ Whether you are looking for the <a class="font-bold text-blue-500 underline" hre
     relatedPosts: [1, 3],
 
     content: `
-    <img src="https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="https://i.postimg.cc/Z5NDGkvB/Blog_images_January_Winter_Getaways_in_India_Snow_Hills_Scenic_Escapes.jpg"
+    alt="Snow, Hills & Scenic Escapes" 
+    class="w-full rounded-xl shadow mb-6" />
     <p>
      The month of January represents the rare transformation of India. The excitement of the festival season has come to a close, the weather is now cooler and crisper, and many of India's most stunning landscapes show their beauty in a more tranquil and intimate setting. If you want to see snow-capped mountains, idyllic hillside villages, or stunning winter landscapes, January is undoubtedly one of the best months to visit India.
 
@@ -1503,7 +1515,9 @@ Winter mornings in Uttarakhand often begin slowly: mountain view, breakfast by t
     relatedPosts: [1, 3],
 
     content: `
-    <img src="/Best-Winter-Holiday-Destinations.jpg" class="w-full rounded-xl shadow mb-6" />
+    <img src="/Best-Winter-Holiday-Destinations.jpg"
+    alt="Holiday Destinations" 
+    class="w-full rounded-xl shadow mb-6" />
     <p>
      In India, winter allows for a unique chance to travel mindfully and at a slower pace. In contrast to the frenzied pace of summer holiday periods around festivals when people travel the most but tend to be on a busy itinerary, winter holidays typically consist of peaceful places, nice outside temperatures, and time spent creating meaningful memories by paying careful attention to what's happening around them. For those who want to find peace rather than jet-setting through the country, winter is an ideal time to find holiday packages in India that have all the options available to you for a thoughtful domestic trip that fits with your desires for relaxation and tranquillity.
 
@@ -1691,7 +1705,9 @@ While winter destinations are important, choosing the right travel partner matte
     relatedPosts: [1, 3],
 
     content: `
-    <img src="/Top-Domestic-Travel-Destinations-in-India-for-Family-&-Couples.jpeg" class="w-full rounded-xl shadow mb-6" />
+    <img src="/Top-Domestic-Travel-Destinations-in-India-for-Family-&-Couples.jpeg"
+    alt="Travel Destinations for Family & Couples"
+    class="w-full rounded-xl shadow mb-6" />
     <p>
      India is a rare country that offers several distinct vacations in one trip. You can find snowy mountains, tropical beaches, royal palaces, peaceful backwaters, spiritual towns, and vibrant cities—all within easy access by land or air. This is why families looking for a stress-free holiday and couples wanting a romantic getaway continue to choose travel options in India as their vacation destination.
 
@@ -1875,7 +1891,9 @@ At Travelosun, we provide custom-crafted itinerary options, personalized service
     relatedPosts: [1, 3],
 
     content: `
-    <img src="/travel-o-sun-Best-Valentine’s-Day-Travel-Destinations-in-India-for-Couples.jpeg" alt="Romantic Travel Destinations" />
+    <img src="/travel-o-sun-Best-Valentine’s-Day-Travel-Destinations-in-India-for-Couples.jpeg"
+    alt="Romantic Travel Destinations"
+    />
     <p class="mt-3">
      When couples break free from their normal routines and travel together, love changes. A mountain sunrise, a romantic dinner on the beach by candlelight, or walking through places with historic significance—all of these types of activities create experiences that create memories for a much longer time than gifts. As a result, <a class="underline text-blue-800" href="https://www.travelosun.com/packages/">couple travel packages in India</a> have been one of the most popular travel options on Valentine's Day.
     </p >
@@ -2051,7 +2069,8 @@ Travelosun is a company that offers a unique travel experience to couples by:
     relatedPosts: [1, 3],
 
     content: `
-    <img src="/CharDhamYatraTourPackagefromHaridwar.jpg.jpeg" alt="Char Dham Tour Package" />
+    <img src="/CharDhamYatraTourPackagefromHaridwar.jpg.jpeg"
+    alt="Char Dham Tour Package" />
     <p class="mt-3">
      Going on a spiritual trip to the Himalayas is not simply visiting temples. It's also about giving up things and believing in yourself as well as changing your inner self. A well-organised <a class="underline text-blue-800" href="https://www.travelosun.com/packages/char-dham-yatra/">Char Dhamyatra trip package</a> will help with the experience, making it smoother, safer, and much more enriching if you start at Haridwar, which is considered the beginning of the divine journey of Uttarakhand.
     </p >
