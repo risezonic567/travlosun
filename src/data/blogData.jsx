@@ -2269,7 +2269,7 @@ Avoid schedules that are excessively condensed. The journey is spiritually chall
       "https://www.travelosun.com/blog/sikkim-himalayan-adventure-tour-package-explore-scenic-north-east-india",
 
     title: "Sikkim Himalayan Adventure Tour Package: Explore Scenic North East India",
-    category: "Char Dham Yatra",
+    category: "Sikkim Himalayan Adventure",
     date: "2026-02-19",
     author: "Travelosun Team",
     authorAvatar:
