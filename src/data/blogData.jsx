@@ -2636,7 +2636,7 @@ This Yatra Package will allow you to experience the beauty and spiritual connect
       "https://www.travelosun.com/blog/kedarnath-trip-cost-from-delhi-complete-3-days-travel-guide-trek-experience-registration-and-helicopter-charges",
 
     title: "Kedarnath Trip Cost from Delhi: Complete 3 Days Travel Guide, Trek Experience, Registration & Helicopter Charges",
-    category: "Kedarnath Badrinath Tungnath",
+    category: "Kedarnath Yatra from Delhi",
     date: "2026-03-07",
     author: "Travelosun Team",
     authorAvatar:
@@ -2667,10 +2667,10 @@ This Yatra Package will allow you to experience the beauty and spiritual connect
 
     content: `
     <img src="/blogImages/travel-o-sun-blog-title-Kedarnath-Trip-Cost-from-Delhi.jpg.jpeg"
-    alt="Kedarnath Badrinath Tungnath" />
+    alt="Kedarnath Yatra from Delhi" />
     
     <p class="mt-3">
-     Planning a journey to the <a class="underline font-semibold text-blue-800" href="https://www.travelosun.com/packages/char-dham-yatra/">Kedarnath Yatra from Delhi</a> is an exciting experience. However, there are many planning considerations to take into account. You are likely to be curious about the actual cost of your trip to Kedarnath from Delhi; however, the only way to understand what you will pay is by developing a deeper understanding about how the journey will take place and what mistakes to avoid in planning your trip.
+     Planning a journey to the <a class="underline font-semibold text-blue-800" href="https://www.travelosun.com/">Kedarnath Yatra from Delhi</a> is an exciting experience. However, there are many planning considerations to take into account. You are likely to be curious about the actual cost of your trip to Kedarnath from Delhi; however, the only way to understand what you will pay is by developing a deeper understanding about how the journey will take place and what mistakes to avoid in planning your trip.
     </p >
     <p class="mt-3">
      Over the course of my experience in planning travel, I have planned many yatras through Travelosun Holidays. The one common theme I've seen is that yatris tend to underestimate the terrain or overestimate the amount of preparation they have made.
