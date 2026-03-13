@@ -2868,7 +2868,7 @@ This Yatra Package will allow you to experience the beauty and spiritual connect
     popularScore: 92 * 2 + 2820,
 
     image:
-      "/public/blogImages/CharDhamYatraPackagefromDelhiforSeniorCitizensTravelPlan,Hotel&Safety Guide.jpg.jpeg",
+      "/blogImages/CharDhamYatraPackagefromDelhiforSeniorCitizensTravelPlan,Hotel&Safety Guide.jpg.jpeg",
     coverImage:
       "/blogImages/CharDhamYatraPackagefromDelhiforSeniorCitizensTravelPlan,Hotel&Safety Guide.jpg.jpeg",
 
