@@ -2844,7 +2844,7 @@ This Yatra Package will allow you to experience the beauty and spiritual connect
     </p>
         
           `,
-      },
+  },
   {
     id: 15,
     slug: "char-dham-yatra-package-from-delhi-for-senior-citizens-travel-plan-hotel-and-safety-guide",
@@ -3080,7 +3080,261 @@ This Yatra Package will allow you to experience the beauty and spiritual connect
     </p>
         
           `,
-      },
+  },
+  {
+    id: 16,
+    slug: "andaman-trip-cost-for-5-days-for-couple-flight-price-hotel-budget-ferry-charges-and-best-season",
+    metatitle:
+      "Andaman Trip Cost for 5 Days for Couple | Budget Guide",
+    metadescription:
+      " Discover Andaman trip cost for 5 days for couples including flights, hotels, ferry charges, activities & best season.   Plan your perfect romantic getaway.",
+    canonical:
+      "https://www.travelosun.com/blog/andaman-trip-cost-for-5-days-for-couple-flight-price-hotel-budget-ferry-charges-and-best-season",
+
+    title: "Andaman Trip Cost for 5 Days for Couple:Flight Price, Hotel Budget, Ferry Charges & Best Season",
+    category: "Andaman Trip",
+    date: "2026-03-25",
+    author: "Travelosun Team",
+    authorAvatar:
+      "https://travelosun.com/assets/Travel%20o%20sun%20logo%20png-0728f093.png",
+
+    readingTime: "10 min read",
+    views: 6890,
+    likes: 670,
+    popularScore: 92 * 2 + 2820,
+
+    image:
+      "/blogImages/AndamanTripCostfor5DaysforCoupleFlightPrice,HotelBudget,FerryCharges&BestSeason.jpg.jpeg",
+    coverImage:
+      "/blogImages/AndamanTripCostfor5DaysforCoupleFlightPrice,HotelBudget,FerryCharges&BestSeason.jpg.jpeg",
+
+    tags: [
+      "Domestic Tourism",
+      "couple travel packages",
+      "India Tourism",
+      "Valentine's Day",
+      "Domestic Travel Destinations",
+    ],
+
+    excerpt:
+      "Are you planning a romantic getaway to a beautiful island? Well, Andaman Islands are oneof the most beautiful destinations in India, providing a peaceful experience amidst the bluewater and sandy beaches. But before you start packing your bags for your romanticgetaway, it is important that you get a fair idea of the andaman trip cost for 5 days so thatyou can make the most of your trip",
+
+    relatedPosts: [1, 3],
+
+    content: `
+    <img src="/blogImages/AndamanTripCostfor5DaysforCoupleFlightPrice,HotelBudget,FerryCharges&BestSeason.jpg.jpeg"
+    alt="Andaman Trip" />
+    
+    <p class="mt-3">
+     Are you planning a romantic getaway to a beautiful island? Well, Andaman Islands are oneof the most beautiful destinations in India, providing a peaceful experience amidst the bluewater and sandy beaches. But before you start packing your bags for your romanticgetaway, it is important that you get a fair idea of the andaman trip cost for 5 days so thatyou can make the most of your trip.
+    </p >
+    <p class="mt-3">
+     The article has been created to provide you with all the information regarding the
+     <span class="font-semibold">andaman trip cost for 5 days</span>.
+    </p >
+    <h2 class="text-2xl font-bold mt-6 mb-4">Why Andaman is Perfect for Couples</h2>
+    <p class="mt-3">
+     Andaman Islands provide a mix of luxury, seclusion, and adventure, making it a perfect destination for couples.
+    </p >
+    <p class="mt-3">
+     Candlelight dinners on the beach and scuba diving activities make Andaman a perfect destination.
+    </p >
+    <p class="mt-3">
+     Knowing the <a class="underline font-semibold text-blue-800" href="https://www.travelosun.com/packages/andaman-island-explorer">Andaman honeymoon cost</a> can help plan your trip better.
+    </p >
+    <h2 class="text-2xl font-bold mt-6 mb-4">Total Andaman Trip Cost for 5 Days (Couple Breakdown)</h2>
+    <p class="mt-3">
+     On average, the <span class="font-semibold">andaman trip cost</span> for a couple for a 5-day trip can be as follows:
+    </p >
+    <p class="mt-3">
+     For a Budget Trip, it would be around ₹45,000 to ₹60,000
+    </p >
+    <p class="mt-3">
+     For a Mid-Range Trip, it would be around ₹70,000 to ₹1,00,000
+    </p >
+
+    <p class="mt-3">
+     For a Luxury Trip, it would be around ₹1,20,000+
+    </p >
+    <p class="mt-3">
+     The cost may vary depending upon your travel style.
+    </p >
+    <p class="mt-3">
+     For a mid-range trip for a couple, the average cost would be around ₹80,000.
+    </p >
+    <h2 class="text-2xl font-bold mt-6 mb-4">Flight Cost to Andaman</h2>
+    <p class="mt-3">
+     Flights are usually the highest costs to be considered while budgeting for a trip to Andaman and Nicobar Islands.
+    </p >
+    <p class="mt-3">
+     From metro cities such as Delhi or Mumbai: ₹10,000 - ₹20,000 per person (round trip) From Chennai or Kolkata: ₹6,000 - ₹12,000 per person (round trip)
+    </p >
+    <p class="mt-3">
+     In addition, if you are a couple, flight costs might vary between ₹25,000 - ₹40,000 depending upon how early you are booking your tickets.
+    </p >
+
+    <h2 class="text-2xl font-bold mt-6 mb-4">Pro Tip</h2>
+    <p class="mt-3">
+     To save up to 30-40% on flight costs, you must book your tickets at least 2-3 months in advance.
+    </p >
+    <p class="mt-3">
+     Platforms such as <a class="underline font-semibold text-blue-800" href="https://www.travelosun.com/">Travelosun</a> help you get the best flight deals with other travel packages.
+    </p >
+    <h2 class="text-2xl font-bold mt-6 mb-4">Hotel Budget for 5 Days </h2>
+    
+    <p class="mt-3">
+    Hotel costs are one of the primary costs to be considered while budgeting for a trip to Andaman and Nicobar Islands. 
+    </p>
+    
+    <h3 class="text-xl font-semibold mt-3 mb-4">Budget Hotels</h3>
+    <p class="mt-1">
+    ₹1,500 - ₹3,000 per night 
+    </p>
+    <p class="mt-1">
+    ₹8,000 - ₹15,000 for 5 nights (Couple)
+    </p>
+    <h3 class="text-xl font-semibold mt-3 mb-4">Mid-Range Hotels</h3>
+    <p class="mt-1">
+    ₹3,000 - ₹6,000 per night
+    </p>
+    <p class="mt-1">
+    Total: ₹15,000–₹30,000
+    </p>
+    <h3 class="text-xl font-semibold mt-3 mb-4">Luxury Resorts</h3>
+    <p class="mt-1">
+    ₹7,000 – ₹20,000+ per night
+    </p>
+    <p class="mt-1">
+    Total: ₹35,000 – ₹80,000+
+    </p>
+    <p class="mt-3">
+    Mid-range beach resorts are the most popular choice for couples.
+    </p>
+    <h2 class="text-2xl font-bold mt-6 mb-4">Port Blair to Havelock Ferry Cost</h2>
+    <p>
+      Island-hopping is one of the major attractions in Andaman.
+    </p>
+
+    <h3 class="text-xl font-semibold mt-3 mb-4">Ferry Charges</h3>
+    <p class="mt-1">
+    Government Ferry: ₹400 – ₹1,200 per person
+    </p>
+    <p class="mt-1">
+    Private Cruise: ₹1,500 – ₹2,500 per person
+    </p>
+    <p class="mt-3">
+    Thus, the Port Blair to Havelock Ferry Cost for a couple would be between ₹2,000 – ₹6,000.
+    </p>
+    <p class="mt-3">
+    The private cruise is faster and more comfortable, while the government cruise is more budget-friendly
+    </p>
+
+    <h2 class="text-2xl font-bold mt-6 mb-4">Food and Daily Expenses</h2>
+    <p>
+     Food costs vary according to the restaurant or the place you choose to dine at 
+    </p>
+    <p class="mt-1">
+    Budget restaurant: ₹200 - ₹400 per person
+    </p>
+    <p class="mt-1">
+    Mid-range restaurant: ₹500 - ₹800 per person
+    </p>
+    <p class="mt-1">
+    Luxury restaurant: ₹1000+ per person
+    </p>
+    <p class="mt-1">
+    For a couple, the daily expense on food items will be around ₹1000 - ₹2000
+    </p>
+    <p class="mt-1">
+    Over a span of 5 days, the expense on food items will be around ₹5000 - ₹10000.
+    </p>
+
+    <h2 class="text-2xl font-bold mt-6 mb-4">Activities and Experiences Cost</h2>
+
+    <p class="mt-1">
+    Activities add the essence to your tour.
+    </p>
+    <p class="mt-1">
+    Scuba diving: ₹3500 - ₹5000 per person
+    </p>
+    <p class="mt-1">
+    Snorkeling: ₹1000 - ₹1500 per person
+    </p>
+    <p class="mt-1">
+    Water sports: ₹1000 - ₹3000 per person
+    </p>
+    <p class="mt-1">
+    For a couple, the expense on activities will be around ₹5000 - ₹15000 depending upon the activities chosen.
+    </p>
+
+    <h2 class="text-2xl font-bold mt-6 mb-4">Best Time to Visit Andaman</h2>
+    
+    <p class="">
+    Choosing the right season for your tour may add a great impact to your tour and your wallet too.
+    </p>
+    <p class="mt-1">
+    -October to May (Best Season)
+    </p>
+    <p class="mt-1">
+    Pleasant weather
+    </p>
+    <p class="mt-1">
+    Best for water sports
+    </p>
+    <p class="mt-3">
+    -June to September (Off-Season)
+    </p>
+    <p class="mt-1">
+    Lower prices
+    </p>
+    <p class="mt-1">
+    No activities due to rainfall
+    </p>
+    <p class="mt-3">
+    The <span class"font-semibold">best time to visit Andaman</span> is between October and May for a perfect mix of weather and activities.
+    </p>
+    <h2 class="text-2xl font-bold mt-6 mb-4">Best Travel Tips to Save on Andaman Trip Cost</h2>
+     <p>
+      Here are some best travel insurance tips and budgeting tips to help you save on your trip cost:
+    </p>
+     <p class"mt-1">
+      Book your flights and hotels in advance
+    </p>
+     <p class"mt-1">
+      Opt for combination packages
+    </p>
+     <p class"mt-1">
+      Use government ferries for your trip
+    </p>
+     <p class"mt-1">
+      Travel during the shoulder season
+    </p>
+     <p class"mt-1">
+      Limit your water sports activities
+    </p>
+    <p class"mt-3">
+      By following these tips, you can easily plan your andaman tour budget without compromising on your experience.
+    </p>
+    <h2 class="text-2xl font-bold mt-6 mb-4">Why Plan Your Andaman Trip with Travelosun</h2>
+    <p class="">When you plan your trip to an island, there are many bookings to be made. You need to book your flights, hotels, and even your ferry</p>
+   
+     <p class="mt-3">
+      You can book from <a class="underline font-semibold text-blue-800" href="https://www.travelosun.com/">Travelosun</a> as it provides you with the best travel packages for your trip to Andaman. They specialize in creating travel packages for couples.
+    </p>    
+    <h2 class="text-2xl font-bold mt-6 mb-4">Final Thoughts</h2>
+   
+    <p>
+      A trip to Andaman is a once-in-a-lifetime experience. But to enjoy your trip to Andaman completely, it is important to plan your budget very well.
+    </p>
+    <p>
+      With an idea about the cost for a trip to Andaman for 5 days, you can make better decisions regarding your trip.
+    </p>
+    <p class="mt-3">
+      To make your trip to Andaman a smooth and well-planned experience, you can visit <span class="font-semibold">Travelosun</span>.
+    </p>
+        
+          `,
+  },
       
     ];
     
