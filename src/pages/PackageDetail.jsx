@@ -228,7 +228,7 @@ const PackageDetail = () => {
                 {/* Prices Ex Delhi */}
                 <div>
                   <h3 className="text-center font-semibold text-base md:text-lg mb-2">
-                    Prices Ex-Delhi
+                    Prices Ex-Delh
                   </h3>
 
                   <div className="overflow-x-auto">
