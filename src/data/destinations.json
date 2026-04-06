@@ -1,1291 +1,1638 @@
 [
-    {
-        "id": "india",
-        "slug": "india",
+  {
+    "id": "india",
+    "slug": "india",
+    "category": "Domestic",
+    "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+    "country": "India",
+    "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
+    "state": [
+      {
+        "id": "kerala",
+        "slug": "Kerala",
+        "state": "Kerala",
+        "image": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
+        "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kerala Backwater Escape",
+            "slug": "kerala-backwater-escape",
+            "metatitle": "Affordable Kerala Tour Packages| Travel O Sun",
+            "metadescription": "Book the best Kerala backwater tour package with Travel O Sun. Cruise through tranquil houseboats, visit Alleppey and Munnar, and enjoy a peaceful Kerala vacation.",
+            "metacanonical": "https://www.travelosun.com/packages/kerala-backwater-escape",
+            "metakeywords": " Kerala Tour Packages",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Kerala Backwater Escape",
+              "description": "Discover Kerala’s lush landscapes, serene backwaters, and traditional houseboat experiences.",
+              "image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
+              "url": "https://www.example.com/destinations/kerala-backwater-escape",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": "312"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kerala Backwater Escape",
+              "og:description": "Relax on a houseboat, explore Munnar, and rejuvenate in Kerala’s serene backwaters.",
+              "og:image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
+              "og:url": "https://www.example.com/destinations/kerala-backwater-escape",
+              "og:type": "website"
+            },
+            "description": "Immerse yourself in Kerala’s peaceful beauty — from misty hill stations in Munnar to tranquil houseboat cruises in Alleppey. Enjoy authentic cuisine, Ayurveda therapy, and cultural richness.",
+            "coverimg": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
+            "img": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
+            "price": "",
+            "priceIncludes": [
+              "Air Fares",
+              "3 Nights Hotel Accommodation",
+              "Houseboat Stay",
+              "Tour Guide"
+            ],
+            "departureAndReturnLocation": [
+              "Guide Service Fee",
+              "Driver Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/5NPbgdpv/kerala-1.jpg",
+                "alt": "Kerala Backwaters"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/VL7mgQ4t/kerala-2.jpg",
+                "alt": "Munnar Hills"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/3JLY1592/kerala-4.jpg",
+                "alt": "Alleppey Houseboat"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1006634.4547339462!2d75.7804023!3d10.3528744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08c2f77b9e5bbf%3A0xf9fbd18e65b74c7e!2sKerala!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Backwater, Nature, Ayurveda",
+            "category": "Domestic",
+            "locationName": "Kerala, India",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "312",
+            "ratingStar": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "andaman",
+        "slug": "Andaman & Nicobar Islands",
+        "state": "Andaman & Nicobar",
+        "category": "Domestic",
+        "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+        "description": "Explore the turquoise waters, coral reefs, and pristine beaches of the Andaman & Nicobar Islands — India’s tropical gem.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Andaman Island Explorer",
+            "slug": "andaman-island-explorer",
+            "metatitle": "Andaman and Nicobar islands tour package |  Travel O Sun",
+            "metadescription": "Discover pristine beaches and turquoise waters with our Andaman and Nicobar Islands tour package. Ideal for couples and families seeking a tropical island escape.",
+            "metacanonical": "https://www.travelosun.com/packages/andaman-island-explorer",
+            "metakeywords": "Andaman and Nicobar islands tour package",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Andaman Island Explorer",
+              "description": "Enjoy the Andaman Islands’ white sand beaches, crystal clear waters, and marine adventures.",
+              "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+              "url": "https://www.example.com/destinations/andaman-island-explorer",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "289"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Andaman Island Explorer",
+              "og:description": "Dive into paradise — crystal-clear waters, coral reefs, and tropical beaches await you in the Andaman Islands.",
+              "og:image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+              "og:url": "https://www.example.com/destinations/andaman-island-explorer",
+              "og:type": "website"
+            },
+            "description": "Discover the Andaman & Nicobar Islands — from Radhanagar Beach to Havelock’s coral reefs. Enjoy beachside resorts, island hopping, and unforgettable sunsets over the Indian Ocean.",
+            "coverimg": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+            "img": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
+            "price": "",
+            "priceIncludes": [
+              "Air Fares",
+              "3 Nights Beach Resort Stay",
+              "Scuba Diving Experience",
+              "Tour Guide"
+            ],
+            "departureAndReturnLocation": [
+              "Guide Service Fee",
+              "Driver Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/T3GqRdwL/andaman-1.jpg",
+                "alt": "Radhanagar Beach"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/bw8HzyJ2/andaman-3.jpg",
+                "alt": "Scuba Diving"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/rwcC8Vmd/andaman-2.jpg",
+                "alt": "Havelock Island"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391010.97270470296!2d92.71121036510433!3d11.740086071578188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3088953c0a6b6b8b%3A0x9b5e1dc9e5c5c9e4!2sAndaman%20and%20Nicobar%20Islands!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Beach, Adventure, Scuba",
+            "category": "Domestic",
+            "locationName": "Andaman & Nicobar Islands, India",
+            "country": "India",
+            "state": "Andaman & Nicobar",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "289",
+            "ratingStar": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "manali-kasol",
+        "slug": "manali-kasol",
+        "state": "Himachal Pradesh",
+        "category": "Domestic",
+        "image": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
+        "description": "Discover the snow-capped peaks and vibrant cafes of Manali and Kasol — a perfect mix of adventure and serenity.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Manali Kasol Adventure Escape",
+            "slug": "manali-kasol-adventure-escape",
+            "metatitle": "Manali Kasol Adventure Escape | Himachal Tour Package ",
+            "metadescription": "Explore the scenic beauty of Manali and Kasol with our exclusive adventure holiday tour package. Perfect for couples, families, and mountain lovers.",
+            "metacanonical": "https://www.travelosun.com/packages/manali-kasol-adventure-escape",
+            "metakeywords": "Himachal Tour Package ",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Manali Kasol Adventure Escape",
+              "description": "Experience the charm of Manali and Kasol with trekking, hot springs, and the beauty of Parvati Valley.",
+              "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "415"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Manali Kasol Adventure Escape",
+              "og:description": "A scenic getaway through Himachal’s most loved destinations — Manali and Kasol.",
+              "og:image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
+              "og:type": "website"
+            },
+            "description": "Unwind amidst the serene Himalayan landscapes of Manali and Kasol. Enjoy the Parvati Valley trek, visit local cafes, soak in the hot springs of Manikaran, and experience Himachal’s unique culture.",
+            "coverimg": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
+            "img": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
+            "price": "6000",
+            "priceIncludes": [
+              "Travel & Transfers",
+              "3 Nights Hotel Accommodation",
+              "Daily Breakfast & Dinner",
+              "Sightseeing Tours"
+            ],
+            "departureAndReturnLocation": [
+              "Delhi Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/TwQqLrWY/Manali-Image-2.jpg",
+                "alt": "Manali Mountains"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/LXvBYzZX/Manali-Image-3.jpg",
+                "alt": "Kasol Village"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/NMb791rj/Manali-Image-1.jpg",
+                "alt": "Parvati Valley"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.410524674825!2d77.18876831513064!3d32.23963218114955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390487bcb226a937%3A0x9b7b078f479eecfd!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Adventure, Nature, Mountains",
+            "locationName": "Manali & Kasol, Himachal Pradesh, India",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "415",
+            "ratingStar": "4.8"
+          }
+        ]
+      },
+      {
+        "id": "chopta-auli-rishikesh",
+        "slug": "chopta-auli-rishikesh",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+        "description": "From the meadows of Chopta to the snowfields of Auli and spiritual ghats of Rishikesh — explore Uttarakhand’s best trio.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Chopta Auli Rishikesh Journey",
+            "slug": "chopta-auli-rishikesh-journey",
+            "metatitle": "Chopta Auli Rishikesh Journey | Uttarakhand Tour Package",
+            "metadescription": "Book your Uttarakhand tour package with Travel O Sun. Visit Chopta, Auli, and Rishikesh in one thrilling package combining nature, adventure, and peace.",
+            "metacanonical": "https://www.travelosun.com/packages/chopta-auli-rishikesh-journey",
+            "metakeywords": " Uttarakhand Tour Package",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Chopta Auli Rishikesh Journey",
+              "description": "Explore Uttarakhand’s spiritual and natural wonders with this 3-night 4-day adventure.",
+              "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+              "url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": "286"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Chopta Auli Rishikesh Journey",
+              "og:description": "A perfect Uttarakhand escape — mountains, snow, and sacred rivers.",
+              "og:image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+              "og:url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
+              "og:type": "website"
+            },
+            "description": "Witness the divine charm of Rishikesh, the skiing slopes of Auli, and the green meadows of Chopta. This tour combines adventure, relaxation, and spirituality for a balanced Himalayan retreat.",
+            "coverimg": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+            "img": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
+            "price": "22,000",
+            "priceIncludes": [
+              "3 Nights Stay",
+              "Local Transfers",
+              "Trekking & Skiing",
+              "Breakfast & Dinner"
+            ],
+            "departureAndReturnLocation": [
+              "Delhi Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/bNqsrsxj/Rishikesh-Image-1.jpg",
+                "alt": "Chopta Meadows"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/bNqsrsxh/Rishikesh-Image-2.jpg",
+                "alt": "Auli Slopes"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/kX7BGBQP/Rishikesh-Image-3.jpg",
+                "alt": "Rishikesh Ghat"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3494.395352048266!2d79.58553731512566!3d30.518545181717918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390918a10adf7a87%3A0x2d7919ce3eb3295a!2sAuli%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Adventure, Yoga, Snow",
+            "locationName": "Chopta, Auli & Rishikesh, Uttarakhand, India",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "286",
+            "ratingStar": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "leh-turtuk",
+        "slug": "leh-to-leh-turtuk-village",
+        "state": "Ladakh",
         "category": "Domestic",
         "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-        "country": "India",
-        "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
-        "state": [
-            {
-                "id": "kerala",
-                "slug": "Kerala",
-                "state": "Kerala",
-                "image": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
-                "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kerala Backwater Escape",
-                        "slug": "kerala-backwater-escape",
-                        "metatitle": "Affordable Kerala Tour Packages| Travel O Sun",
-                        "metadescription": "Book the best Kerala backwater tour package with Travel O Sun. Cruise through tranquil houseboats, visit Alleppey and Munnar, and enjoy a peaceful Kerala vacation.",
-                        "metacanonical": "https://www.travelosun.com/packages/kerala-backwater-escape",
-                        "metakeywords": " Kerala Tour Packages",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Kerala Backwater Escape",
-                            "description": "Discover Kerala’s lush landscapes, serene backwaters, and traditional houseboat experiences.",
-                            "image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
-                            "url": "https://www.example.com/destinations/kerala-backwater-escape",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.7",
-                                "reviewCount": "312"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kerala Backwater Escape",
-                            "og:description": "Relax on a houseboat, explore Munnar, and rejuvenate in Kerala’s serene backwaters.",
-                            "og:image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
-                            "og:url": "https://www.example.com/destinations/kerala-backwater-escape",
-                            "og:type": "website"
-                        },
-                        "description": "Immerse yourself in Kerala’s peaceful beauty — from misty hill stations in Munnar to tranquil houseboat cruises in Alleppey. Enjoy authentic cuisine, Ayurveda therapy, and cultural richness.",
-                        "coverimg": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
-                        "img": "https://i.postimg.cc/GhMdKwzB/kerala-main-image-page.jpg",
-                        "price": "",
-                        "priceIncludes": [
-                            "Air Fares",
-                            "3 Nights Hotel Accommodation",
-                            "Houseboat Stay",
-                            "Tour Guide"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Guide Service Fee",
-                            "Driver Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/5NPbgdpv/kerala-1.jpg",
-                                "alt": "Kerala Backwaters"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/VL7mgQ4t/kerala-2.jpg",
-                                "alt": "Munnar Hills"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/3JLY1592/kerala-4.jpg",
-                                "alt": "Alleppey Houseboat"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1006634.4547339462!2d75.7804023!3d10.3528744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08c2f77b9e5bbf%3A0xf9fbd18e65b74c7e!2sKerala!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Backwater, Nature, Ayurveda",
-                        "category": "Domestic",
-                        "locationName": "Kerala, India",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "312",
-                        "ratingStar": "4.7"
-                    }
-                ]
+        "description": "Journey through Ladakh’s surreal landscapes — from Leh to the remote village of Turtuk near the Indo-Pak border.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Leh to Leh with Turtuk Village",
+            "slug": "leh-to-leh-turtuk-village",
+            "metatitle": "Leh to Leh Turtuk Village Tour | leh ladakh tour packages",
+            "metadescription": "Get the unforgettable Leh-Ladakh tour packages from Leh to Turtuk Village. Explore stunning mountain passes and cultural wonders with Travel O Sun.",
+            "metacanonical": "https://www.travelosun.com/packages/leh-to-leh-turtuk-village",
+            "metakeywords": "Leh ladakh tour packages",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Leh to Leh with Turtuk Village",
+              "description": "A high-altitude adventure across Ladakh covering Leh, Nubra, Pangong, and Turtuk Village.",
+              "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+              "url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "512"
+              }
             },
-            {
-                "id": "andaman",
-                "slug": "Andaman & Nicobar Islands",
-                "state": "Andaman & Nicobar",
-                "category": "Domestic",
-                "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
-                "description": "Explore the turquoise waters, coral reefs, and pristine beaches of the Andaman & Nicobar Islands — India’s tropical gem.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Andaman Island Explorer",
-                        "slug": "andaman-island-explorer",
-                        "metatitle": "Andaman and Nicobar islands tour package |  Travel O Sun",
-                        "metadescription": "Discover pristine beaches and turquoise waters with our Andaman and Nicobar Islands tour package. Ideal for couples and families seeking a tropical island escape.",
-                        "metacanonical": "https://www.travelosun.com/packages/andaman-island-explorer",
-                        "metakeywords": "Andaman and Nicobar islands tour package",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Andaman Island Explorer",
-                            "description": "Enjoy the Andaman Islands’ white sand beaches, crystal clear waters, and marine adventures.",
-                            "image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
-                            "url": "https://www.example.com/destinations/andaman-island-explorer",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.9",
-                                "reviewCount": "289"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Andaman Island Explorer",
-                            "og:description": "Dive into paradise — crystal-clear waters, coral reefs, and tropical beaches await you in the Andaman Islands.",
-                            "og:image": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
-                            "og:url": "https://www.example.com/destinations/andaman-island-explorer",
-                            "og:type": "website"
-                        },
-                        "description": "Discover the Andaman & Nicobar Islands — from Radhanagar Beach to Havelock’s coral reefs. Enjoy beachside resorts, island hopping, and unforgettable sunsets over the Indian Ocean.",
-                        "coverimg": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
-                        "img": "https://i.postimg.cc/gk3HFXY3/andaman-main-image.jpg",
-                        "price": "",
-                        "priceIncludes": [
-                            "Air Fares",
-                            "3 Nights Beach Resort Stay",
-                            "Scuba Diving Experience",
-                            "Tour Guide"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Guide Service Fee",
-                            "Driver Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/T3GqRdwL/andaman-1.jpg",
-                                "alt": "Radhanagar Beach"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/bw8HzyJ2/andaman-3.jpg",
-                                "alt": "Scuba Diving"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/rwcC8Vmd/andaman-2.jpg",
-                                "alt": "Havelock Island"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391010.97270470296!2d92.71121036510433!3d11.740086071578188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3088953c0a6b6b8b%3A0x9b5e1dc9e5c5c9e4!2sAndaman%20and%20Nicobar%20Islands!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Beach, Adventure, Scuba",
-                        "category": "Domestic",
-                        "locationName": "Andaman & Nicobar Islands, India",
-                        "country": "India",
-                        "state": "Andaman & Nicobar",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "289",
-                        "ratingStar": "4.9"
-                    }
-                ]
+            "metaopengraph": {
+              "og:title": "Leh to Leh with Turtuk Village",
+              "og:description": "From Leh to the last village of India — explore the essence of Ladakh.",
+              "og:image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+              "og:url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
+              "og:type": "website"
             },
-            {
-                "id": "manali-kasol",
-                "slug": "manali-kasol",
-                "state": "Himachal Pradesh",
-                "category": "Domestic",
-                "image": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
-                "description": "Discover the snow-capped peaks and vibrant cafes of Manali and Kasol — a perfect mix of adventure and serenity.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Manali Kasol Adventure Escape",
-                        "slug": "manali-kasol-adventure-escape",
-                        "metatitle": "Manali Kasol Adventure Escape | Himachal Tour Package ",
-                        "metadescription": "Explore the scenic beauty of Manali and Kasol with our exclusive adventure holiday tour package. Perfect for couples, families, and mountain lovers.",
-                        "metacanonical": "https://www.travelosun.com/packages/manali-kasol-adventure-escape",
-                        "metakeywords": "Himachal Tour Package ",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Manali Kasol Adventure Escape",
-                            "description": "Experience the charm of Manali and Kasol with trekking, hot springs, and the beauty of Parvati Valley.",
-                            "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.8",
-                                "reviewCount": "415"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Manali Kasol Adventure Escape",
-                            "og:description": "A scenic getaway through Himachal’s most loved destinations — Manali and Kasol.",
-                            "og:image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8c?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/manali-kasol-adventure-escape",
-                            "og:type": "website"
-                        },
-                        "description": "Unwind amidst the serene Himalayan landscapes of Manali and Kasol. Enjoy the Parvati Valley trek, visit local cafes, soak in the hot springs of Manikaran, and experience Himachal’s unique culture.",
-                        "coverimg": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
-                        "img": "https://i.postimg.cc/tTDtZhVb/Manali-Main-Image.jpg",
-                        "price": "6000",
-                        "priceIncludes": [
-                            "Travel & Transfers",
-                            "3 Nights Hotel Accommodation",
-                            "Daily Breakfast & Dinner",
-                            "Sightseeing Tours"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Delhi Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/TwQqLrWY/Manali-Image-2.jpg",
-                                "alt": "Manali Mountains"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/LXvBYzZX/Manali-Image-3.jpg",
-                                "alt": "Kasol Village"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/NMb791rj/Manali-Image-1.jpg",
-                                "alt": "Parvati Valley"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.410524674825!2d77.18876831513064!3d32.23963218114955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390487bcb226a937%3A0x9b7b078f479eecfd!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Adventure, Nature, Mountains",
-                        "locationName": "Manali & Kasol, Himachal Pradesh, India",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "415",
-                        "ratingStar": "4.8"
-                    }
-                ]
-            },
-            {
-                "id": "chopta-auli-rishikesh",
-                "slug": "chopta-auli-rishikesh",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
-                "description": "From the meadows of Chopta to the snowfields of Auli and spiritual ghats of Rishikesh — explore Uttarakhand’s best trio.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Chopta Auli Rishikesh Journey",
-                        "slug": "chopta-auli-rishikesh-journey",
-                        "metatitle": "Chopta Auli Rishikesh Journey | Uttarakhand Tour Package",
-                        "metadescription": "Book your Uttarakhand tour package with Travel O Sun. Visit Chopta, Auli, and Rishikesh in one thrilling package combining nature, adventure, and peace.",
-                        "metacanonical": "https://www.travelosun.com/packages/chopta-auli-rishikesh-journey",
-                        "metakeywords": " Uttarakhand Tour Package",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Chopta Auli Rishikesh Journey",
-                            "description": "Explore Uttarakhand’s spiritual and natural wonders with this 3-night 4-day adventure.",
-                            "image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
-                            "url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.7",
-                                "reviewCount": "286"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Chopta Auli Rishikesh Journey",
-                            "og:description": "A perfect Uttarakhand escape — mountains, snow, and sacred rivers.",
-                            "og:image": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
-                            "og:url": "https://www.example.com/destinations/chopta-auli-rishikesh-journey",
-                            "og:type": "website"
-                        },
-                        "description": "Witness the divine charm of Rishikesh, the skiing slopes of Auli, and the green meadows of Chopta. This tour combines adventure, relaxation, and spirituality for a balanced Himalayan retreat.",
-                        "coverimg": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
-                        "img": "https://i.postimg.cc/7P35qg2H/Rishikesh-Main-Image.jpg",
-                        "price": "22,000",
-                        "priceIncludes": [
-                            "3 Nights Stay",
-                            "Local Transfers",
-                            "Trekking & Skiing",
-                            "Breakfast & Dinner"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Delhi Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/bNqsrsxj/Rishikesh-Image-1.jpg",
-                                "alt": "Chopta Meadows"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/bNqsrsxh/Rishikesh-Image-2.jpg",
-                                "alt": "Auli Slopes"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/kX7BGBQP/Rishikesh-Image-3.jpg",
-                                "alt": "Rishikesh Ghat"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3494.395352048266!2d79.58553731512566!3d30.518545181717918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390918a10adf7a87%3A0x2d7919ce3eb3295a!2sAuli%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Adventure, Yoga, Snow",
-                        "locationName": "Chopta, Auli & Rishikesh, Uttarakhand, India",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "286",
-                        "ratingStar": "4.7"
-                    }
-                ]
-            },
-            {
-                "id": "leh-turtuk",
-                "slug": "leh-to-leh-turtuk-village",
-                "state": "Ladakh",
-                "category": "Domestic",
-                "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-                "description": "Journey through Ladakh’s surreal landscapes — from Leh to the remote village of Turtuk near the Indo-Pak border.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Leh to Leh with Turtuk Village",
-                        "slug": "leh-to-leh-turtuk-village",
-                        "metatitle": "Leh to Leh Turtuk Village Tour | leh ladakh tour packages",
-                        "metadescription": "Get the unforgettable Leh-Ladakh tour packages from Leh to Turtuk Village. Explore stunning mountain passes and cultural wonders with Travel O Sun.",
-                        "metacanonical": "https://www.travelosun.com/packages/leh-to-leh-turtuk-village",
-                        "metakeywords": "Leh ladakh tour packages",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Leh to Leh with Turtuk Village",
-                            "description": "A high-altitude adventure across Ladakh covering Leh, Nubra, Pangong, and Turtuk Village.",
-                            "image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-                            "url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.9",
-                                "reviewCount": "512"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Leh to Leh with Turtuk Village",
-                            "og:description": "From Leh to the last village of India — explore the essence of Ladakh.",
-                            "og:image": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-                            "og:url": "https://www.example.com/destinations/leh-to-leh-turtuk-village",
-                            "og:type": "website"
-                        },
-                        "description": "An unforgettable 8-day expedition through Ladakh’s stunning mountain passes, monasteries, and the unique Balti culture of Turtuk. Visit Nubra Valley, Pangong Lake, and return to Leh with lifelong memories.",
-                        "coverimg": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-                        "img": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
-                        "price": "24,500",
-                        "priceIncludes": [
-                            "7 Nights Stay",
-                            "Breakfast & Dinner",
-                            "Transfers in SUV/Tempo",
-                            "Sightseeing & Permits"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Leh Airport Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/SRFVCWy3/Ladakh-Bike-Image-2.jpg",
-                                "alt": "Leh Monastery"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/GtwzGkcf/Ladakh-Bike-Image-3.jpg",
-                                "alt": "Nubra Valley"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/QCGS1pX0/Ladakh-Bike-Image-4.jpg",
-                                "alt": "Turtuk Village"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d373041.3891665927!2d77.35913973730317!3d34.16503368837339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fdeb32e7a7f63b%3A0x6b1b09a936fa83d0!2sLeh%2C%20Ladakh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Adventure, Culture, Mountains",
-                        "locationName": "Leh, Nubra, Turtuk, Pangong - Ladakh, India",
-                        "days": "8 Days",
-                        "nights": "7 Nights",
-                        "totalReview": "512",
-                        "ratingStar": "4.9"
-                    }
-                ]
-            },
-            {
-                "id": "kedarnath-badrinath-tungnath",
-                "slug": "kedarnath-badrinath-tungnath",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
-                "description": "A sacred pilgrimage through the Himalayas — visit Kedarnath, Badrinath, and Tungnath on this divine 8-day journey.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kedarnath Badrinath Tungnath Yatra",
-                        "slug": "kedarnath-badrinath-tungnath-yatra",
-                        "metatitle": "Badrinath Kedarnath tour package | Char Dham Tour – Travel O Sun",
-                        "metadescription": "Plan your Badrinath Kedarnath tour package with Travel O Sun. Explore sacred Himalayan shrines and enjoy a peaceful Char Dham Yatra experience in Uttarakhand.",
-                        "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-tungnath-yatra",
-                        "metakeywords": "Badrinath Kedarnath tour package",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Kedarnath Badrinath Tungnath Yatra",
-                            "description": "Explore the spiritual heart of the Himalayas in this 8-day divine expedition.",
-                            "image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.8",
-                                "reviewCount": "340"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kedarnath Badrinath Tungnath Yatra",
-                            "og:description": "An unforgettable spiritual journey through the sacred Himalayas of Uttarakhand.",
-                            "og:image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
-                            "og:url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
-                            "og:type": "website"
-                        },
-                        "description": "A divine journey covering three of the holiest temples in Uttarakhand — Kedarnath, Badrinath, and Tungnath. Experience peace, devotion, and breathtaking mountain beauty on this Himalayan Yatra.",
-                        "coverimg": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
-                        "img": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
-                        "price": "19,000",
-                        "priceIncludes": [
-                            "7 Nights Stay",
-                            "Meals & Transfers",
-                            "Darshan Assistance",
-                            "Trek to Tungnath"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Haridwar Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/zXhb4CX8/kedarnath-badrinath-and-tongnath-1.jpg",
-                                "alt": "Kedarnath Temple"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/BQFLRTQJ/kedarnath-badrinath-and-tongnath-3-image.jpg",
-                                "alt": "Badrinath Temple"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/X75Gtf7W/kedarnath-badrinath-and-tongnath-2-image.jpg",
-                                "alt": "Tungnath Trail"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.799530010304!2d79.0668960151268!3d30.73471168163348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908c31b6ff4e54b%3A0x8c47a8c493e1227d!2sKedarnath%20Temple!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Pilgrimage, Trekking, Mountains",
-                        "locationName": "Kedarnath, Badrinath & Tungnath, Uttarakhand, India",
-                        "days": "8 Days",
-                        "nights": "7 Nights",
-                        "totalReview": "340",
-                        "ratingStar": "4.8"
-                    }
-                ]
-            },
-            {
-                "id": "spiti-bike-ride",
-                "slug": "Spiti Valley Bike Ride",
-                "state": "Himachal Pradesh",
-                "category": "Adventure",
-                "image": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
-                "description": "Ride through the rugged terrains and breathtaking landscapes of Spiti Valley on an unforgettable motorbike expedition.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Spiti Valley Bike Ride Expedition",
-                        "slug": "spiti-valley-bike-ride-expedition",
-                        "metatitle": "Explore spiti valley bike trip |  Travel O Sun",
-                        "metadescription": "Take the ultimate adventure with our Spiti Valley bike trip expedition. Ride through the Himalayas and explore the breathtaking Spiti landscape with Travel O Sun.",
-                        "metacanonical": "https://www.travelosun.com/packages/spiti-valley-bike-ride-expedition",
-                        "metakeywords": "spiti valley bike trip",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Spiti Valley Bike Ride Expedition",
-                            "description": "An adventurous bike expedition across Spiti Valley’s rugged roads and stunning Himalayan views.",
-                            "image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.9",
-                                "reviewCount": "278"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Spiti Valley Bike Ride Expedition",
-                            "og:description": "A thrilling 8-day motorbike adventure through the majestic Spiti Valley.",
-                            "og:image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
-                            "og:type": "website"
-                        },
-                        "description": "Explore Spiti Valley on two wheels! Ride across Kunzum Pass, visit Key Monastery, camp by Chandratal Lake, and experience the thrill of one of India’s highest altitude motorbike routes.",
-                        "coverimg": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
-                        "img": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
-                        "price": "42,000",
-                        "priceIncludes": [
-                            "Royal Enfield Bike & Fuel",
-                            "7 Nights Stay",
-                            "Breakfast & Dinner",
-                            "Backup Vehicle & Mechanic"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Manali Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Riding Gear Rental (Optional)"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/wBB05qD5/spiti-valley-summer-bike-1.jpg",
-                                "alt": "Spiti Road Ride"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/SKKDLScW/spiti-valley-summer-bike-3.jpg",
-                                "alt": "Key Monastery"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/GppqPLvv/spiti-valley-summer-bike-4.jpg",
-                                "alt": "Chandratal Lake"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Adventure, Bike Ride, Himalayas",
-                        "locationName": "Spiti Valley, Himachal Pradesh, India",
-                        "days": "8 Days",
-                        "nights": "7 Nights",
-                        "totalReview": "278",
-                        "ratingStar": "4.9"
-                    }
-                ]
-            },
-            {
-                "id": "spiti-summer",
-                "slug": "Spiti Valley Summer Expedition",
-                "state": "Himachal Pradesh",
-                "category": "Adventure",
-                "image": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
-                "description": "Discover the hidden gem of the Himalayas — Spiti Valley in summer. Experience its unique culture, monasteries, and surreal landscapes.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Spiti Valley Summer Expedition",
-                        "slug": "spiti-valley-summer-expedition",
-                        "metatitle": "spiti valley packages Summer Expedition |  Travel O Sun",
-                        "metadescription": "Explore Spiti Valley Packages with Travel O Sun. Experience Himachal’s high passes, monasteries, and the true spirit of Spiti in our summer expedition.",
-                        "metacanonical": "https://www.travelosun.com/packages/spiti-valley-summer-expedition",
-                        "metakeywords": "spiti valley packages ",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Spiti Valley Summer Expedition",
-                            "description": "Explore the best of Spiti in summer — monasteries, lakes, and cultural beauty.",
-                            "image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.8",
-                                "reviewCount": "265"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Spiti Valley Summer Expedition",
-                            "og:description": "A breathtaking summer journey through the heart of the Himalayas — Spiti Valley awaits.",
-                            "og:image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
-                            "og:type": "website"
-                        },
-                        "description": "Travel through the high-altitude cold desert of Spiti in its most vibrant season. Visit Tabo and Dhankar monasteries, enjoy local homestays in Kaza, and capture surreal mountain vistas.",
-                        "coverimg": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
-                        "img": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
-                        "price": "20,000",
-                        "priceIncludes": [
-                            "7 Nights Accommodation",
-                            "Breakfast & Dinner",
-                            "All Transfers in SUV",
-                            "Local Sightseeing"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Manali or Shimla Start & End",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/02x2y0Xt/spiti-velly-2-psd.jpg",
-                                "alt": "Spiti Villages"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/NfYfjkCd/spiti-velly-3-psd.jpg",
-                                "alt": "Key Monastery"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/tCyC4Nvv/spiti-velly-4-psd.jpg",
-                                "alt": "Chandratal Lake"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Nature, Culture, Adventure",
-                        "locationName": "Spiti Valley, Himachal Pradesh, India",
-                        "days": "8 Days",
-                        "nights": "7 Nights",
-                        "totalReview": "265",
-                        "ratingStar": "4.8"
-                    }
-                ]
-            },
-            {
-                "id": "leh-nubra-pangong",
-                "slug": "Leh Nubra Turtuk Pangong",
-                "state": "Ladakh",
-                "category": "Adventure",
-                "image": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
-                "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Leh Nubra Turtuk Pangong Expedition",
-                        "slug": "leh-nubra-turtuk-pangong-expedition",
-                        "metatitle": "Leh Nubra Turtuk Pangong Expedition | Ladakh Tour Package",
-                        "metadescription": "Book your Ladakh tour package with Travel O Sun. Explore Leh, Nubra, Turtuk, and Pangong Lake for an unforgettable Himalayan expedition with affordable travel deals.",
-                        "metacanonical": "https://www.travelosun.com/packages/leh-nubra-turtuk-pangong-expedition",
-                        "metakeywords": "Ladakh Tour Package",
-                        "metaschema": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristDestination",
-                            "name": "Leh Nubra Turtuk Pangong Expedition",
-                            "description": "An unforgettable journey through Ladakh’s valleys, monasteries, and crystal-blue lakes.",
-                            "image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.travelosun.com/packages/leh-nubra-turtuk-pangong-expedition",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.9",
-                                "reviewCount": "352"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Leh Nubra Turtuk Pangong Expedition",
-                            "og:description": "Journey through the most beautiful parts of Ladakh — Leh, Nubra, Turtuk & Pangong.",
-                            "og:image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/leh-nubra-turtuk-pangong-expedition",
-                            "og:type": "website"
-                        },
-                        "description": "A 7-day expedition through the majestic landscapes of Ladakh — explore Nubra’s sand dunes, Turtuk’s culture, and Pangong’s iconic blue waters. Perfect blend of adventure and serenity.",
-                        "coverimg": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
-                        "img": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
-                        "price": "20,500",
-                        "priceIncludes": [
-                            "6 Nights Stay",
-                            "Airport Transfers",
-                            "Meals & Sightseeing",
-                            "Inner Line Permits"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Leh Airport Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/RFYjk46P/Ladakh-Image-1.jpg",
-                                "alt": "Pangong Lake"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/SsPwBk21/Ladakh-Image-2.jpg",
-                                "alt": "Nubra Valley"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/LXWrc2YC/Ladakh-Image-3.jpg",
-                                "alt": "Turtuk Village"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365499.3299043676!2d77.2954842!3d34.1525884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fd8f67df0848ef%3A0x92cfefdd3cfa1764!2sLeh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
-                        "tag": "Adventure, Lakes, Mountains",
-                        "locationName": "Leh, Nubra, Turtuk & Pangong, Ladakh, India",
-                        "days": "7 Days",
-                        "nights": "6 Nights",
-                        "totalReview": "352",
-                        "ratingStar": "4.9"
-                    }
-                ]
-            },
-            {
-                "id": "sikkim-himalayan-adventure",
-                "slug": "sikkim-himalayan-adventure",
-                "state": "Sikkim",
-                "category": "Adventure",
-                "image": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
-                "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
-                "packages": [
-                    {
-                        "_id": "8",
-                        "title": "Sikkim Himalayan Adventure",
-                        "slug": "sikkim-himalayan-adventure",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/sikkim-himalayan-adventure",
-                        "metakeywords": "Sikkim Tour Package",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Sikkim Himalayan Adventure",
-                            "description": "An 8-day scenic exploration of Gangtok, Lachung, Yumthang, and Tsomgo Lake, offering culture, adventure, and mountain tranquility.",
-                            "image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "4.9",
-                                "reviewCount": "420"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Sikkim Himalayan Adventure",
-                            "og:description": "Experience Gangtok, Yumthang Valley, and Tsomgo Lake with our 7 Nights 8 Days Himalayan Tour.",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
-                            "og:type": "website"
-                        },
-                        "description": "A mesmerizing 8-day journey through Sikkim’s most scenic spots — from the lively streets of Gangtok to the snow-covered beauty of Yumthang Valley. Explore monasteries, frozen lakes, and mountain passes that define the magic of the Eastern Himalayas.",
-                        "coverimg": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
-                        "img": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
-                        "price": "",
-                        "priceIncludes": [
-                            "7 Nights Stay in Gangtok & Lachung",
-                            "Daily Breakfast & Dinner",
-                            "All Transfers & Sightseeing",
-                            "Permits and Guide Assistance"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Bagdogra Airport Pickup & Drop",
-                            "Guide Service Fee",
-                            "Any Private Expenses",
-                            "Room Service Fees"
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "https://i.postimg.cc/q7qkHrXD/Sikkim-Image-1-1.jpg",
-                                "alt": "Gangtok City View"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
-                                "alt": "Yumthang Valley"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
-                                "alt": "Tsomgo Lake"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Gangtok, Lachung & Tsomgo Lake, Sikkim, India",
-                        "days": "8 Days",
-                        "nights": "7 Nights",
-                        "totalReview": "420",
-                        "ratingStar": "4.9"
-                    }
-                ]
-            },
-            {
-                "id": "char-dham-yatra",
-                "slug": "char-dham-yatra",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Char Dham Yatra",
-                        "slug": "char-dham-yatra",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/char-dham-yatra",
-                        "metakeywords": "Char Dham Yatra ",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Char Dham Yatra",
-                            "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "520"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Char Dham Yatra",
-                            "og:description": "spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh.",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
-                            "og:type": "website"
-                        },
-                        "description": "The ultimate spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh. Travel through mesmerizing Himalayan scenery, visit ancient temples, and immerse yourself in devotion as you seek blessings and serenity in the lap of nature.",
-                        "coverimg": "/charDham/CharDhamYatraimagejpg.jpeg",
-                        "img": "/charDham/CharDhamYatraimagejpg.jpeg",
-                        "price": "26,999",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Eight nine hotel stay",
-                            "Meals -8 Breakfast and 8 Dinner",
-                            "Yatra Registration.",
-                            "24*7 support and guidance."
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/charDham/image1kedarnath.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "/charDham/image_2badrinath.jpg.jpeg",
-                                "alt": "Gangotri"
-                            },
-                            {
-                                "id": 3,
-                                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
-                                "alt": "Uttarkashi"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Haridwar, Rishikesh, Sonprayag, Kedarnath, Sitapur, Chopta, Peepalkoti, Yamunotri, Gangotri, Uttarkashi  India",
-                        "days": "10 Days",
-                        "nights": "9 Nights",
-                        "totalReview": "480",
-                        "ratingStar": "4.9"
-                    }
-                ]
-            },
-            {
-                "id": "kedarnath-badrinath-chopta-package",
-                "slug": "kedarnath-badrinath-chopta-package",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kedarnath Badrinath Chopta",
-                        "slug": "kedarnath-badrinath-chopta-package",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
-                        "metakeywords": "Kedarnath Badrinath Chopta",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Kedarnath Badrinath Chopta",
-                            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "520"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kedarnath Badrinath Chopta",
-                            "og:description": "Divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
-                            "og:type": "website"
-                        },
-                        "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
-                        "coverimg": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
-                        "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
-                        "price": "26,200",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Two Night Hotel stay in Sitapur",
-                            "Respective stay at Kedarnath",
-                            "One night stay in swiss camps in Chopta",
-                            "One night Hotel Stay at Badrinath",
-                            "Meals - 4 Breakfast and 4 Dinner"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/chopta/Choptaimage1.jpg.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
-                                "alt": "Badrinath"
-                            },
-                            {
-                                "id": 3,
-                                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
-                                "alt": "Chopta"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Badrinath & Chopta",
-                        "days": "7 Days",
-                        "nights": "6 Nights",
-                        "totalReview": "520",
-                        "ratingStar": "5"
-                    }
-                ]
-            },
-            {
-                "id": "kedarnath-badrinath-chopta",
-                "slug": "kedarnath-badrinath-chopta",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kedarnath Badrinath Chopta",
-                        "slug": "kedarnath-badrinath-chopta",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
-                        "metakeywords": "Kedarnath Badrinath Chopta",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Kedarnath Badrinath Chopta",
-                            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "520"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kedarnath Badrinath Chopta",
-                            "og:description": "Divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
-                            "og:type": "website"
-                        },
-                        "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
-                        "coverimg": "/choptachota/KedarnathKedarnathBadrinath&Chopta.jpg.jpeg",
-                        "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                        "price": "12,600",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Two Night Hotel stay in Sitapur",
-                            "Respective stay at Kedarnath",
-                            "One night stay in swiss camps in Chopta",
-                            "One night Hotel Stay at Badrinath",
-                            "Meals - 4 Breakfast and 4 Dinner"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta2(1).jpg.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(2).jpg.jpeg",
-                                "alt": "Badrinath"
-                            },
-                            {
-                                "id": 3,
-                                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(3).jpg.jpeg",
-                                "alt": "Chopta"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Badrinath & Chopta",
-                        "days": "6 Days",
-                        "nights": "5 Nights",
-                        "totalReview": "520",
-                        "ratingStar": "5"
-                    }
-                ]
-            },
-            {
-                "id": "kedarnath-badrinath-rishikesh",
-                "slug": "kedarnath-badrinath-rishikesh",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "The divine essence of the Himalayas with a sacred tour covering Kedarnath, Badrinath, and Rishikesh.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kedarnath Badrinath Rishikesh",
-                        "slug": "kedarnath-badrinath-rishikesh",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
-                        "metakeywords": "Kedarnath Badrinath Rishikesh",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Kedarnath Badrinath Rishikesh",
-                            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Rishikesh — three of Uttarakhand’s most revered and scenic destinations.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "620"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kedarnath Badrinath Rishikesh",
-                            "og:description": "Discover the spiritual charm of Kedarnath and Badrinath and unwind in the serene atmosphere of Rishikesh. A soulful Himalayan journey of faith, peace, and scenic beauty",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
-                            "og:type": "website"
-                        },
-                        "description": "Himalayan journey starting from Delhi, travelling through the sacred city of Rishikesh, and moving deeper into the divine landscapes of Guptkashi / Sitapur. Seek blessings at the revered Kedarnath Dham, one of the holiest Jyotirlingas of Lord Shiva, before returning to Guptkashi and continuing toward the majestic shrine of Badrinath, dedicated to Lord Vishnu.",
-                        "coverimg": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
-                        "img": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
-                        "price": "33,000",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Two Night Hotel stay in Sitapur/Guptkashi.",
-                            "Respective stay at Kedarnath",
-                            "One night stay in Rudraprayag",
-                            "One night Hotel in Rishikesh",
-                            "Meals - 6 Breakfast and 6 Dinner"
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/kedarBadriRishikesh/CharDhamYatraimage1.jpg.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "/kedarBadriRishikesh/CharDhamYatraimage2.jpg.jpeg",
-                                "alt": "Badrinath"
-                            },
-                            {
-                                "id": 3,
-                                "img": "/kedarBadriRishikesh/Kedarnath-Badrinath-Rishikesh3.jpg.jpeg",
-                                "alt": "Rishikesh"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Badrinath & Chopta",
-                        "days": "7 Days",
-                        "nights": "6 Nights",
-                        "totalReview": "520",
-                        "ratingStar": "5"
-                    }
-                ]
-            },
-            {
-                "id": "kedarnath",
-                "slug": "kedarnath",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "Set out on a divine Himalayan expedition from Haridwar / Rishikesh, where spirituality meets natural beauty.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Kedarnath",
-                        "slug": "kedarnath",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/kedarnath",
-                        "metakeywords": "Kedarnath",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Kedarnath",
-                            "description": "Set out on a divine Himalayan expedition from Haridwar / Rishikesh, where spirituality meets natural beauty.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "https://www.travelosun.com/packages/kedarnath",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "640"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Kedarnath",
-                            "og:description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.travelosun.com/packages/kedarnath",
-                            "og:type": "website"
-                        },
-                        "description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva. Surrounded by majestic mountains and powerful spiritual energy, this yatra offers a perfect blend of faith, devotion, and breathtaking Himalayan landscapes.",
-                        "coverimg": "/kedarnath/kedarnathimage.jpg.jpeg",
-                        "img": "/kedarnath/kedarnathimage.jpg.jpeg",
-                        "price": "7,900",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Two Night Hotel stay in Sitapur/Guptkashi.",
-                            "Respective stay at Kedarnath",
-                            "Meals - Breakfast and Dinner",
-                            "Sightseeing & mentioned.",
-                            "24*7 support and guidance."
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/kedarnath/Kedarnath1.jpg.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
-                                "alt": "Haridwar"
-                            },
-                            {
-                                "id": 3,
-                                "img": "/kedarnath/Kedarnath3.jpg.jpeg",
-                                "alt": "Rishikesh"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Haridwar, Rishikesh",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "550",
-                        "ratingStar": "5"
-                    }
-                ]
-            },
-            {
-                "id": "panch kedar yatra",
-                "slug": "panch-kedar-yatra",
-                "state": "Uttarakhand",
-                "category": "Domestic",
-                "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
-                "packages": [
-                    {
-                        "_id": "1",
-                        "title": "Panch Kedar Yatra",
-                        "slug": "panch-kedar-yatra",
-                        "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
-                        "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-                        "metacanonical": "https://www.travelosun.com/packages/panch-kedar-yatra",
-                        "metakeywords": "Panch Kedar Yatra",
-                        "schematype": {
-                            "@context": "https://schema.org",
-                            "@type": "TouristTrip",
-                            "name": "Panch Kedar Yatra",
-                            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
-                            "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
-                            "url": "https://www.travelosun.com/packages/panch-kedar-yatra",
-                            "aggregateRating": {
-                                "@type": "AggregateRating",
-                                "ratingValue": "5",
-                                "reviewCount": "640"
-                            }
-                        },
-                        "metaopengraph": {
-                            "og:title": "Panch Kedar Yatra",
-                            "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
-                            "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-                            "og:url": "https://www.travelosun.com/packages/panch-kedar-yatra",
-                            "og:type": "website"
-                        },
-                        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
-                        "coverimg": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
-                        "img": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
-                        "price": "7,900",
-                        "priceIncludes": [
-                            "Transport as per group size will be provided",
-                            "Two Night Hotel stay in Sitapur/Guptkashi.",
-                            "Respective stay at Kedarnath",
-                            "Meals - Breakfast and Dinner",
-                            "Sightseeing & mentioned.",
-                            "24*7 support and guidance."
-                        ],
-                        "departureAndReturnLocation": [
-                            "Any entry tickets at exploration sites.",
-                            "Accomodation & meals at kedarnath temple is not included",
-                            "Any charges related to jeep fare, pony Helicopter tickets.",
-                            "Additional accomodation/food costs due to any delayed in travel."
-                        ],
-                        "gallery": [
-                            {
-                                "id": 1,
-                                "img": "/panchKedarYatra/Panch-Kedar-Yatra-1.jpg.jpeg",
-                                "alt": "Kedarnath"
-                            },
-                            {
-                                "id": 2,
-                                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
-                                "alt": "Haridwar"
-                            },
-                            {
-                                "id": 3,
-                                "img": "/panchKedarYatra/Panch-Kedar-Yatra-3.jpg.jpeg",
-                                "alt": "Rishikesh"
-                            }
-                        ],
-                        "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
-                        "tag": "Adventure, Himalayas, Nature",
-                        "locationName": "Kedarnath, Haridwar, Rishikesh",
-                        "days": "4 Days",
-                        "nights": "3 Nights",
-                        "totalReview": "550",
-                        "ratingStar": "5"
-                    }
-                ]
-            }
+            "description": "An unforgettable 8-day expedition through Ladakh’s stunning mountain passes, monasteries, and the unique Balti culture of Turtuk. Visit Nubra Valley, Pangong Lake, and return to Leh with lifelong memories.",
+            "coverimg": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+            "img": "https://i.postimg.cc/vTFXfWQq/Ladakh-Bike-Main-Image.jpg",
+            "price": "24,500",
+            "priceIncludes": [
+              "7 Nights Stay",
+              "Breakfast & Dinner",
+              "Transfers in SUV/Tempo",
+              "Sightseeing & Permits"
+            ],
+            "departureAndReturnLocation": [
+              "Leh Airport Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/SRFVCWy3/Ladakh-Bike-Image-2.jpg",
+                "alt": "Leh Monastery"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/GtwzGkcf/Ladakh-Bike-Image-3.jpg",
+                "alt": "Nubra Valley"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/QCGS1pX0/Ladakh-Bike-Image-4.jpg",
+                "alt": "Turtuk Village"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d373041.3891665927!2d77.35913973730317!3d34.16503368837339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fdeb32e7a7f63b%3A0x6b1b09a936fa83d0!2sLeh%2C%20Ladakh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Adventure, Culture, Mountains",
+            "locationName": "Leh, Nubra, Turtuk, Pangong - Ladakh, India",
+            "days": "8 Days",
+            "nights": "7 Nights",
+            "totalReview": "512",
+            "ratingStar": "4.9"
+          }
         ]
-    }
-]
+      },
+      {
+        "id": "kedarnath-badrinath-tungnath",
+        "slug": "kedarnath-badrinath-tungnath",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+        "description": "A sacred pilgrimage through the Himalayas — visit Kedarnath, Badrinath, and Tungnath on this divine 8-day journey.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kedarnath Badrinath Tungnath Yatra",
+            "slug": "kedarnath-badrinath-tungnath-yatra",
+            "metatitle": "Badrinath Kedarnath tour package | Char Dham Tour – Travel O Sun",
+            "metadescription": "Plan your Badrinath Kedarnath tour package with Travel O Sun. Explore sacred Himalayan shrines and enjoy a peaceful Char Dham Yatra experience in Uttarakhand.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-tungnath-yatra",
+            "metakeywords": "Badrinath Kedarnath tour package",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Kedarnath Badrinath Tungnath Yatra",
+              "description": "Explore the spiritual heart of the Himalayas in this 8-day divine expedition.",
+              "image": "https://images.unsplash.com/photo-1655801037683-1e2d3b00a0a5?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "340"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kedarnath Badrinath Tungnath Yatra",
+              "og:description": "An unforgettable spiritual journey through the sacred Himalayas of Uttarakhand.",
+              "og:image": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+              "og:url": "https://www.example.com/destinations/kedarnath-badrinath-tungnath-yatra",
+              "og:type": "website"
+            },
+            "description": "A divine journey covering three of the holiest temples in Uttarakhand — Kedarnath, Badrinath, and Tungnath. Experience peace, devotion, and breathtaking mountain beauty on this Himalayan Yatra.",
+            "coverimg": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+            "img": "https://i.postimg.cc/dQpZWHv3/kedarnath-badrinath-and-tongnath-main-image.jpg",
+            "price": "19,000",
+            "priceIncludes": [
+              "7 Nights Stay",
+              "Meals & Transfers",
+              "Darshan Assistance",
+              "Trek to Tungnath"
+            ],
+            "departureAndReturnLocation": [
+              "Haridwar Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/zXhb4CX8/kedarnath-badrinath-and-tongnath-1.jpg",
+                "alt": "Kedarnath Temple"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/BQFLRTQJ/kedarnath-badrinath-and-tongnath-3-image.jpg",
+                "alt": "Badrinath Temple"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/X75Gtf7W/kedarnath-badrinath-and-tongnath-2-image.jpg",
+                "alt": "Tungnath Trail"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.799530010304!2d79.0668960151268!3d30.73471168163348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908c31b6ff4e54b%3A0x8c47a8c493e1227d!2sKedarnath%20Temple!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Pilgrimage, Trekking, Mountains",
+            "locationName": "Kedarnath, Badrinath & Tungnath, Uttarakhand, India",
+            "days": "8 Days",
+            "nights": "7 Nights",
+            "totalReview": "340",
+            "ratingStar": "4.8"
+          }
+        ]
+      },
+      {
+        "id": "spiti-bike-ride",
+        "slug": "Spiti Valley Bike Ride",
+        "state": "Himachal Pradesh",
+        "category": "Adventure",
+        "image": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
+        "description": "Ride through the rugged terrains and breathtaking landscapes of Spiti Valley on an unforgettable motorbike expedition.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Spiti Valley Bike Ride Expedition",
+            "slug": "spiti-valley-bike-ride-expedition",
+            "metatitle": "Explore spiti valley bike trip |  Travel O Sun",
+            "metadescription": "Take the ultimate adventure with our Spiti Valley bike trip expedition. Ride through the Himalayas and explore the breathtaking Spiti landscape with Travel O Sun.",
+            "metacanonical": "https://www.travelosun.com/packages/spiti-valley-bike-ride-expedition",
+            "metakeywords": "spiti valley bike trip",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Spiti Valley Bike Ride Expedition",
+              "description": "An adventurous bike expedition across Spiti Valley’s rugged roads and stunning Himalayan views.",
+              "image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "278"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Spiti Valley Bike Ride Expedition",
+              "og:description": "A thrilling 8-day motorbike adventure through the majestic Spiti Valley.",
+              "og:image": "https://images.unsplash.com/photo-1614676477811-b25d0cbbdfe2?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/spiti-valley-bike-ride-expedition",
+              "og:type": "website"
+            },
+            "description": "Explore Spiti Valley on two wheels! Ride across Kunzum Pass, visit Key Monastery, camp by Chandratal Lake, and experience the thrill of one of India’s highest altitude motorbike routes.",
+            "coverimg": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
+            "img": "https://i.postimg.cc/QdmfW9K5/spiti-valley-summer-bike-main-image.jpg",
+            "price": "42,000",
+            "priceIncludes": [
+              "Royal Enfield Bike & Fuel",
+              "7 Nights Stay",
+              "Breakfast & Dinner",
+              "Backup Vehicle & Mechanic"
+            ],
+            "departureAndReturnLocation": [
+              "Manali Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Riding Gear Rental (Optional)"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/wBB05qD5/spiti-valley-summer-bike-1.jpg",
+                "alt": "Spiti Road Ride"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/SKKDLScW/spiti-valley-summer-bike-3.jpg",
+                "alt": "Key Monastery"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/GppqPLvv/spiti-valley-summer-bike-4.jpg",
+                "alt": "Chandratal Lake"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Adventure, Bike Ride, Himalayas",
+            "locationName": "Spiti Valley, Himachal Pradesh, India",
+            "days": "8 Days",
+            "nights": "7 Nights",
+            "totalReview": "278",
+            "ratingStar": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "spiti-summer",
+        "slug": "Spiti Valley Summer Expedition",
+        "state": "Himachal Pradesh",
+        "category": "Adventure",
+        "image": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+        "description": "Discover the hidden gem of the Himalayas — Spiti Valley in summer. Experience its unique culture, monasteries, and surreal landscapes.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Spiti Valley Summer Expedition",
+            "slug": "spiti-valley-summer-expedition",
+            "metatitle": "spiti valley packages Summer Expedition |  Travel O Sun",
+            "metadescription": "Explore Spiti Valley Packages with Travel O Sun. Experience Himachal’s high passes, monasteries, and the true spirit of Spiti in our summer expedition.",
+            "metacanonical": "https://www.travelosun.com/packages/spiti-valley-summer-expedition",
+            "metakeywords": "spiti valley packages ",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Spiti Valley Summer Expedition",
+              "description": "Explore the best of Spiti in summer — monasteries, lakes, and cultural beauty.",
+              "image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "265"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Spiti Valley Summer Expedition",
+              "og:description": "A breathtaking summer journey through the heart of the Himalayas — Spiti Valley awaits.",
+              "og:image": "https://images.unsplash.com/photo-1616012357531-c1817b3e30f8?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/spiti-valley-summer-expedition",
+              "og:type": "website"
+            },
+            "description": "Travel through the high-altitude cold desert of Spiti in its most vibrant season. Visit Tabo and Dhankar monasteries, enjoy local homestays in Kaza, and capture surreal mountain vistas.",
+            "coverimg": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+            "img": "https://i.postimg.cc/5N1N2Skd/spiti-velly-main-image.jpg",
+            "price": "20,000",
+            "priceIncludes": [
+              "7 Nights Accommodation",
+              "Breakfast & Dinner",
+              "All Transfers in SUV",
+              "Local Sightseeing"
+            ],
+            "departureAndReturnLocation": [
+              "Manali or Shimla Start & End",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/02x2y0Xt/spiti-velly-2-psd.jpg",
+                "alt": "Spiti Villages"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/NfYfjkCd/spiti-velly-3-psd.jpg",
+                "alt": "Key Monastery"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/tCyC4Nvv/spiti-velly-4-psd.jpg",
+                "alt": "Chandratal Lake"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365538.0163334799!2d77.87369735!3d32.21881745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904b5db23d9f6a1%3A0xdcd33b6bb4f761ef!2sSpiti%20Valley!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Nature, Culture, Adventure",
+            "locationName": "Spiti Valley, Himachal Pradesh, India",
+            "days": "8 Days",
+            "nights": "7 Nights",
+            "totalReview": "265",
+            "ratingStar": "4.8"
+          }
+        ]
+      },
+      {
+        "id": "leh-nubra-pangong",
+        "slug": "Leh Nubra Turtuk Pangong",
+        "state": "Ladakh",
+        "category": "Adventure",
+        "image": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
+        "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Leh Nubra Turtuk Pangong Expedition",
+            "slug": "leh-nubra-turtuk-pangong-expedition",
+            "metatitle": "Leh Nubra Turtuk Pangong Expedition | Ladakh Tour Package",
+            "metadescription": "Book your Ladakh tour package with Travel O Sun. Explore Leh, Nubra, Turtuk, and Pangong Lake for an unforgettable Himalayan expedition with affordable travel deals.",
+            "metacanonical": "https://www.travelosun.com/packages/leh-nubra-turtuk-pangong-expedition",
+            "metakeywords": "Ladakh Tour Package",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "Leh Nubra Turtuk Pangong Expedition",
+              "description": "An unforgettable journey through Ladakh’s valleys, monasteries, and crystal-blue lakes.",
+              "image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.travelosun.com/packages/leh-nubra-turtuk-pangong-expedition",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "352"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Leh Nubra Turtuk Pangong Expedition",
+              "og:description": "Journey through the most beautiful parts of Ladakh — Leh, Nubra, Turtuk & Pangong.",
+              "og:image": "https://images.unsplash.com/photo-1614849284570-4b9b248fb33f?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/leh-nubra-turtuk-pangong-expedition",
+              "og:type": "website"
+            },
+            "description": "A 7-day expedition through the majestic landscapes of Ladakh — explore Nubra’s sand dunes, Turtuk’s culture, and Pangong’s iconic blue waters. Perfect blend of adventure and serenity.",
+            "coverimg": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
+            "img": "https://i.postimg.cc/FR62MNd7/Ladakh-Main-Image.jpg",
+            "price": "20,500",
+            "priceIncludes": [
+              "6 Nights Stay",
+              "Airport Transfers",
+              "Meals & Sightseeing",
+              "Inner Line Permits"
+            ],
+            "departureAndReturnLocation": [
+              "Leh Airport Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/RFYjk46P/Ladakh-Image-1.jpg",
+                "alt": "Pangong Lake"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/SsPwBk21/Ladakh-Image-2.jpg",
+                "alt": "Nubra Valley"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/LXWrc2YC/Ladakh-Image-3.jpg",
+                "alt": "Turtuk Village"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365499.3299043676!2d77.2954842!3d34.1525884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fd8f67df0848ef%3A0x92cfefdd3cfa1764!2sLeh!5e0!3m2!1sen!2sin!4v1761035193748!5m2!1sen!2sin",
+            "tag": "Adventure, Lakes, Mountains",
+            "locationName": "Leh, Nubra, Turtuk & Pangong, Ladakh, India",
+            "days": "7 Days",
+            "nights": "6 Nights",
+            "totalReview": "352",
+            "ratingStar": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "sikkim-himalayan-adventure",
+        "slug": "sikkim-himalayan-adventure",
+        "state": "Sikkim",
+        "category": "Adventure",
+        "image": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+        "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
+        "packages": [
+          {
+            "_id": "8",
+            "title": "Sikkim Himalayan Adventure",
+            "slug": "sikkim-himalayan-adventure",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/sikkim-himalayan-adventure",
+            "metakeywords": "Sikkim Tour Package",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Sikkim Himalayan Adventure",
+              "description": "An 8-day scenic exploration of Gangtok, Lachung, Yumthang, and Tsomgo Lake, offering culture, adventure, and mountain tranquility.",
+              "image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "420"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Sikkim Himalayan Adventure",
+              "og:description": "Experience Gangtok, Yumthang Valley, and Tsomgo Lake with our 7 Nights 8 Days Himalayan Tour.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+              "og:type": "website"
+            },
+            "description": "A mesmerizing 8-day journey through Sikkim’s most scenic spots — from the lively streets of Gangtok to the snow-covered beauty of Yumthang Valley. Explore monasteries, frozen lakes, and mountain passes that define the magic of the Eastern Himalayas.",
+            "coverimg": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+            "img": "https://i.postimg.cc/W4z2cV6n/Sikkim-Main-Image-1.jpg",
+            "price": "",
+            "priceIncludes": [
+              "7 Nights Stay in Gangtok & Lachung",
+              "Daily Breakfast & Dinner",
+              "All Transfers & Sightseeing",
+              "Permits and Guide Assistance"
+            ],
+            "departureAndReturnLocation": [
+              "Bagdogra Airport Pickup & Drop",
+              "Guide Service Fee",
+              "Any Private Expenses",
+              "Room Service Fees"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "https://i.postimg.cc/q7qkHrXD/Sikkim-Image-1-1.jpg",
+                "alt": "Gangtok City View"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                "alt": "Yumthang Valley"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                "alt": "Tsomgo Lake"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Gangtok, Lachung & Tsomgo Lake, Sikkim, India",
+            "days": "8 Days",
+            "nights": "7 Nights",
+            "totalReview": "420",
+            "ratingStar": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "char-dham-yatra",
+        "slug": "char-dham-yatra",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Char Dham Yatra",
+            "slug": "char-dham-yatra",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/char-dham-yatra",
+            "metakeywords": "Char Dham Yatra ",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Char Dham Yatra",
+              "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "520"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Char Dham Yatra",
+              "og:description": "spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.example.com/destinations/sikkim-himalayan-adventure",
+              "og:type": "website"
+            },
+            "description": "The ultimate spiritual escape with a 10-day Char Dham Yatra to Yamunotri, Gangotri, Kedarnath, and Badrinath, beginning from Haridwar/Rishikesh. Travel through mesmerizing Himalayan scenery, visit ancient temples, and immerse yourself in devotion as you seek blessings and serenity in the lap of nature.",
+            "coverimg": "/charDham/CharDhamYatraimagejpg.jpeg",
+            "img": "/charDham/CharDhamYatraimagejpg.jpeg",
+            "price": "26,999",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Eight nine hotel stay",
+              "Meals -8 Breakfast and 8 Dinner",
+              "Yatra Registration.",
+              "24*7 support and guidance."
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/charDham/image1kedarnath.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/charDham/image_2badrinath.jpg.jpeg",
+                "alt": "Gangotri"
+              },
+              {
+                "id": 3,
+                "img": "/charDham/CharDhamYatraimage5.jpg.jpeg",
+                "alt": "Uttarkashi"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Haridwar, Rishikesh, Sonprayag, Kedarnath, Sitapur, Chopta, Peepalkoti, Yamunotri, Gangotri, Uttarkashi  India",
+            "days": "10 Days",
+            "nights": "9 Nights",
+            "totalReview": "480",
+            "ratingStar": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath-badrinath-chopta-package",
+        "slug": "kedarnath-badrinath-chopta-package",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kedarnath Badrinath Chopta",
+            "slug": "kedarnath-badrinath-chopta-package",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
+            "metakeywords": "Kedarnath Badrinath Chopta",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Kedarnath Badrinath Chopta",
+              "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "520"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kedarnath Badrinath Chopta",
+              "og:description": "Divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
+              "og:type": "website"
+            },
+            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+            "coverimg": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+            "img": "/chopta/kedarnathbadrinathchopta.jpg.jpeg",
+            "price": "26,200",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Two Night Hotel stay in Sitapur",
+              "Respective stay at Kedarnath",
+              "One night stay in swiss camps in Chopta",
+              "One night Hotel Stay at Badrinath",
+              "Meals - 4 Breakfast and 4 Dinner"
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/chopta/Choptaimage1.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "https://i.postimg.cc/vmTQwyLN/Sikkim-Image-2-1.jpg",
+                "alt": "Badrinath"
+              },
+              {
+                "id": 3,
+                "img": "https://i.postimg.cc/Bvbqf3cw/Sikkim-Image-3-1.jpg",
+                "alt": "Chopta"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Kedarnath, Badrinath & Chopta",
+            "days": "7 Days",
+            "nights": "6 Nights",
+            "totalReview": "520",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath-badrinath-chopta",
+        "slug": "kedarnath-badrinath-chopta",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kedarnath Badrinath Chopta",
+            "slug": "kedarnath-badrinath-chopta",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
+            "metakeywords": "Kedarnath Badrinath Chopta",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Kedarnath Badrinath Chopta",
+              "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "520"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kedarnath Badrinath Chopta",
+              "og:description": "Divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
+              "og:type": "website"
+            },
+            "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Chopta — three of Uttarakhand’s most revered and scenic destinations. Seek divine blessings at the sacred temples of Kedarnath and Badrinath, and unwind amidst the lush meadows and panoramic Himalayan views of Chopta.",
+            "coverimg": "/choptachota/KedarnathKedarnathBadrinath&Chopta.jpg.jpeg",
+            "img": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+            "price": "12,600",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Two Night Hotel stay in Sitapur",
+              "Respective stay at Kedarnath",
+              "One night stay in swiss camps in Chopta",
+              "One night Hotel Stay at Badrinath",
+              "Meals - 4 Breakfast and 4 Dinner"
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta2(1).jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(2).jpg.jpeg",
+                "alt": "Badrinath"
+              },
+              {
+                "id": 3,
+                "img": "/choptachota/Kedarnath-Badrinath-and-Chopta-2-(3).jpg.jpeg",
+                "alt": "Chopta"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Kedarnath, Badrinath & Chopta",
+            "days": "6 Days",
+            "nights": "5 Nights",
+            "totalReview": "520",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath-badrinath-rishikesh",
+        "slug": "kedarnath-badrinath-rishikesh",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "The divine essence of the Himalayas with a sacred tour covering Kedarnath, Badrinath, and Rishikesh.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kedarnath Badrinath Rishikesh",
+            "slug": "kedarnath-badrinath-rishikesh",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
+            "metakeywords": "Kedarnath Badrinath Rishikesh",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Kedarnath Badrinath Rishikesh",
+              "description": "Embark on a spiritually enriching journey to Kedarnath, Badrinath, and Rishikesh — three of Uttarakhand’s most revered and scenic destinations.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "620"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kedarnath Badrinath Rishikesh",
+              "og:description": "Discover the spiritual charm of Kedarnath and Badrinath and unwind in the serene atmosphere of Rishikesh. A soulful Himalayan journey of faith, peace, and scenic beauty",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
+              "og:type": "website"
+            },
+            "description": "Himalayan journey starting from Delhi, travelling through the sacred city of Rishikesh, and moving deeper into the divine landscapes of Guptkashi / Sitapur. Seek blessings at the revered Kedarnath Dham, one of the holiest Jyotirlingas of Lord Shiva, before returning to Guptkashi and continuing toward the majestic shrine of Badrinath, dedicated to Lord Vishnu.",
+            "coverimg": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
+            "img": "/kedarBadriRishikesh/kedarnathBadrinathRishikesh.jpg.jpeg",
+            "price": "33,000",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Two Night Hotel stay in Sitapur/Guptkashi.",
+              "Respective stay at Kedarnath",
+              "One night stay in Rudraprayag",
+              "One night Hotel in Rishikesh",
+              "Meals - 6 Breakfast and 6 Dinner"
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/kedarBadriRishikesh/CharDhamYatraimage1.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/kedarBadriRishikesh/CharDhamYatraimage2.jpg.jpeg",
+                "alt": "Badrinath"
+              },
+              {
+                "id": 3,
+                "img": "/kedarBadriRishikesh/Kedarnath-Badrinath-Rishikesh3.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Kedarnath, Badrinath & Chopta",
+            "days": "7 Days",
+            "nights": "6 Nights",
+            "totalReview": "520",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath",
+        "slug": "kedarnath",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "Set out on a divine Himalayan expedition from Haridwar / Rishikesh, where spirituality meets natural beauty.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Kedarnath",
+            "slug": "kedarnath",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath",
+            "metakeywords": "Kedarnath",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Kedarnath",
+              "description": "Set out on a divine Himalayan expedition from Haridwar / Rishikesh, where spirituality meets natural beauty.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kedarnath",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Kedarnath",
+              "og:description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/kedarnath",
+              "og:type": "website"
+            },
+            "description": "The revered path leads you to Kedarnath Ji, one of the twelve Jyotirlingas of Lord Shiva. Surrounded by majestic mountains and powerful spiritual energy, this yatra offers a perfect blend of faith, devotion, and breathtaking Himalayan landscapes.",
+            "coverimg": "/kedarnath/kedarnathimage.jpg.jpeg",
+            "img": "/kedarnath/kedarnathimage.jpg.jpeg",
+            "price": "7,900",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Two Night Hotel stay in Sitapur/Guptkashi.",
+              "Respective stay at Kedarnath",
+              "Meals - Breakfast and Dinner",
+              "Sightseeing & mentioned.",
+              "24*7 support and guidance."
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/kedarnath/Kedarnath1.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/kedarnath/Kedarnath3.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Kedarnath, Haridwar, Rishikesh",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "panch kedar yatra",
+        "slug": "panch-kedar-yatra",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Panch Kedar Yatra",
+            "slug": "panch-kedar-yatra",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/panch-kedar-yatra",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Panch Kedar Yatra",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/panch-kedar-yatra",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/panch-kedar-yatra",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
+            "img": "/panchKedarYatra/punchKedarYatra.jpg.jpeg",
+            "price": "7,900",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Two Night Hotel stay in Sitapur/Guptkashi.",
+              "Respective stay at Kedarnath",
+              "Meals - Breakfast and Dinner",
+              "Sightseeing & mentioned.",
+              "24*7 support and guidance."
+            ],
+            "departureAndReturnLocation": [
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not included",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/panchKedarYatra/Panch-Kedar-Yatra-1.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/kedarnath/Kedarnath2.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/panchKedarYatra/Panch-Kedar-Yatra-3.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29332.051732175007!2d88.6050633!3d27.3313676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6b42dfe30e3a5%3A0x4c4a9a6f573cd690!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1761039842501!5m2!1sen!2sin",
+            "tag": "Adventure, Himalayas, Nature",
+            "locationName": "Kedarnath, Haridwar, Rishikesh",
+            "days": "4 Days",
+            "nights": "3 Nights",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "char-dham-yatra 2026",
+        "slug": "char-dham-yatra-2026",
+        "pdfUrl": "/packagePdf/ChardhamGroupdeparture.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Char Dham Yatra 2026 with special GUJARATI,RAJASTHANI,PUNJABI MEALS",
+            "slug": "char-dham-yatra-2026",
+            "pdfUrl": "/packagePdf/ChardhamGroupdeparture.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/panch-kedar-yatra",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "Panch Kedar Yatra",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+              "url": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+            "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+            "price": "28600",
+            "priceIncludes": [
+              "All sightseeing by suv/tempo traveller/bus Subject to group size .",
+              "Accomodation in neat and hygenic rooms, including kedarnath.",
+              "Meals - Breakfast 6 Dinner and evening tea in hotels only.",
+              "Kedarnath stay in simple rooms (1 person -1 bed ) rooms with attached washroom.",
+              "Jain food on Request",
+              "Yatra registeration,Trip card 6 green card.",
+              "Toll taxes, parkings,Driver etc alt.",
+              "24*7 suppon and guidance."
+            ],
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accomodation 6 meals at kedarnath temple is not Included.",
+              "Any charges related to jeep fare, pony, Helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accomodation/food costs due to any delayed in travel."
+            ],
+            "Days": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "ItineraryFrom": [
+              "Itinerary from Delhi",
+              "Delhi to Haridwar(overnight stay)",
+              "Haridwar to Barkot(overnight stay)",
+              "Barkot to Yamunotri and return to Barkot",
+              "Barkot to Uttarkashi (overnight stay)",
+              "Uttarkashi to Gangotri and return to Uttarkashi",
+              "Uttarkashi to Guptkashi (overnight stay)",
+              "Guptkashi to Kedarnath(overnight stay)",
+              "Kedarnath to Guptkashi",
+              "Guptkashi to Pipatkoti (overnight stay)",
+              "Pipatkoti to Badrinath 6 return (overnight stay)",
+              "Pipa koti to Haridwar(Overnight stay)",
+              "Haridwar to Delhi"
+            ],
+            "ItineraryFromTo": [
+              "Itinerary from Haridwar",
+              "Haridwar to Barkot (overnightstay)",
+              "Barkot to Yamunotri and return to Barkot",
+              "Barkot to Uttarkashi (overnight stay)",
+              "Uttarkashi to Gangotri and return to Uttarkashi",
+              "Uttarkashi to Guptkashi(overnight stay)",
+              "Guptkashi to Kedarnath (overnight stay)",
+              "Kedarnath to Guptkashi",
+              "Guptkashi to Pipatkoti (overnight stay)",
+              "Pipalkoti to Badrinath & return (overnight stay)",
+              "Pipatkoti to Haridwar"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "28600",
+                  "triple": "26800",
+                  "four": "24600"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "29600",
+                  "triple": "28000",
+                  "four": "25800"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "31200",
+                  "triple": "29500",
+                  "four": "27000"
+                }
+              ],
 
+              "exHaridwar": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "26200",
+                  "triple": "24500",
+                  "four": "22000"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "27400",
+                  "triple": "25500",
+                  "four": "23400"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "28600",
+                  "triple": "27000",
+                  "four": "24500"
+                }
+              ]
+            },
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Char Dham Yatra, Kedarnath, Pilgrimage, Himalayas",
+            "locationName": "Kedarnath, Haridwar, Rishikesh",
+            "days": "12",
+            "nights": "11",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "Do Dham Yatra 2026",
+        "slug": "do-dham-yatra-2026",
+        "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Char Dham Yatra 2026 with special GUJARATI,RAJASTHANI,PUNJABI MEALS",
+            "slug": "do-dham-yatra-2026",
+            "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/do-dham-yatra-2026",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+              "url": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+            "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+            "price": "28600",
+            "priceIncludes": [
+             "Transport as per group size will be provided.",
+             "Two Night Hotel stay In Sitapur/Guptkashi.",
+             "1 Night Hotel/Camp Stay in Chopta.",
+             "1 Night Hotel Stay in Badrinath.",
+             "Respective stay at Kedarnath.",
+             "Sightseeing as mentioned.",
+             "Meals – 5 Breakfast and 5 Dinner.",
+             "Yatra Registration.",
+             "24×7 support and guidance by trip captain."
+           ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accommodation & meals at Kedarnath temple is not included.",
+              "Any charges related to jeep fare, pony, helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accommodation / food costs due to any delay in travel."
+            ],
+            "Days": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "ItineraryFrom": [
+              "DELHI ",
+              "RISHIKESH - DEVPRAYAG - DHARI DEVI",
+              "KEDARNATH YATRA:",
+              "KEDARNATH ",
+              "GUPTKASHI",
+              "CHOPTA",
+              "BADRINATH JI",
+              "DELHI DROP"
+            ],
+            "ItineraryFromTo": [
+              "OVERNIGHT JOURNEY:",
+              "SITAPUR:",
+              "",
+              "SITAPUR:",
+              "CHOPTA WITH TREK",
+              "BADRINATH JI",
+              "RISHIKESH TO DELHI"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "28600",
+                  "triple": "26800",
+                  "four": "24600"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "29600",
+                  "triple": "28000",
+                  "four": "25800"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "31200",
+                  "triple": "29500",
+                  "four": "27000"
+                }
+              ],
+
+              "exHaridwar": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "26200",
+                  "triple": "24500",
+                  "four": "22000"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "27400",
+                  "triple": "25500",
+                  "four": "23400"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "28600",
+                  "triple": "27000",
+                  "four": "24500"
+                }
+              ]
+            },
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "KEDAR BADRI CHOPTA",
+            "locationName": "KEDAR BADRI WITH CHOPTA",
+            "days": "12",
+            "nights": "11",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      }
+    ]
+  }
+]

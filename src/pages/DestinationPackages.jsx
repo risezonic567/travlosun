@@ -26,7 +26,7 @@ export default function DestinationPackages() {
     return (
         <>
             <Helmet>
-                <title>Explore Our Blog | Star Alliance Aviation.</title>
+                <title>Explore Our Blog | Travelosun.</title>
                 <meta name="description" content="" />
                 <meta name="keywords" content="" />
                 <link rel="canonical" href="https://www.travelosun.com/packages" />
