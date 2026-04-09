@@ -129,18 +129,19 @@ const PackageDetail = () => {
           </div>
           {/* Itinerary From / To */}
           {/* <div className="text-xl  "> <h1 className="text-black text-center font-semibold text-2xl">Short Itenaries</h1></div> */}
-          <div className="pt-10 overflow-x-auto">
-            {(pkg.Days || pkg.ItineraryFrom || pkg.ItineraryFromTo) && (
+          <div className="pt-10 overflow-x-auto pb-10">
+            {(pkg.Days || pkg.ItineraryFrom ) && (
+            // {(pkg.Days || pkg.ItineraryFrom || pkg.ItineraryFromTo) && (
               <table className="w-full border border-gray-200 rounded-lg overflow-hidden">
                 <thead className="bg-gray-100">
                   <tr>
                     <th className="border px-4 py-2 text-left">Day</th>
-                    <th className="border px-4 py-2 text-left">
+                    <th className="border px-4 py-2 text-start">
                       Itinerary From 
                     </th>
-                    <th className="border px-4 py-2 text-left">
+                    {/* <th className="border px-4 py-2 text-left">
                       Itinerary From To
-                    </th>
+                    </th> */}
                   </tr>
                 </thead>
 
@@ -152,10 +153,10 @@ const PackageDetail = () => {
                       <td className="border px-4 py-2">
                         {pkg.ItineraryFrom?.[i] || "-"}
                       </td>
-
+{/* 
                       <td className="border px-4 py-2">
                         {pkg.ItineraryFromTo?.[i] || "-"}
-                      </td>
+                      </td> */}
                     </tr>
                   ))}
                 </tbody>

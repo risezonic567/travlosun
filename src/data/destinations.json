@@ -803,6 +803,7 @@
       {
         "id": "char-dham-yatra",
         "slug": "char-dham-yatra",
+        "pdfUrl": "/packagePdf/CHARDHAMB2B.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -812,6 +813,7 @@
             "_id": "1",
             "title": "Char Dham Yatra",
             "slug": "char-dham-yatra",
+            "pdfUrl": "/packagePdf/CHARDHAMB2B.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/char-dham-yatra",
@@ -883,6 +885,7 @@
       {
         "id": "kedarnath-badrinath-chopta-package",
         "slug": "kedarnath-badrinath-chopta-package",
+        "pdfUrl": "/packagePdf/KBT-ex-Delhi.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -890,8 +893,9 @@
         "packages": [
           {
             "_id": "1",
-            "title": "Kedarnath Badrinath Chopta",
+            "title": "Kedarnath Badrinath Chopta Ex-Delhi",
             "slug": "kedarnath-badrinath-chopta-package",
+            "pdfUrl": "/packagePdf/KBT-ex-Delhi.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta-package",
@@ -964,6 +968,7 @@
       {
         "id": "kedarnath-badrinath-chopta",
         "slug": "kedarnath-badrinath-chopta",
+        "pdfUrl": "/packagePdf/kedar-Badri-chopta-ex-Hr.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -971,8 +976,9 @@
         "packages": [
           {
             "_id": "1",
-            "title": "Kedarnath Badrinath Chopta",
+            "title": "Kedarnath Badrinath Chopta Ex-Haridwar",
             "slug": "kedarnath-badrinath-chopta",
+            "pdfUrl": "/packagePdf/kedar-Badri-chopta-ex-Hr.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-chopta",
@@ -1045,6 +1051,7 @@
       {
         "id": "kedarnath-badrinath-rishikesh",
         "slug": "kedarnath-badrinath-rishikesh",
+        "pdfUrl": "/packagePdf/kedar-badri-with-rishikesh-ex-delhi.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -1054,6 +1061,7 @@
             "_id": "1",
             "title": "Kedarnath Badrinath Rishikesh",
             "slug": "kedarnath-badrinath-rishikesh",
+            "pdfUrl": "/packagePdf/kedar-badri-with-rishikesh-ex-delhi.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/kedarnath-badrinath-rishikesh",
@@ -1126,6 +1134,7 @@
       {
         "id": "kedarnath",
         "slug": "kedarnath",
+        "pdfUrl": "/packagePdf/kedarnathex-Hr.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -1135,6 +1144,7 @@
             "_id": "1",
             "title": "Kedarnath",
             "slug": "kedarnath",
+            "pdfUrl": "/packagePdf/kedarnathex-Hr.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/kedarnath",
@@ -1207,6 +1217,7 @@
       {
         "id": "panch kedar yatra",
         "slug": "panch-kedar-yatra",
+        "pdfUrl": "/packagePdf/PanchkedarYatra-.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
         "image": "/charDham/BennerOfCharDhamYatra.jpg.jpeg",
@@ -1216,6 +1227,7 @@
             "_id": "1",
             "title": "Panch Kedar Yatra",
             "slug": "panch-kedar-yatra",
+            "pdfUrl": "/packagePdf/PanchkedarYatra-.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/panch-kedar-yatra",
@@ -1286,8 +1298,8 @@
         ]
       },
       {
-        "id": "char-dham-yatra 2026",
-        "slug": "char-dham-yatra-2026",
+        "id": "char-dham-group-yatra 2026",
+        "slug": "char-dham-group-yatra-2026",
         "pdfUrl": "/packagePdf/ChardhamGroupdeparture.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
@@ -1296,12 +1308,12 @@
         "packages": [
           {
             "_id": "1",
-            "title": "Char Dham Yatra 2026 with special GUJARATI,RAJASTHANI,PUNJABI MEALS",
-            "slug": "char-dham-yatra-2026",
+            "title": "Char Dham Group Yatra 2026 with special Gujarati, Rajasthani, Punjabi Meals",
+            "slug": "char-dham-group-yatra-2026",
             "pdfUrl": "/packagePdf/ChardhamGroupdeparture.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-            "metacanonical": "https://www.travelosun.com/packages/panch-kedar-yatra",
+            "metacanonical": "https://www.travelosun.com/packages/char-dham-group-yatra-2026",
             "metakeywords": "Panch Kedar Yatra",
             "schematype": {
               "@context": "https://schema.org",
@@ -1309,7 +1321,7 @@
               "name": "Panch Kedar Yatra",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/ChardhamGroupdeparture.jpg.jpeg",
-              "url": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/char-dham-group-yatra-2026",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -1320,7 +1332,7 @@
               "og:title": "Panch Kedar Yatra",
               "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:url": "https://www.travelosun.com/packages/char-dham-group-yatra-2026",
               "og:type": "website"
             },
             "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
@@ -1391,17 +1403,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "img": "/packages/One-char-dham-yatra.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "img": "/packages/Two-char-dham-yatra.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/ChardhamGroupdeparture.jpg.jpeg",
+                "img": "/packages/Three-char-dham-yatra.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -1476,7 +1488,7 @@
         "packages": [
           {
             "_id": "1",
-            "title": "KEDAR BADRI WITH CHOPTA YATRA PACKAGE 7N/8D - DELHI",
+            "title": "Do Dham With Chopta Yatra Package 7N/8D-Ex Delhi ",
             "slug": "do-dham-yatra-2026",
             "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -1489,7 +1501,7 @@
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
-              "url": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kedar-badri-with-chopta-yatra-package-7n/8d-delhi",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -1550,17 +1562,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "img": "/packages/delhi-do-dham.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "img": "/packages/delhi-do-dhamOne.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
+                "img": "/packages/delhi-do-dhamThree.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -1611,7 +1623,7 @@
         "packages": [
           {
             "_id": "1",
-            "title": "KEDAR BADRI WITH CHOPTA YATRA PACKAGE 5N/6D - HARIDWAR",
+            "title": "Do Dham With Chopta Yatra Package 5N/6D-Ex Haridwar",
             "slug": "do-dham-yatra-2026-ex-haridwar",
             "pdfUrl": "/packagePdf/DoDhamwithChoptaExHaridwar.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -1624,7 +1636,7 @@
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
-              "url": "//packages/kedarnathExHaridwar.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/do-dham-yatra-2026-ex-haridwar",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -1681,17 +1693,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/haridwar-do-dham-chopta.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/haridwar-One-do-dham-chopta.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/haridwar-Three-do-dham-chopta.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -1742,7 +1754,7 @@
         "packages": [
           {
             "_id": "1",
-            "title": "KAILASH MANSAROVAR YATRA VIA HELICOPTER EX-KATHMANDU",
+            "title": "Kailash Mansarovar Yatra Via Helicopter Ex-Kathmandu",
             "slug": "kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
             "pdfUrl": "/packagePdf/KailashMansarovaYatraExKathmanduHeli.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -1755,7 +1767,7 @@
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
-              "url": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+              "url": "https://www.travelosun.com/packages/kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -1826,17 +1838,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "img": "/packages/kailash-One-mansarovar.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "img": "/packages/kailash-two-mansarovar.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "img": "/packages/kailash-three-mansarovar.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -1862,10 +1874,10 @@
         "packages": [
           {
             "_id": "1",
-            "title": "KEDARNATH YATRA PACKAGE 5N/6D EX-DELHI",
+            "title": "Kedarnath Yatra Package 5N/6D Ex-Delhi",
             "slug": "kedarnath-yatra-package-ex-delhi",
             "pdfUrl": "/packagePdf/kedarnathEx-delhi.pdf",
-            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metatitle": " Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
             "metacanonical": "https://www.travelosun.com/packages/kedarnath-yatra-package-ex-delhi",
             "metakeywords": "Panch Kedar Yatra",
@@ -1886,7 +1898,7 @@
               "og:title": "Panch Kedar Yatra",
               "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
-              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:url": "https://www.travelosun.com/packages/kedarnath-yatra-package-ex-delhi",
               "og:type": "website"
             },
             "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
@@ -1955,17 +1967,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "img": "/packages/KEDARNATH-YATRA-PACKAGE-EX-DELHI-One.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "img": "/packages/KEDARNATH-YATRA-PACKAGE-EX-DELHI-Two.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "img": "/packages/KEDARNATH-YATRA-PACKAGE-EX-DELHI-Three.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -1986,12 +1998,12 @@
         "pdfUrl": "/packagePdf/kedarnathEx-Haridwar.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
-        "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+        "image": "/packages/KEDARNATH-YATRA-PACKAGEEX-HARIDWAR-banner image.jpg.jpeg",
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
             "_id": "1",
-            "title": "KEDARNATH YATRA PACKAGE 5N/6D EX-HARIDWAR",
+            "title": "Kedarnath Yatra Package 5N/6D Ex-Haridwar",
             "slug": "kedarnath-yatra-package-ex-haridwar",
             "pdfUrl": "/packagePdf/kedarnathEx-Haridwar.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -2003,7 +2015,7 @@
               "@type": "TouristTrip",
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
-              "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+              "image": "/packages/KEDARNATH-YATRA-PACKAGEEX-HARIDWAR-banner image.jpg.jpeg",
               "url": "/packages/kedarnath-yatra-package-ex-haridwar",
               "aggregateRating": {
                 "@type": "AggregateRating",
@@ -2019,8 +2031,8 @@
               "og:type": "website"
             },
             "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
-            "coverimg": "/packages/kedarnathExHaridwar.jpg.jpeg",
-            "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+            "coverimg": "/packages/KEDARNATH-YATRA-PACKAGEEX-HARIDWAR-banner image.jpg.jpeg",
+            "img": "/packages/KEDARNATH-YATRA-PACKAGEEX-HARIDWAR-banner image.jpg.jpeg",
             "price": "9.500",
             "priceIncludes": [
               "Transport as per group size will be provided.",
@@ -2081,17 +2093,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/KEDARNATH -ATRA-PACKAGE-EX-DELHI-image.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/KEDARNATH-YATRA-PACKAGE-EX-DELHI-image.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "img": "/packages/KEDARNATH-YATRA-PACKAGE-EX-DELHI.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -2117,7 +2129,7 @@
         "packages": [
           {
             "_id": "1",
-            "title": "MANALI-KASOL-SOLANG VALLEY",
+            "title": "Manali-Kasol-Solang Valley",
             "slug": "manali-kasol-solang-valley-ex-delhi",
             "pdfUrl": "/packagePdf/Manalikasol.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -2130,7 +2142,7 @@
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/Manalikasol.jpeg",
-              "url": "/packages/manali-kasol-solang-valley-ex-delhi",
+              "url": "https://www.travelosun.com/packages/manali-kasol-solang-valley-ex-delhi",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -2202,17 +2214,17 @@
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/Manalikasol.jpeg",
+                "img": "/packages/MANALI-KASOL-SOLANG VALLEY-One.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/Manalikasol.jpeg",
+                "img": "/packages/MANALI-KASOL-SOLANG VALLEY-Two.jpg.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/Manalikasol.jpeg",
+                "img": "/packages/MANALI-KASOL-SOLANGVALLEY-Threejpg.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -2238,7 +2250,7 @@
         "packages": [
           {
             "_id": "1",
-            "title": "MANSARAOVAR YATRA",
+            "title": "Mansarovar Yatra",
             "slug": "mansarovar-yatra-eight-nights-nine-days",
             "pdfUrl": "/packagePdf/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
@@ -2251,7 +2263,7 @@
               "name": "KEDAR BADRI WITH CHOPTA",
               "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
               "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
-              "url": "/packages/mansarovar-yatra-eight-nights-nine-days",
+              "url": "https://www.travelosun.com/packages/mansarovar-yatra-eight-nights-nine-days",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "5",
@@ -2307,42 +2319,31 @@
             ],
             "Days": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
             "ItineraryFrom": [
-              "ARRIVAL AT LUCKNOW",
-              "NEPALGUNJ",
-              "SIMIKOT - FLY TO HILSA BY HELI",
+              "ARRIVAL AT LUCKNOW - DRIVE TO NEPALGUNJ(150m)",
+              "NEPALGUNJ - FLY TO SIMIKOT(45 Min-2800M)",
+              "SIMIKOT - FLY TO HILSA BY HELI - DRIVE TO PURANG(3700 M, 35 KM 1.5 Hrs)",
               "ACCLIMATIZATION DAY(3900M)",
-              "PURANG",
-              "MANSAROVAR-DRIVE TO DARCHEN(4600M,58 KM 2Hrs)",
-              "DERAPHUK-DOLMALA PASS(5630M)",
-              "ZURALPHUK -TREK TO DARCHEN(08 KM, 3Hrs)",
-              "HILSA-FLY TO SIMIKOT BY HELI - FLY TO NEPALKUNJ"
-            ],
-            "ItineraryFromTo": [
-              "DRIVE TO NEPALGUNJ(150m)",
-              "FLY TO SIMIKOT(45 Min-2800M)",
-              "DRIVE TO PURANG(3700 M, 35 KM 1.5 Hrs)",
-              "",
-              "MANSAROVAR PARIKRAMA(102 KM 4/5Hrs) BATH, POOJA, HOMA(4550M)",
-              "TREK TO DERAPHUK(4860 M, 12KM)",
-              "TREK TO ZUTALPHUK(4600M, 22KM)",
-              "DRIVE TO HILSA(3500M)",
-              "DRIVE TO LUCKNOW"
+              "PURANG - MANSAROVAR PARIKRAMA(102 KM 4/5Hrs) BATH, POOJA, HOMA(4550M)",
+              "MANSAROVAR-DRIVE TO DARCHEN(4600M,58 KM 2Hrs) - TREK TO DERAPHUK(4860 M, 12KM)",
+              "DERAPHUK-DOLMALA PASS(5630M) - TREK TO ZUTALPHUK(4600M, 22KM)",
+              "ZURALPHUK -TREK TO DARCHEN(08 KM, 3Hrs) - DRIVE TO HILSA(3500M)",
+              "HILSA-FLY TO SIMIKOT BY HELI - FLY TO NEPALKUNJ - DRIVE TO LUCKNOW"
             ],
             
             "gallery": [
               {
                 "id": 1,
-                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "img": "/packages/MANSARAOVAR-YATRA.jpeg",
                 "alt": "Kedarnath"
               },
               {
                 "id": 2,
-                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "img": "/packages/MANSARAOVAR-YATRAOne.jpeg",
                 "alt": "Haridwar"
               },
               {
                 "id": 3,
-                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "img": "/packages/MANSARAOVAR-YATRAjpg.jpeg",
                 "alt": "Rishikesh"
               }
             ],
@@ -2352,6 +2353,238 @@
             "locationName": "Manali-Kasol-Solang valley",
             "days": "9 Days",
             "nights": "8 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "char dham yatra ex haridwar with gujrati food",
+        "slug": "char-dham-yatra-ex-haridwar-with-gujrati-food",
+        "pdfUrl": "/packagePdf/Chardham-Ex-Haridwar-Gujrati-Food.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Char Dham Yatra Ex Haridwar With Gujrati Food",
+            "slug": "char-dham-yatra-ex-haridwar-with-gujrati-food",
+            "pdfUrl": "/packagePdf/Chardham-Ex-Haridwar-Gujrati-Food.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/char-dham-yatra-ex-haridwar-with-gujrati-food",
+            "metakeywords": "mansaraovar yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "CHAR DHAM YATRA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+              "url": "https://www.travelosun.com/packages/mansarovar-yatra-eight-nights-nine-days",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/char-dham-yatra-ex-haridwar-with-gujrati-food",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "price": "23999",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Eight nine hotel stay",
+              "Tent stay i Kedarnath",
+              "Sightseeing as mentioned.",
+              "Meals -8 Breakfast and 8 Dinner special Gujarati Food.",
+              "Complimentary packed lunch when possible",
+              "Yatra Registeration.",
+              "24*7 support and guidance."
+            ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accommodation & meals at Kedarnath temple is not included.",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accommodation / food costs due to any delay in travel."
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+            "ItineraryFrom": [
+              "DEPARTURE FROM HARIDWAR/RISHIKESH",
+              "BARKOT - YAMUNOTRI - BARKOT",
+              "BARKOT - UTTARKASHI",
+              "UTTARKASHI - GANGOTRI - UTTARKASHI",
+              "UTTARKASHI - GUPTKASHI/SITAPUR",
+              "SONPRAYAG TO KEDARNATH",
+              "KEDARNATH RETURN - SITAPUR",
+              "SITAPUR - CHOPTA - PEEPALKOTI",
+              "PEEPALKOTI BADRINATH - PEEPALKOTI",
+              "PEEPALKOTI - RISHIKESH - HARIDWAR"
+            ],
+            
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/MANSARAOVAR-YATRA.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/MANSARAOVAR-YATRAOne.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/MANSARAOVAR-YATRAjpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "23999",
+                  "triple": "24999",
+                  "four": "27999"
+                }
+               
+              ]
+            },
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Char Dham Yatra",
+            "locationName": "Char Dham Yatra",
+            "days": "10 Days",
+            "nights": "9 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "char dham yatra ex haridwar",
+        "slug": "char-dham-yatra-ex-haridwar",
+        "pdfUrl": "/packagePdf/ChardhamExHaridwar.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "Char Dham Yatra Ex Haridwar",
+            "slug": "char-dham-yatra-ex-haridwar",
+            "pdfUrl": "/packagePdf/ChardhamExHaridwar.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/char-dham-yatra-ex-haridwar",
+            "metakeywords": "mansaraovar yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "CHAR DHAM YATRA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+              "url": "https://www.travelosun.com/packages/mansarovar-yatra-eight-nights-nine-days",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/char-dham-yatra-ex-haridwar",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "price": "23999",
+            "priceIncludes": [
+              "Transport as per group size will be provided",
+              "Eight nine hotel stay",
+              "Tent stay i Kedarnath",
+              "Sightseeing as mentioned.",
+              "Meals -8 Breakfast and 8 Dinner special Gujarati Food.",
+              "Complimentary packed lunch when possible",
+              "Yatra Registeration.",
+              "24*7 support and guidance."
+            ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accommodation & meals at Kedarnath temple is not included.",
+              "Any charges related to jeep fare, pony Helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accommodation / food costs due to any delay in travel."
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+            "ItineraryFrom": [
+              "DEPARTURE FROM HARIDWAR/RISHIKESH",
+              "BARKOT - YAMUNOTRI - BARKOT",
+              "BARKOT - UTTARKASHI",
+              "UTTARKASHI - GANGOTRI - UTTARKASHI",
+              "UTTARKASHI - GUPTKASHI/SITAPUR",
+              "SONPRAYAG TO KEDARNATH",
+              "KEDARNATH RETURN - SITAPUR",
+              "SITAPUR - CHOPTA - PEEPALKOTI",
+              "PEEPALKOTI BADRINATH - PEEPALKOTI",
+              "PEEPALKOTI - RISHIKESH - HARIDWAR"
+            ],
+            
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/MANSARAOVAR-YATRA.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/MANSARAOVAR-YATRAOne.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/MANSARAOVAR-YATRAjpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "22999",
+                  "triple": "23999",
+                  "four": "26999"
+                }
+               
+              ]
+            },
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Char Dham Yatra",
+            "locationName": "Char Dham Yatra",
+            "days": "10 Days",
+            "nights": "9 Days",
             "totalReview": "550",
             "ratingStar": "5"
           }
