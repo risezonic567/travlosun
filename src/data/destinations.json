@@ -1458,16 +1458,16 @@
             "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
             "tag": "Char Dham Yatra, Kedarnath, Pilgrimage, Himalayas",
             "locationName": "Kedarnath, Haridwar, Rishikesh",
-            "days": "12",
-            "nights": "11",
+            "days": "12 Days",
+            "nights": "11 Days",
             "totalReview": "550",
             "ratingStar": "5"
           }
         ]
       },
       {
-        "id": "Do Dham Yatra 2026",
-        "slug": "do-dham-yatra-2026",
+        "id": "kedar-badri-with-chopta-yatra-package-7n/8d-delhi",
+        "slug": "kedar-badri-with-chopta-yatra-package-7n/8d-delhi",
         "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
         "state": "Uttarakhand",
         "category": "Domestic",
@@ -1476,12 +1476,12 @@
         "packages": [
           {
             "_id": "1",
-            "title": "Char Dham Yatra 2026 with special GUJARATI,RAJASTHANI,PUNJABI MEALS",
+            "title": "KEDAR BADRI WITH CHOPTA YATRA PACKAGE 7N/8D - DELHI",
             "slug": "do-dham-yatra-2026",
             "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
             "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
             "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
-            "metacanonical": "https://www.travelosun.com/do-dham-yatra-2026",
+            "metacanonical": "https://www.travelosun.com/packages/kedar-badri-with-chopta-yatra-package-7n/8d-delhi",
             "metakeywords": "Panch Kedar Yatra",
             "schematype": {
               "@context": "https://schema.org",
@@ -1506,18 +1506,18 @@
             "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
             "coverimg": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
             "img": "/packages/DoDhamwithChoptaExdelhijpg.jpeg",
-            "price": "28600",
+            "price": "16200",
             "priceIncludes": [
-             "Transport as per group size will be provided.",
-             "Two Night Hotel stay In Sitapur/Guptkashi.",
-             "1 Night Hotel/Camp Stay in Chopta.",
-             "1 Night Hotel Stay in Badrinath.",
-             "Respective stay at Kedarnath.",
-             "Sightseeing as mentioned.",
-             "Meals – 5 Breakfast and 5 Dinner.",
-             "Yatra Registration.",
-             "24×7 support and guidance by trip captain."
-           ],
+              "Transport as per group size will be provided.",
+              "Two Night Hotel stay In Sitapur/Guptkashi.",
+              "1 Night Hotel/Camp Stay in Chopta.",
+              "1 Night Hotel Stay in Badrinath.",
+              "Respective stay at Kedarnath.",
+              "Sightseeing as mentioned.",
+              "Meals – 5 Breakfast and 5 Dinner.",
+              "Yatra Registration.",
+              "24×7 support and guidance by trip captain."
+            ],
 
             "departureAndReturnLocation": [
               "Any additional expenses such as of personal nature.",
@@ -1527,16 +1527,7 @@
               "Any adventure activities.",
               "Additional accommodation / food costs due to any delay in travel."
             ],
-            "Days": [
-              "1",
-              "2",
-              "3",
-              "4",
-              "5",
-              "6",
-              "7",
-              "8"
-            ],
+            "Days": ["1", "2", "3", "4", "5", "6", "7", "8"],
             "ItineraryFrom": [
               "DELHI ",
               "RISHIKESH - DEVPRAYAG - DHARI DEVI",
@@ -1578,47 +1569,23 @@
                 {
                   "type": "Economy",
                   "stay": "Dome tent",
-                  "double": "28600",
-                  "triple": "26800",
-                  "four": "24600"
-                },
-                {
-                  "type": "Standard",
-                  "stay": "Swiss tent",
-                  "double": "29600",
-                  "triple": "28000",
-                  "four": "25800"
-                },
-                {
-                  "type": "Deluxe",
-                  "stay": "Room",
-                  "double": "31200",
-                  "triple": "29500",
-                  "four": "27000"
-                }
-              ],
-
-              "exHaridwar": [
-                {
-                  "type": "Economy",
-                  "stay": "Dome tent",
                   "double": "26200",
-                  "triple": "24500",
-                  "four": "22000"
+                  "triple": "14800",
+                  "four": "14200"
                 },
                 {
                   "type": "Standard",
                   "stay": "Swiss tent",
-                  "double": "27400",
-                  "triple": "25500",
-                  "four": "23400"
+                  "double": "17000",
+                  "triple": "15600",
+                  "four": "15000"
                 },
                 {
                   "type": "Deluxe",
                   "stay": "Room",
-                  "double": "28600",
-                  "triple": "27000",
-                  "four": "24500"
+                  "double": "18000",
+                  "triple": "16600",
+                  "four": "16000"
                 }
               ]
             },
@@ -1626,8 +1593,765 @@
             "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
             "tag": "KEDAR BADRI CHOPTA",
             "locationName": "KEDAR BADRI WITH CHOPTA",
-            "days": "12",
-            "nights": "11",
+            "days": "8 Days",
+            "nights": "7 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "Do Dham Yatra 2026 EX-Haridwar",
+        "slug": "do-dham-yatra-2026-ex-haridwar",
+        "pdfUrl": "/packagePdf/DoDhamwithChoptaExHaridwar.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "KEDAR BADRI WITH CHOPTA YATRA PACKAGE 5N/6D - HARIDWAR",
+            "slug": "do-dham-yatra-2026-ex-haridwar",
+            "pdfUrl": "/packagePdf/DoDhamwithChoptaExHaridwar.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/do-dham-yatra-2026-ex-haridwar",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+              "url": "//packages/kedarnathExHaridwar.jpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/kedarnathExHaridwar.jpg.jpeg",
+            "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+            "price": "15400",
+            "priceIncludes": [
+              "Transport as per group size will be provided.",
+              "Two Night Hotel stay In Sitapur/Guptkashi.",
+              "1 Night Hotel/Camp Stay in Chopta.",
+              "1 Night Hotel Stay in Badrinath.",
+              "Sightseeing as mentioned.",
+              "Meals – 5 Breakfast and 5 Dinner.",
+              "Yatra Registration.",
+              "24×7 support and guidance by trip captain."
+            ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accommodation & meals at Kedarnath temple is not included.",
+              "Any charges related to jeep fare, pony, helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accommodation / food costs due to any delay in travel."
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6"],
+            "ItineraryFrom": [
+              "RISHIKESH - DEVPRAYAG - DHARI DEVI",
+              "KEDARNATH YATRA:",
+              "KEDARNATH ",
+              "GUPTKASHI",
+              "CHOPTA",
+              "BADRINATH JI"
+            ],
+            "ItineraryFromTo": [
+              "SITAPUR:",
+              "",
+              "SITAPUR:",
+              "CHOPTA WITH TREK",
+              "BADRINATH JI",
+              "HARIDWAR"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "15400",
+                  "triple": "14400",
+                  "four": "13300"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "16200",
+                  "triple": "14800",
+                  "four": "14300"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "17200",
+                  "triple": "15800",
+                  "four": "15200"
+                }
+              ]
+            },
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "KEDAR BADRI CHOPTA",
+            "locationName": "KEDAR BADRI WITH CHOPTA",
+            "days": "6 Days",
+            "nights": "5 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kailash mansarovar yatra via helicopter ex-kathmandhu",
+        "slug": "kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
+        "pdfUrl": "/packagePdf/KailashMansarovaYatraExKathmanduHeli.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "KAILASH MANSAROVAR YATRA VIA HELICOPTER EX-KATHMANDU",
+            "slug": "kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
+            "pdfUrl": "/packagePdf/KailashMansarovaYatraExKathmanduHeli.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+              "url": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+            "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+            "price": "2,86,000",
+            "priceIncludes": [
+              "All transfers as per program",
+              "All accommodation as per itinerary (Kathmandu/Nepalgunj/Taklakot & Darchen based on double/triple sharing)",
+              "Kathmandu - Nepalgunj - Simikot - Nepalgunj - Kathmandu flight",
+              "Chartered helicopter (Simikot-Hilsa both ways)",
+              "All vegetarian meals (B, L, D) as specified",
+              "Luxury coach transport in Tibet",
+              "Nepali team leader, staff, and Tibetan guide",
+              "Chinese Visa, Permits, and Humla fee",
+              "1 Duffel Bag, 1 Day Pack, 1 Jacket",
+              "Oxygen cylinder for medical use (with staff)"
+            ],
+
+            "departureAndReturnLocation": [
+              "GST (Extra)",
+              "Air tickets to/from Kathmandu",
+              "Cost for extra night accommodation",
+              "Horse/Porter during Parikrama (at own cost)",
+              "Evacuation costs and travel insurance",
+              "Expenses of a personal nature",
+              "Visa splitting charge if returning early",
+              "Any service not mentioned",
+              "Tips for Nepali Sherpa/Chinese Team @ CNY 200"
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+            "ItineraryFrom": [
+              "KATHMANDU",
+              "PASHUPATINATH TEMPLE DARSHAN",
+              "FLY TO SIMIKOT & FLY TO HILSA",
+              "TAKLAKOT",
+              "DRIVE TO MANSAROVAR LAKE",
+              "TREK",
+              "TREK",
+              "TREK TO DARCHEN",
+              "DRIVE BACK TO HILSA",
+              "FLY BACK TO KATHMANDU",
+              "DEPARTURE"
+            ],
+            "ItineraryFromTo": [
+              "",
+              "FLY TO NEPALKUNJ",
+              "DRIVE TO TAKLAKOT",
+              "",
+              "",
+              "DIRAPHUK",
+              "ZUTHULPHUK",
+              "DRIVE TO TAKLAKOT",
+              "FLY TO SIMIKOT",
+              "DRIVE TO LUCKNOW FOR DEPARTURE"
+            ],
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/KailashMansarovarYatraExKathmanduHeli.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "KAILASH MANSAROVER YATRA",
+            "locationName": "KAILASH MANSAROVER YATRA",
+            "days": "11 Days",
+            "nights": "10 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath yatra package 5n/6d ex-delhi",
+        "slug": "kedarnath-yatra-package-ex-delhi",
+        "pdfUrl": "/packagePdf/kedarnathEx-delhi.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/kedarnathEx-delhi.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "KEDARNATH YATRA PACKAGE 5N/6D EX-DELHI",
+            "slug": "kedarnath-yatra-package-ex-delhi",
+            "pdfUrl": "/packagePdf/kedarnathEx-delhi.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-yatra-package-ex-delhi",
+            "metakeywords": "Panch Kedar Yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/kedarnathEx-delhi.jpg.jpeg",
+              "url": "/packages/kedarnathEx-delhi.jpg.jpeg",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/hardhamGroupdeparture.jpg.jpeg",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/kedarnathEx-delhi.jpg.jpeg",
+            "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+            "price": "11,000",
+            "priceIncludes": [
+              "Transport as per group size will be provided.",
+              "Two Night Hotel stay In Sitapur/Guptkashi.",
+              "Respective stay at kedarnath.",
+              "Sightseeing as mentioned.",
+              "Meals - 3 Breakfast and 3 Dinner",
+              "Yatra Registeration.",
+              "24*7 support and guidance."
+            ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not Included.",
+              "Any charges related to jeep fare, pony, Helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accomodation /food costs due to any delayed in travel."
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6"],
+            "ItineraryFrom": [
+              "DELHI",
+              "RISHIKESH - DEVPRAYAG - DHARI DEVI",
+              "KEDARNATH YATRA:",
+              "KEDARNATH ",
+              "SITAPUR - CHOPTA - TUNGNATH TREK",
+              "DELHI DROP"
+            ],
+            "ItineraryFromTo": [
+              "OVERNIGHT JOURNEY:",
+              "SITAPUR:",
+              "",
+              "SITAPUR:",
+              "RETURN JOURNEY"
+            ],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "11000",
+                  "triple": "10700",
+                  "four": "9800"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "11800",
+                  "triple": "11300",
+                  "four": "10600"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "12800",
+                  "triple": "12100",
+                  "four": "11500"
+                }
+              ]
+            },
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/kedarnathEx-delhi.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Kedarnath Yatra",
+            "locationName": "Kedarnath Yatra",
+            "days": "6 Days",
+            "nights": "5 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "kedarnath yatra package 3n/4d ex-haridwar",
+        "slug": "kedarnath-yatra-package-ex-haridwar",
+        "pdfUrl": "/packagePdf/kedarnathEx-Haridwar.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "KEDARNATH YATRA PACKAGE 5N/6D EX-HARIDWAR",
+            "slug": "kedarnath-yatra-package-ex-haridwar",
+            "pdfUrl": "/packagePdf/kedarnathEx-Haridwar.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/kedarnath-yatra-package-ex-haridwar",
+            "metakeywords": "kedarnath yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/kedarnathExHaridwar.jpg.jpeg",
+              "url": "/packages/kedarnath-yatra-package-ex-haridwar",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/kedarnath-yatra-package-ex-haridwar",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/kedarnathExHaridwar.jpg.jpeg",
+            "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+            "price": "9.500",
+            "priceIncludes": [
+              "Transport as per group size will be provided.",
+              "Two Night Hotel stay In Sitapur/Guptkashi.",
+              "Respective stay at kedarnath.",
+              "Sightseeing as mentioned.",
+              "Meals - 3 Breakfast and 3 Dinner",
+              "Yatra Registeration.",
+              "24*7 support and guidance."
+            ],
+
+            "departureAndReturnLocation": [
+              "Any additional expenses such as of personal nature.",
+              "Any entry tickets at exploration sites.",
+              "Accomodation & meals at kedarnath temple is not Included.",
+              "Any charges related to jeep fare, pony, Helicopter tickets.",
+              "Any adventure activities.",
+              "Additional accomodation /food costs due to any delayed in travel."
+            ],
+            "Days": ["1", "2", "3", "4"],
+            "ItineraryFrom": [
+              "HARIDWAR",
+              "GUPTKASHI",
+              "KEDARNATH",
+              "GUPTKASHI/SONPRAYAG"
+            ],
+            "ItineraryFromTo": [
+              "GUPTKASHI/SONPRAYAG",
+              "SONPRAYAG -> KEDARNATH",
+              "GUPTKASHI/SONPRAYAG",
+              "HARIDWAR"
+            ],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "9500",
+                  "triple": "8900",
+                  "four": "8500"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "10400",
+                  "triple": "9900",
+                  "four": "9400"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "11400",
+                  "triple": "10800",
+                  "four": "10400"
+                }
+              ]
+            },
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/kedarnathExHaridwar.jpg.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Kedarnath Yatra",
+            "locationName": "Kedarnath Yatra",
+            "days": "6 Days",
+            "nights": "5 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "manali-kasol-solang valley 5n/6d ex-delhi",
+        "slug": "manali-kasol-solang-valley-ex-delhi",
+        "pdfUrl": "/packagePdf/Manalikasol.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/Manalikasol.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "MANALI-KASOL-SOLANG VALLEY",
+            "slug": "manali-kasol-solang-valley-ex-delhi",
+            "pdfUrl": "/packagePdf/Manalikasol.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/manali-kasol-solang-valley-ex-delhi",
+            "metakeywords": "kedarnath yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/Manalikasol.jpeg",
+              "url": "/packages/manali-kasol-solang-valley-ex-delhi",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/manali-kasol-solang-valley-ex-delhi",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/Manalikasol.jpeg",
+            "img": "/packages/Manalikasol.jpeg",
+            "price": "5500",
+            "priceIncludes": [
+              "Travel by tempo traveller",
+              "Hotel(3 Star)",
+              "Camping (Swiss camps)",
+              "Meal (3 breakfast 3 dinner) Dj night",
+              "Bonfire",
+              "Tour Guide",
+              "Sightseeing"
+            ],
+
+            "departureAndReturnLocation": [
+              "All entry tickets",
+              "Personal expenses",
+              "Lunch not include",
+              "All things not mentioned in itinerary"
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6"],
+            "ItineraryFrom": [
+              "DELHI",
+              "MANALI SIGHTSEEING",
+              "SOLANG VALLEY",
+              "KULLU KASOL",
+              "MANIKARAN",
+              "REACH DELHI"
+            ],
+            "ItineraryFromTo": ["MANALI", "", "ATAL TUNNEL", "", "DELHI"],
+            "priceTable": {
+              "exDelhi": [
+                {
+                  "type": "Economy",
+                  "stay": "Dome tent",
+                  "double": "5500",
+                  "triple": "8900",
+                  "four": "8500"
+                },
+                {
+                  "type": "Standard",
+                  "stay": "Swiss tent",
+                  "double": "10400",
+                  "triple": "9900",
+                  "four": "9400"
+                },
+                {
+                  "type": "Deluxe",
+                  "stay": "Room",
+                  "double": "11400",
+                  "triple": "10800",
+                  "four": "10400"
+                }
+              ]
+            },
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/Manalikasol.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/Manalikasol.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/Manalikasol.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Manali - Kasol - Solang Valley",
+            "locationName": "Manali-Kasol-Solang valley",
+            "days": "6 Days",
+            "nights": "5 Days",
+            "totalReview": "550",
+            "ratingStar": "5"
+          }
+        ]
+      },
+      {
+        "id": "mansarovar yatra 8 nights 9 days",
+        "slug": "mansarovar-yatra-eight-nights-nine-days",
+        "pdfUrl": "/packagePdf/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.pdf",
+        "state": "Uttarakhand",
+        "category": "Domestic",
+        "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+        "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+        "packages": [
+          {
+            "_id": "1",
+            "title": "MANSARAOVAR YATRA",
+            "slug": "mansarovar-yatra-eight-nights-nine-days",
+            "pdfUrl": "/packagePdf/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.pdf",
+            "metatitle": "Sikkim Himalayan Adventure | Sikkim Tour Packages",
+            "metadescription": "Discover Sikkim Tour Packages by Travel O Sun. Visit Gangtok, Pelling, and North Sikkim, and enjoy the serene Himalayan beauty with expert guidance.",
+            "metacanonical": "https://www.travelosun.com/packages/mansarovar-yatra-eight-nights-nine-days",
+            "metakeywords": "mansaraovar yatra",
+            "schematype": {
+              "@context": "https://schema.org",
+              "@type": "TouristTrip",
+              "name": "KEDAR BADRI WITH CHOPTA",
+              "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "image": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+              "url": "/packages/mansarovar-yatra-eight-nights-nine-days",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "640"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "Panch Kedar Yatra",
+              "og:description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
+              "og:image": "https://images.unsplash.com/photo-1599474924188-d4e611fd59ef?auto=format&fit=crop&w=1200&q=80",
+              "og:url": "https://www.travelosun.com/packages/mansarovar-yatra-eight-nights-nine-days",
+              "og:type": "website"
+            },
+            "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence. The journey proceeds through Sonprayag and Gaurikund, the sacred gateway to the revered Kedarnath Temple, where Lord Shiva is worshipped in his hump form amid snow-clad peaks.",
+            "coverimg": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+            "price": "",
+            "priceIncludes": [
+              "Traditional welcome on arrival",
+              "01 Night accommodation at Nepalgunj on Double/Twin sharing basis (Star Premium)",
+              "01 Night accommodation at Simikot on sharing basis (Hotels and Guest house)",
+              "01 Night accommodation at Hilsa on sharing basis (Guest house)",
+              "05 Night accommodation in Tibet on sharing basis (Hotels and Guest houses)",
+              "Nepalgunj - Simikot - Nepalgunj flight cost (16 Pax at a time)",
+              "Simikot - Hilsa - Simikot helicopter cost",
+              "Tibet travel Permit & Visa fees",
+              "Humla trekking Permit and fees",
+              "English speaking Tibetan guide for customers formalities",
+              "Nepali Supporting Staff (cook, Sherpa & helper) 5:1 basis",
+              "Buffet vegetarian meals during Yatra on AP basis (Breakfast, Lunch & Dinner)",
+              "Nepali experienced Team Leader/Guide during Yatra",
+              "Mansarovar and Kailash Yatra Permit fees",
+              "Duffel bag for carrying goods during Yatra",
+              "Back pack bag for personal items to carry and Cap",
+              "Warm down Jacket refundable",
+              "First aid medical kit bag & Oxygen cylinder",
+              "Emergency evacuation management during Yatra",
+              "Round trip transportation in Tibet AC Luxury coach",
+              "Arrival and departure transfer with assistance by A/C Vehicle",
+              "All sightseeing and excursions as mentioned in the itinerary",
+              "Kailash Yatra appreciation certificate"
+            ],
+
+            "departureAndReturnLocation": [
+              "Personal expenses and travel Insurance",
+              "Medical expenses and Emergency rescue evacuation expenses",
+              "Horses, Pony and porter during Kailash Parikrama",
+              "Tips for Guide, Porter, driver and personal expenses",
+              "Extra Hotel charges in Nepal side if early return from Tibet",
+              "Any additional cost due to natural calamities and unforeseen circumstances",
+              "Visa splitting charge and extra transportation cost, if returning early from Yatra",
+              "5% GST if you pay in India account"
+            ],
+            "Days": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+            "ItineraryFrom": [
+              "ARRIVAL AT LUCKNOW",
+              "NEPALGUNJ",
+              "SIMIKOT - FLY TO HILSA BY HELI",
+              "ACCLIMATIZATION DAY(3900M)",
+              "PURANG",
+              "MANSAROVAR-DRIVE TO DARCHEN(4600M,58 KM 2Hrs)",
+              "DERAPHUK-DOLMALA PASS(5630M)",
+              "ZURALPHUK -TREK TO DARCHEN(08 KM, 3Hrs)",
+              "HILSA-FLY TO SIMIKOT BY HELI - FLY TO NEPALKUNJ"
+            ],
+            "ItineraryFromTo": [
+              "DRIVE TO NEPALGUNJ(150m)",
+              "FLY TO SIMIKOT(45 Min-2800M)",
+              "DRIVE TO PURANG(3700 M, 35 KM 1.5 Hrs)",
+              "",
+              "MANSAROVAR PARIKRAMA(102 KM 4/5Hrs) BATH, POOJA, HOMA(4550M)",
+              "TREK TO DERAPHUK(4860 M, 12KM)",
+              "TREK TO ZUTALPHUK(4600M, 22KM)",
+              "DRIVE TO HILSA(3500M)",
+              "DRIVE TO LUCKNOW"
+            ],
+            
+            "gallery": [
+              {
+                "id": 1,
+                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "alt": "Kedarnath"
+              },
+              {
+                "id": 2,
+                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "alt": "Haridwar"
+              },
+              {
+                "id": 3,
+                "img": "/packages/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.jpeg",
+                "alt": "Rishikesh"
+              }
+            ],
+
+            "mapLocation": "https://www.google.com/maps?q=Kedarnath+Temple+Uttarakhand&output=embed",
+            "tag": "Manali - Kasol - Solang Valley",
+            "locationName": "Manali-Kasol-Solang valley",
+            "days": "9 Days",
+            "nights": "8 Days",
             "totalReview": "550",
             "ratingStar": "5"
           }

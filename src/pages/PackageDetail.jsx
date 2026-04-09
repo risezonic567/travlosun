@@ -224,74 +224,50 @@ const PackageDetail = () => {
             </div>
 
             {pkg.priceTable && (
-              <div className="mt-6 space-y-6">
-                {/* Prices Ex Delhi */}
-                <div>
-                  <h3 className="text-center font-semibold text-base md:text-lg mb-2">
-                    Prices Ex-Delh
-                  </h3>
+      <div className="mt-6 space-y-6">
+        
+        {/* Is Loop ki madad se aap jitne chahe 'Ex-' tables add kar sakte hain */}
+        {Object.keys(pkg.priceTable).map((locationKey, index) => {
+          
+          // 'exDelhi' ko 'Delhi' mein convert karne ke liye logic
+          // Example: 'exDelhi' -> 'Delhi', 'exHaridwar' -> 'Haridwar'
+          const locationName = locationKey.replace(/^ex/, ""); 
 
-                  <div className="overflow-x-auto">
-                    <table className="w-full border text-xs md:text-sm">
-                      <thead className="bg-gray-100">
-                        <tr>
-                          <th className="border px-2 py-2">Package</th>
-                          <th className="border px-2 py-2">Stay</th>
-                          <th className="border px-2 py-2">Double</th>
-                          <th className="border px-2 py-2">Triple</th>
-                          <th className="border px-2 py-2">Four</th>
-                        </tr>
-                      </thead>
+          return (
+            <div key={index}>
+              <h3 className="text-center font-semibold text-base md:text-lg mb-2">
+                Prices Ex-{locationName} {/* Yahan 'Ex-' fix ho gaya */}
+              </h3>
 
-                      <tbody>
-                        {pkg.priceTable.exDelhi.map((item, i) => (
-                          <tr key={i} className="text-center">
-                            <td className="border px-2 py-2">{item.type}</td>
-                            <td className="border px-2 py-2">{item.stay}</td>
-                            <td className="border px-2 py-2">{item.double}</td>
-                            <td className="border px-2 py-2">{item.triple}</td>
-                            <td className="border px-2 py-2">{item.four}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
-
-                {/* Prices Ex Haridwar */}
-                <div>
-                  <h3 className="text-center font-semibold text-base md:text-lg mb-2">
-                    Prices Ex-Haridwar
-                  </h3>
-
-                  <div className="overflow-x-auto">
-                    <table className="w-full border text-xs md:text-sm">
-                      <thead className="bg-gray-100">
-                        <tr>
-                          <th className="border px-2 py-2">Package</th>
-                          <th className="border px-2 py-2">Stay</th>
-                          <th className="border px-2 py-2">Double</th>
-                          <th className="border px-2 py-2">Triple</th>
-                          <th className="border px-2 py-2">Four</th>
-                        </tr>
-                      </thead>
-
-                      <tbody>
-                        {pkg.priceTable.exHaridwar.map((item, i) => (
-                          <tr key={i} className="text-center">
-                            <td className="border px-2 py-2">{item.type}</td>
-                            <td className="border px-2 py-2">{item.stay}</td>
-                            <td className="border px-2 py-2">{item.double}</td>
-                            <td className="border px-2 py-2">{item.triple}</td>
-                            <td className="border px-2 py-2">{item.four}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
+              <div className="overflow-x-auto">
+                <table className="w-full border text-xs md:text-sm">
+                  <thead className="bg-gray-100">
+                    <tr>
+                      <th className="border px-2 py-2">Package</th>
+                      <th className="border px-2 py-2">Stay</th>
+                      <th className="border px-2 py-2">Double</th>
+                      <th className="border px-2 py-2">Triple</th>
+                      <th className="border px-2 py-2">Four</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {pkg.priceTable[locationKey].map((item, i) => (
+                      <tr key={i} className="text-center">
+                        <td className="border px-2 py-2">{item.type}</td>
+                        <td className="border px-2 py-2">{item.stay}</td>
+                        <td className="border px-2 py-2">{item.double}</td>
+                        <td className="border px-2 py-2">{item.triple}</td>
+                        <td className="border px-2 py-2">{item.four}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
               </div>
-            )}
+            </div>
+          );
+        })}
+      </div>
+    )}
 
             {/* Sidebar - Download PDF Section */}
             <div className="mt-4 border-t pt-2">
@@ -333,9 +309,12 @@ const PackageDetail = () => {
                 Book Now
               </button>
 
-              <button className="w-full mt-3 border border-gray-200 py-2 rounded-md text-sm hover:bg-gray-50 transition">
-                Enquire
-              </button>
+              <Link to="/contact-us">
+                <button className="w-full mt-3 border border-gray-200 py-2 rounded-md text-sm hover:bg-gray-50 transition">
+                  Enquire
+                </button>
+              </Link>
+              
             </div>
 
             <p className="mt-4 text-xs text-gray-500">
@@ -386,3 +365,8 @@ export default PackageDetail;
 //destination.json
 //packagelist
 //destinationDetails
+
+
+
+
+
