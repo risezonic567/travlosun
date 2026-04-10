@@ -99,7 +99,7 @@ export default function DestinationDetail() {
 
           {/* Description */}
           <div className="prose max-w-none text-gray-700">
-            <p>{pkg.description}</p>
+            <p dangerouslySetInnerHTML={{ __html: pkg.description }} />
           </div>
 
           {/* Price Includes / Excludes */}

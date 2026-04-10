@@ -67,9 +67,7 @@ const PackageDetail = () => {
           </div>
 
           {/* Description */}
-          <div className="prose max-w-none text-gray-700">
-            <p>{pkg.description}</p>
-          </div>
+          <p dangerouslySetInnerHTML={{ __html: pkg.description }} />
 
           {/* Price Includes / Excludes */}
           <div className="grid gap-6 sm:grid-cols-2">
@@ -130,14 +128,14 @@ const PackageDetail = () => {
           {/* Itinerary From / To */}
           {/* <div className="text-xl  "> <h1 className="text-black text-center font-semibold text-2xl">Short Itenaries</h1></div> */}
           <div className="pt-10 overflow-x-auto pb-10">
-            {(pkg.Days || pkg.ItineraryFrom ) && (
-            // {(pkg.Days || pkg.ItineraryFrom || pkg.ItineraryFromTo) && (
+            {(pkg.Days || pkg.ItineraryFrom) && (
+              // {(pkg.Days || pkg.ItineraryFrom || pkg.ItineraryFromTo) && (
               <table className="w-full border border-gray-200 rounded-lg overflow-hidden">
                 <thead className="bg-gray-100">
                   <tr>
                     <th className="border px-4 py-2 text-left">Day</th>
                     <th className="border px-4 py-2 text-start">
-                      Itinerary From 
+                      Itinerary From
                     </th>
                     {/* <th className="border px-4 py-2 text-left">
                       Itinerary From To
@@ -153,7 +151,7 @@ const PackageDetail = () => {
                       <td className="border px-4 py-2">
                         {pkg.ItineraryFrom?.[i] || "-"}
                       </td>
-{/* 
+                      {/* 
                       <td className="border px-4 py-2">
                         {pkg.ItineraryFromTo?.[i] || "-"}
                       </td> */}
@@ -225,50 +223,58 @@ const PackageDetail = () => {
             </div>
 
             {pkg.priceTable && (
-      <div className="mt-6 space-y-6">
-        
-        {/* Is Loop ki madad se aap jitne chahe 'Ex-' tables add kar sakte hain */}
-        {Object.keys(pkg.priceTable).map((locationKey, index) => {
-          
-          // 'exDelhi' ko 'Delhi' mein convert karne ke liye logic
-          // Example: 'exDelhi' -> 'Delhi', 'exHaridwar' -> 'Haridwar'
-          const locationName = locationKey.replace(/^ex/, ""); 
+              <div className="mt-6 space-y-6">
+                {/* Is Loop ki madad se aap jitne chahe 'Ex-' tables add kar sakte hain */}
+                {Object.keys(pkg.priceTable).map((locationKey, index) => {
+                  // 'exDelhi' ko 'Delhi' mein convert karne ke liye logic
+                  // Example: 'exDelhi' -> 'Delhi', 'exHaridwar' -> 'Haridwar'
+                  const locationName = locationKey.replace(/^ex/, "");
 
-          return (
-            <div key={index}>
-              <h3 className="text-center font-semibold text-base md:text-lg mb-2">
-                Prices Ex-{locationName} {/* Yahan 'Ex-' fix ho gaya */}
-              </h3>
+                  return (
+                    <div key={index}>
+                      <h3 className="text-center font-semibold text-base md:text-lg mb-2">
+                        Prices Ex-{locationName} {/* Yahan 'Ex-' fix ho gaya */}
+                      </h3>
 
-              <div className="overflow-x-auto">
-                <table className="w-full border text-xs md:text-sm">
-                  <thead className="bg-gray-100">
-                    <tr>
-                      <th className="border px-2 py-2">Package</th>
-                      <th className="border px-2 py-2">Stay</th>
-                      <th className="border px-2 py-2">Double</th>
-                      <th className="border px-2 py-2">Triple</th>
-                      <th className="border px-2 py-2">Four</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {pkg.priceTable[locationKey].map((item, i) => (
-                      <tr key={i} className="text-center">
-                        <td className="border px-2 py-2">{item.type}</td>
-                        <td className="border px-2 py-2">{item.stay}</td>
-                        <td className="border px-2 py-2">{item.double}</td>
-                        <td className="border px-2 py-2">{item.triple}</td>
-                        <td className="border px-2 py-2">{item.four}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
+                      <div className="overflow-x-auto">
+                        <table className="w-full border text-xs md:text-sm">
+                          <thead className="bg-gray-100">
+                            <tr>
+                              <th className="border px-2 py-2">Package</th>
+                              <th className="border px-2 py-2">Stay</th>
+                              <th className="border px-2 py-2">Double</th>
+                              <th className="border px-2 py-2">Triple</th>
+                              <th className="border px-2 py-2">Four</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {pkg.priceTable[locationKey].map((item, i) => (
+                              <tr key={i} className="text-center">
+                                <td className="border px-2 py-2">
+                                  {item.type}
+                                </td>
+                                <td className="border px-2 py-2">
+                                  {item.stay}
+                                </td>
+                                <td className="border px-2 py-2">
+                                  {item.double}
+                                </td>
+                                <td className="border px-2 py-2">
+                                  {item.triple}
+                                </td>
+                                <td className="border px-2 py-2">
+                                  {item.four}
+                                </td>
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
-            </div>
-          );
-        })}
-      </div>
-    )}
+            )}
 
             {/* Sidebar - Download PDF Section */}
             <div className="mt-4 border-t pt-2">
@@ -315,7 +321,6 @@ const PackageDetail = () => {
                   Enquire
                 </button>
               </Link>
-              
             </div>
 
             <p className="mt-4 text-xs text-gray-500">
@@ -366,8 +371,3 @@ export default PackageDetail;
 //destination.json
 //packagelist
 //destinationDetails
-
-
-
-
-

@@ -90,7 +90,7 @@ useEffect(()=>{
                                 <div className="p-4">
                                     <h2 className="text-xl font-semibold mb-2">{pkg.title}</h2>
                                     <p className="text-gray-600 text-sm line-clamp-2 mb-3">
-                                        {pkg.description}
+                                        <p dangerouslySetInnerHTML={{ __html: pkg.description }} />
                                     </p>
                                     <div className="flex justify-between items-center">
                                         <span className="text-blue-600 font-bold">
