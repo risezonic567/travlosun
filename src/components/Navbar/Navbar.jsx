@@ -13,7 +13,8 @@ import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { ChevronDown } from "lucide-react";
 import { useLocation } from "react-router-dom";
-import logo from "../../images/logo/Travel o sun logo png.png"
+// import logo from "../../images/logo/Travel o sun logo png.png"
+import logo from "/Travel o sun logo png.png"
 import { FaCalendar, FaLocationDot } from "react-icons/fa6";
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);

@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-import logo from "../images/logo/Travel o sun logo png.png"
+import logo from "/Travel o sun logo png.png"
 import "../css/footer.css"; // optional custom styles if you want to mimic original look
 
 const instaImages = [
