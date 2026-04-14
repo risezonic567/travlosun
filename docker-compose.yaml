@@ -1,0 +1,29 @@
+# use in production
+
+version: "3.9"
+
+services:
+  frontend:
+    build: .
+    container_name: frontend_con
+    restart: always
+    ports:
+      - "5173:5173"
+
+
+
+# use for developement
+
+# version : "3.9"
+
+# services :
+#   frontend :
+#     build: ../travlosun
+#     container_name : frontend_con
+#     restart: always
+#     ports:
+#       - "5173:5173"
+#     volumes:
+#       - ../travlosun:/app
+#       - /app/node_modules 
+
