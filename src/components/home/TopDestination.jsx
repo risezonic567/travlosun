@@ -12,7 +12,7 @@ export default function TopDestination() {
                         <span className="text-gray-800">Explore</span> Top Holiday Destinations
                     </h2>
                     <p className="sm:text-normal text-lg">
-                        Explore the best holiday destinations of India with our custom domestic tour packages. We offer some of the very best family holiday packages as well as honeymoon destinations in India's most loved travel spots, like the golden beaches of Goa, misty hills of Manali, or peaceful backwaters of Kerala—where your heart wants. Travel O Sun's exclusivity would let you travel to your perfect holiday destination as comfortably as or more affordably than ever!  </p>
+                        Explore the best holidays destination of India with ours custom domestic tour package. We offer some of the very best family holiday packages as well as honeymoon destinations in India's most loved travel spots, like the golden beaches of Goa, misty hills of Manali, or peaceful backwaters of Kerala—where your heart wants. Travel O Sun's exclusivity would let you travel to your perfect holiday destination as comfortably as or more affordably than ever!  </p>
                 </div>
 
                 <div className="max-w-6xl mx-auto px-4 lg:px-0">
