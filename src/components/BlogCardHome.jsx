@@ -14,7 +14,7 @@ export default function BlogCardHome() {
                     <div className="relative text-center my-16 max-w-3xl mx-auto font-serif space-y-4">
                         <h3 className="text-Lightcolor text-2xl font-semibold">Explore India:</h3>
                         <h2 className="text-5xl font-semibold text-primary">
-                            <span className="text-gray-800">Recent</span> Latest Travel Articles & Offers
+                            <span className="text-gray-800">Recent</span> Latests Travel Articles & Offer
                         </h2>
                         <p className="text-xl">
                             Stay inspired with the latest travel tips, destination guides, and tour package insights from Travel O Sun. Discover how to plan affordable getaways, find flight deals, and explore India’s most loved destinations.
