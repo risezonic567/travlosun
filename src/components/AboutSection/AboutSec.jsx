@@ -24,7 +24,7 @@ export default function AboutSec() {
 
                     </p>
                     <p className="text-gray-600 mb-6">
-                        At Travel O Sun, we understand that travel involves more than arriving at a destination; it consists of memory-making along the way to your destination. Whether you are on a family vacation, a couple’s retreat, or a spontaneous adventure, our team will ensure that your next trip is carefully planned, safe, and fun.
+                        At Travel O Sun, we understand that travel involves more than arriving at a destination; it consists of memory-making along the way to your destination. Whether you are on a family vacation, a couple’s retreat, or a spontaneous adventure, our team will ensure that your next trip is carefully planned, safe and fun.
 
                     </p>
 
