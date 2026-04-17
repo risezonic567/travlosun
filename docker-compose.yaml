@@ -1,7 +1,7 @@
 version: "3.9"
 
 services:
-  frontend:
+  Travlofrontend:
     build: .
     container_name: travlo_frontend
     restart: always
