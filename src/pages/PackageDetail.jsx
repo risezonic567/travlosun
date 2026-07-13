@@ -48,7 +48,7 @@ const PackageDetail = () => {
               alt={pkg.title}
               loading="lazy"
               onLoad={() => setMainImgLoaded(true)}
-              className={`w-full h-72 md:h-96 object-cover transition-opacity duration-300 ${
+              className={`w-full h-72 md:h-96  object-cover transition-opacity duration-300 ${
                 mainImgLoaded ? "opacity-100" : "opacity-0"
               }`}
             />

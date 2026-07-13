@@ -7,6 +7,148 @@
     "country": "India",
     "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
     "state": [
+            {
+        "id": "kasol",
+        "slug": "Kasol",
+        "state": "Himachal Pradesh",
+        "image": "/Kasol_Kherganga_package.jpg.jpeg",
+        "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
+        "packages": [
+          {
+            "_id": "17",
+            "title": "KASOL & KHEERGANGA TREK",
+            "slug": "kasol-kheerganga-trek",
+            "metatitle": "",
+            "metadescription": "",
+            "metacanonical": "https://www.travelosun.com/packages/kasol-kheerganga-trek",
+            "metakeywords": "KASOL & KHEERGANGA TREK",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "KASOL & KHEERGANGA TREK",
+              "description": "Discover Kerala’s lush landscapes, serene backwaters, and traditional houseboat experiences.",
+              "image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
+              "url": "https://www.example.com/destinations/kerala-backwater-escape",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": "302"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "",
+              "og:description": "",
+              "og:image": "",
+              "og:url": "",
+              "og:type": "website"
+            },
+            "description": "🌲 Experience the untouched beauty of Parvati Valley with our Kasol & Kheerganga Trek package. Wander through the charming streets of Kasol, relax amidst pine forests, enjoy riverside views, and embark on the famous Kheerganga Trek, known for its breathtaking Himalayan landscapes and natural hot water springs.",
+            "coverimg": "/Kasol_Kherganga_package.jpg.jpeg",
+            "img": "/Kasol_Kherganga_package.jpg.jpeg",
+            "price": "5,199.00",
+            "priceIncludes": [
+              "Delhi–Kasol–Delhi transportation",
+              "Accommodation in Kasol and Kheerganga",
+              "Daily breakfast & dinner",
+              " Kheerganga Trek assistance",
+              "Sightseeing as per itinerary",
+              "Trip coordinator support"
+              
+            ],
+            "departureAndReturnLocation": [
+              "Personal expenses",
+              "Adventure activities",
+              "Lunch and snacks",
+              "Entry fees (if any)",
+              "Travel insurance",
+              "Anything not mentioned under inclusions"
+            ],
+            "gallery": [
+          
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3383.1939690714257!2d77.31172977542674!3d32.00985907399364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39045c4474aa31e9%3A0xf112d2e32b47949d!2sKasol%2C%20Himachal%20Pradesh%20175105!5e0!3m2!1sen!2sin!4v1783947981100!5m2!1sen!2sin",
+            "tag": "Backwater, Nature, Ayurveda",
+            "category": "Domestic",
+            "locationName": "Himachal Pradesh, India",
+            "days": "5 Days",
+            "nights": "4 Nights",
+            "totalReview": "312",
+            "ratingStar": "4.7"
+          }
+        ]
+      }
+      ,
+       {
+        "id": "udaipur",
+        "slug": "Udaipur",
+        "state": "Rajasthan",
+        "image": "/Udipur_package.jpg.jpeg",
+        "description": "Experience God’s Own Country — serene backwaters, lush greenery, and rejuvenating Ayurvedic retreats in Kerala.",
+        "packages": [
+          {
+            "_id": "17",
+            "title": "UDAIPUR – NATHDWARA TOUR PACKAGE",
+            "slug": "udaipur–nathdwara-tour-package",
+            "metatitle": "",
+            "metadescription": "",
+            "metacanonical": "https://www.travelosun.com/packages/udaipur–nathdwara-tour-package",
+            "metakeywords": " Udaipur Tour Packages",
+            "metaschema": {
+              "@context": "https://schema.org",
+              "@type": "TouristDestination",
+              "name": "UDAIPUR – NATHDWARA TOUR PACKAGE",
+              "description": "Discover Kerala’s lush landscapes, serene backwaters, and traditional houseboat experiences.",
+              "image": "https://htmldesigntemplates.com/html/travelin/images/destination/destination18.jpg",
+              "url": "https://www.example.com/destinations/kerala-backwater-escape",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": "302"
+              }
+            },
+            "metaopengraph": {
+              "og:title": "",
+              "og:description": "",
+              "og:image": "",
+              "og:url": "",
+              "og:type": "website"
+            },
+            "description": "Experience the royal charm of Rajasthan with our specially curated Udaipur & Nathdwara tour. Explore magnificent palaces, serene lakes, vibrant local markets, and seek blessings at the sacred Nathdwara Temple while creating unforgettable memories.",
+            "coverimg": "/Udipur_package.jpg.jpeg",
+            "img": "/Udipur_package.jpg.jpeg",
+            "price": "5,499.00",
+            "priceIncludes": [
+              "Delhi – Udaipur – Nathdwara – Delhi transportation",
+              "2 Nights accommodation in Udaipur",
+              "Daily Breakfast (2) & Dinner(2)",
+              "Sightseeing as per itinerary",
+              "Driver allowances, fuel charges & parking",
+              "Tour captain throughout the journey ( if group size is below 12 persons than driver will help as a Trip captain)"
+            ],
+            "departureAndReturnLocation": [
+              "Entry tickets to monuments and attractions",
+              "Boating charges",
+              "Ropeway tickets",
+              "Personal expenses",
+              " Lunch and refreshments",
+              "Camera fees",
+              "Travel insurance",
+              "Anything not mentioned under inclusions"
+            ],
+            "gallery": [
+          
+            ],
+            "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116078.31354750245!2d73.62247032237697!3d24.60826376676111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3967e56550a14411%3A0xdbd8c28455b868b0!2sUdaipur%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1783946628079!5m2!1sen!2sin",
+            "tag": "Backwater, Nature, Ayurveda",
+            "category": "Domestic",
+            "locationName": "Rajasthan, India",
+            "days": "5 Days",
+            "nights": "4 Nights",
+            "totalReview": "312",
+            "ratingStar": "4.7"
+          }
+        ]
+      },
       {
         "id": "kerala",
         "slug": "Kerala",
@@ -95,7 +237,7 @@
         "description": "Explore the turquoise waters, coral reefs, and pristine beaches of the Andaman & Nicobar Islands — India’s tropical gem.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "2",
             "title": "Andaman Island Explorer",
             "slug": "andaman-island-explorer",
             "metatitle": "Andaman island tour package| Travel o sun",
@@ -177,7 +319,7 @@
         "description": "Discover the snow-capped peaks and vibrant cafes of Manali and Kasol — a perfect mix of adventure and serenity.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "3",
             "title": "Manali Kasol Adventure Escape",
             "slug": "manali-kasol-adventure-escape",
             "metatitle": "Adventur Manali Kasol Tour Package | Travel o sun ",
@@ -256,7 +398,7 @@
         "description": "From the meadows of Chopta to the snowfields of Auli and spiritual ghats of Rishikesh — explore Uttarakhand’s best trio.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "4",
             "title": "Chopta Auli Rishikesh Journey",
             "slug": "chopta-auli-rishikesh-journey",
             "metatitle": "Chopta Auli Rishikesh Tour Package | Travel o sun",
@@ -335,7 +477,7 @@
         "description": "Journey through Ladakh’s surreal landscapes — from Leh to the remote village of Turtuk near the Indo-Pak border.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "5",
             "title": "Leh to Leh with Turtuk Village",
             "slug": "leh-to-leh-turtuk-village",
             "metatitle": "Leh Ladakh Turtuk Tour Package | Travel o sun",
@@ -414,7 +556,7 @@
         "description": "A sacred pilgrimage through the Himalayas — visit Kedarnath, Badrinath, and Tungnath on this divine 8-day journey.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "6",
             "title": "Kedarnath Badrinath Tungnath Yatra",
             "slug": "kedarnath-badrinath-tungnath-yatra",
             "metatitle": "Kedarnath Badrinath Tungnath Yatra Package | Travel o sun",
@@ -493,7 +635,7 @@
         "description": "Ride through the rugged terrains and breathtaking landscapes of Spiti Valley on an unforgettable motorbike expedition.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "7",
             "title": "Spiti Valley Bike Ride Expedition",
             "slug": "spiti-valley-bike-ride-expedition",
             "metatitle": "Spiti Valley Bike Trip Package | Travel o sun",
@@ -572,7 +714,7 @@
         "description": "Discover the hidden gem of the Himalayas — Spiti Valley in summer. Experience its unique culture, monasteries, and surreal landscapes.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "8",
             "title": "Spiti Valley Summer Expedition",
             "slug": "spiti-valley-summer-expedition",
             "metatitle": "Spiti Valley Tour Package | Travel o sun",
@@ -651,7 +793,7 @@
         "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "9",
             "title": "Leh Nubra Turtuk Pangong Expedition",
             "slug": "leh-nubra-turtuk-pangong-expedition",
             "metatitle": "Leh Ladakh Tour Package | Travel o sun",
@@ -730,7 +872,7 @@
         "description": "Explore the stunning landscapes of Ladakh — from Leh to Nubra, Turtuk, and Pangong in a 7-day unforgettable expedition.",
         "packages": [
           {
-            "_id": "8",
+            "_id": "10",
             "title": "Sikkim Himalayan Adventure",
             "slug": "sikkim-himalayan-adventure",
             "metatitle": "Himalayan Sikkim Adventure Tour Package | Travel o sun",
@@ -810,7 +952,7 @@
         "description": "Experience divine blessings, reconnect with your inner self, and witness the unmatched beauty of the mountains on this once-in-a-lifetime pilgrimage",
         "packages": [
           {
-            "_id": "1",
+            "_id": "11",
             "title": "Char Dham Yatra",
             "slug": "char-dham-yatra",
             "pdfUrl": "/packagePdf/CHARDHAMBTwoB.pdf",
@@ -892,7 +1034,7 @@
         "description": "(Seven Days packages) you can connect with the natural world and spirituality through experience. The tour includes visiting Kedarnath and Badrinath, both of which have sacred temples, as well as experiencing the serenity of the meadows in Chopta.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "12",
             "title": "Kedarnath Badrinath Chopta Ex-Delhi",
             "slug": "kedarnath-badrinath-chopta-package",
             "pdfUrl": "/packagePdf/KBT-ex-Delhi.pdf",
@@ -987,7 +1129,7 @@
         "description": "Himalayan journey to Kedarnath, Badrinath, and Chopta — where devotion meets divine mountains.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "13",
             "title": "Kedarnath Badrinath Chopta Ex-Haridwar",
             "slug": "kedarnath-badrinath-chopta",
             "pdfUrl": "/packagePdf/kedar-Badri-chopta-ex-Hr.pdf",
@@ -1108,7 +1250,7 @@
         "description": "The divine essence of the Himalayas with a sacred tour covering Kedarnath, Badrinath, and Rishikesh.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "14",
             "title": "Kedarnath Badrinath Rishikesh",
             "slug": "kedarnath-badrinath-rishikesh",
             "pdfUrl": "/packagePdf/kedar-badri-with-rishikesh-ex-delhi.pdf",
@@ -1202,7 +1344,7 @@
         "description": "Set out on a divine Himalayan expedition from Haridwar / Rishikesh, where spirituality meets natural beauty.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "15",
             "title": "Kedarnath",
             "slug": "kedarnath",
             "pdfUrl": "/packagePdf/kedarnathex-Hr.pdf",
@@ -1317,7 +1459,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "16",
             "title": "Panch Kedar Yatra",
             "slug": "panch-kedar-yatra",
             "pdfUrl": "/packagePdf/PanchkedarYatra-.pdf",
@@ -1434,7 +1576,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "17",
             "title": "Char Dham Group Yatra 2026 with special Gujarati, Rajasthani, Punjabi Meals",
             "slug": "char-dham-group-yatra-2026",
             "pdfUrl": "/packagePdf/ChardhamGroupdeparture.pdf",
@@ -1614,7 +1756,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "18",
             "title": "Do Dham With Chopta Yatra Package 7N/8D-Ex Delhi ",
             "slug": "do-dham-yatra-2026",
             "pdfUrl": "/packagePdf/DoDhamwithChoptaExdelhi.pdf",
@@ -1749,7 +1891,7 @@
         "description": "Expert guides will ensure easy access to your divine experience at each location, while transport, accommodation, and meals will all be sorted out. Your journey will take approximately 5-6 days",
         "packages": [
           {
-            "_id": "1",
+            "_id": "19",
             "title": "Do Dham With Chopta Yatra Package 5N/6D-Ex Haridwar",
             "slug": "do-dham-yatra-2026-ex-haridwar",
             "pdfUrl": "/packagePdf/DoDhamwithChoptaExHaridwar.pdf",
@@ -1880,7 +2022,7 @@
         "description": "Take part in our Kailash Mansarovar Yatra through helicopter for a shorter/less strenuous route to worship at Mount Kailash and/or to see Mansarovar Lake using very little trekking while enjoying the beauty of the journey from above. ",
         "packages": [
           {
-            "_id": "1",
+            "_id": "20",
             "title": "Kailash Mansarovar Yatra Via Helicopter Ex-Kathmandu",
             "slug": "kailash-mansarovar-yatra-via-helicopter-ex-kathmandhu",
             "pdfUrl": "/packagePdf/KailashMansarovaYatraExKathmanduHeli.pdf",
@@ -2000,7 +2142,7 @@
         "description": "The Kedarnath Yatra Package also includes the necessary hiking from Gaurikund to Kedarnath (which is one of the main attractions of the Kedarnath Yatra).A smooth and convenient experience for all those who want to visit the Kedarnath (Kedarnath) temple.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "21",
             "title": "Kedarnath Yatra Package 5N/6D Ex-Delhi",
             "slug": "kedarnath-yatra-package-ex-delhi",
             "pdfUrl": "/packagePdf/kedarnathEx-delhi.pdf",
@@ -2129,7 +2271,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "22",
             "title": "Kedarnath Yatra Package 5N/6D Ex-Haridwar",
             "slug": "kedarnath-yatra-package-ex-haridwar",
             "pdfUrl": "/packagePdf/kedarnathEx-Haridwar.pdf",
@@ -2255,7 +2397,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "23",
             "title": "Manali-Kasol-Solang Valley",
             "slug": "manali-kasol-solang-valley-ex-delhi",
             "pdfUrl": "/packagePdf/Manalikasol.pdf",
@@ -2376,7 +2518,7 @@
         "description": "The Panch Kedar Yatra is a profound spiritual journey through the majestic Garhwal Himalayas, beginning from the holy city of Haridwar and leading pilgrims into the heart of Lord Shiva’s divine presence.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "14",
             "title": "Mansarovar Yatra",
             "slug": "mansarovar-yatra-eight-nights-nine-days",
             "pdfUrl": "/packagePdf/MansarovarYatraNightsDaysbyExLucknowByHelicopterRoute.pdf",
@@ -2495,7 +2637,7 @@
         "description": " Char Dham Yatra package from Haridwar, you'll enjoy a comfortable pilgrimage, complete with traditional Gujarati food. The Char Dham Yatra to Yamunotri, Gangotri, Kedarnath and Badrinath will be accompanied by vegetarian and hygienic meals on this journey.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "15",
             "title": "Char Dham Yatra Ex Haridwar With Gujrati Food",
             "slug": "char-dham-yatra-ex-haridwar-with-gujrati-food",
             "pdfUrl": "/packagePdf/Chardham-Ex-Haridwar-Gujrati-Food.pdf",
@@ -2610,7 +2752,7 @@
         "description": "Char Dham Yatra package from Haridwar to visit Yamunotri, Gangotri, Kedarnath, and Badrinath. These four locations are revered as some of the most important Hindu pilgrimage sites in India and have long been associated with Lord Shiva.",
         "packages": [
           {
-            "_id": "1",
+            "_id": "16",
             "title": "Char Dham Yatra Ex Haridwar",
             "slug": "char-dham-yatra-ex-haridwar",
             "pdfUrl": "/packagePdf/ChardhamExHaridwar.pdf",
